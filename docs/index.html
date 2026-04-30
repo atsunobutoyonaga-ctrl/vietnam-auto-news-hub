@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🇻🇳 Vietnam Auto News Hub</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header>
+  <div class="container">
+    <h1 translate="no">🇻🇳 Vietnam Auto News Hub</h1>
+    <div class="subtitle">ベトナム自動車業界ニュース</div>
+    <div class="meta" id="updateMeta">読み込み中...</div>
+  </div>
+</header>
+
+<div class="container">
+  <div class="info-banner">
+    💡 6サイトのRSS + Google News(Mitsubishi強化)を集約。事故・違反系記事は自動除外。
+  </div>
+
+  <div class="controls">
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="🔍 キーワード検索 (Mitsubishi, Xpander, EV...)">
+    </div>
+
+    <div class="filter-row">
+      <span class="filter-label" translate="no">車種:</span>
+      <span class="filter-chip vtype active" data-filter="vtype" data-value="four_wheel">🚗 四輪のみ</span>
+      <span class="filter-chip vtype" data-filter="vtype" data-value="two_wheel">🏍 二輪のみ</span>
+      <span class="filter-chip vtype" data-filter="vtype" data-value="all">すべて</span>
+    </div>
+
+    <div class="filter-row">
+      <span class="filter-label" translate="no">推し:</span>
+      <span class="filter-chip priority active" data-filter="maker" data-value="Mitsubishi" translate="no">⭐ Mitsubishi優先</span>
+    </div>
+
+    <div class="filter-row">
+      <span class="filter-label" translate="no">メーカー:</span>
+      <span class="filter-chip active" data-filter="maker" data-value="all">すべて</span>
+    </div>
+    <div class="filter-row" id="makerFilters" style="padding-left: 60px;"></div>
+
+    <div class="filter-row">
+      <span class="filter-label">カテゴリ:</span>
+      <span class="filter-chip active" data-filter="category" data-value="all">すべて</span>
+      <span class="filter-chip" data-filter="category" data-value="Recall">🔴 リコール</span>
+      <span class="filter-chip" data-filter="category" data-value="EV" translate="no">EV</span>
+      <span class="filter-chip" data-filter="category" data-value="HEV" translate="no">HEV</span>
+      <span class="filter-chip" data-filter="category" data-value="Policy">政策</span>
+      <span class="filter-chip" data-filter="category" data-value="Sales">販売</span>
+      <span class="filter-chip" data-filter="category" data-value="Launch">発表</span>
+    </div>
+
+    <div class="filter-row">
+      <span class="filter-label">表示:</span>
+      <span class="filter-chip active" data-filter="view" data-value="all">すべて</span>
+      <span class="filter-chip" data-filter="view" data-value="favorites">⭐ お気に入り</span>
+      <span class="filter-chip" data-filter="view" data-value="memos">📝 メモあり</span>
+    </div>
+  </div>
+
+  <div class="stats-bar">
+    <span id="resultCount">読み込み中...</span>
+    <span><a href="#" id="exportLink" style="color:#007aff;text-decoration:none;font-size:11px;">📥 メモをエクスポート</a></span>
+  </div>
+
+  <div id="newsList" class="news-list"></div>
+  <button id="loadMoreBtn" class="load-more" style="display:none;">もっと読み込む</button>
+</div>
+
+<script src="js/storage.js"></script>
+<script src="js/filters.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
