@@ -33,12 +33,18 @@ scraper/                    Python スクレイパー
   └── update-news.yml       手動実行ワークフロー
 ```
 
-## 運用: ニュースを最新化する
+## 運用: ニュースの最新化
 
+### 自動更新 (スケジュール実行)
+平日 月-金 の朝7時 (ベトナム時間 / UTC 0:00) に自動で `scraper/main.py` が走り、
+`docs/data/news.json` が更新される。GitHub Pages にも数秒〜1分で反映。
+
+### 手動更新 (任意のタイミング)
 [Actions タブ](https://github.com/atsunobutoyonaga-ctrl/vietnam-auto-news-hub/actions/workflows/update-news.yml)
-→ 「Run workflow」 ボタン → 「Run workflow」(緑)。
+→ 「Run workflow」 → 緑の「Run workflow」ボタン。
+数十秒で完了し、自動コミット&Pages反映される。
 
-数十秒〜数分で完了し、`docs/data/news.json` が自動コミットされ、GitHub Pages に即反映される。
+> 反映後はブラウザでページをリロード(⌘+R)すると新しい記事が見える。
 
 ## ローカル開発
 
