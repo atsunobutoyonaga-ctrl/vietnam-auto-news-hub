@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T23:30:47.504320+00:00",
+  "lastUpdated": "2026-06-24T01:23:43.417899+00:00",
   "totalCount": 405,
   "stats": {
     "totalRaw": 450,
@@ -13,11 +13,13 @@
     "AutoDeal",
     "AutoPro",
     "Automotive Logistics",
+    "Automotive News",
     "Automotive World",
     "Báo Công Luận",
     "Báo Dân Việt",
     "Báo Dân trí",
     "Báo Hà Tĩnh",
+    "Báo Lâm Đồng",
     "Báo Thanh Niên",
     "Báo Thế giới và Việt Nam",
     "Báo Tri thức và Cuộc sống",
@@ -49,7 +51,6 @@
     "Tin tức 24h",
     "Tinxe.vn",
     "Top Gear",
-    "Top Gear Philippines",
     "Tuoi Tre",
     "Tuoi Tre News | The News Gateway to Vietnam",
     "Tuổi Trẻ",
@@ -59,6 +60,7 @@
     "VIR",
     "VOV.VN",
     "Vietnam Economic Times",
+    "Vietnam+ (VietnamPlus)",
     "Vietnam.vn",
     "VietnamBiz",
     "VietnamNet",
@@ -78,6 +80,40 @@
     "vietnamnews.vn"
   ],
   "articles": [
+    {
+      "id": "vnexpress_2edb75b2ba",
+      "source": "VnExpress",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "Bố bị bắt vì để con trai 11 tuổi lái ôtô",
+      "url": "https://vnexpress.net/bo-bi-bat-vi-de-con-trai-11-tuoi-lai-oto-5088965.html",
+      "publishedAt": "Wed, 24 Jun 2026 07:00:00 +0700",
+      "summary": "Chiếc xe điện MG Cyberster mở mui chạy trên đường cao tốc và người trên ôtô cùng chiều dễ dàng ghi lại cảnh một thiếu niên đang cầm lái.",
+      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/06/23/Screenshot20260623155722-17822-9772-6293-1782205132.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=az3XP4w8ZuOMvMVxQydYwA",
+      "vehicleType": "unknown",
+      "makers": [
+        "MG"
+      ],
+      "categories": [
+        "EV"
+      ]
+    },
+    {
+      "id": "vnexpress_c664d8172f",
+      "source": "VnExpress",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "Vì sao xe điện vẫn sạc được dưới trời mưa?",
+      "url": "https://vnexpress.net/vi-sao-xe-dien-van-sac-duoc-duoi-troi-mua-5088920.html",
+      "publishedAt": "Wed, 24 Jun 2026 06:00:00 +0700",
+      "summary": "Hầu hết xe điện và trạm sạc công cộng có nhiều lớp bảo vệ chống nước, giúp quá trình sạc vẫn diễn ra an toàn trong điều kiện trời mưa.",
+      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/06/23/can-ev-cars-be-charged-in-the-4463-4912-1782196371.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=tyjBp-w4TYkEt8H8n7v_xA",
+      "vehicleType": "unknown",
+      "makers": [],
+      "categories": [
+        "EV"
+      ]
+    },
     {
       "id": "vietnamnet_4c8efade8e",
       "source": "VietnamNet",
@@ -403,25 +439,6 @@
       "categories": []
     },
     {
-      "id": "google_news_5d83820613",
-      "source": "Vietnam.vn",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "A closer look at the newly launched 2026 Mitsubishi Outlander PHEV in Southeast Asia.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVUFWc09na3dwTDBsT19qUV9ha0hLQ251VTlpMnJjeHQ3cHN2QmRmYkxINmVJUTlhQTRUc2pGcm9Id1dCVFpGUzJGVnBMdXZtRlRPeWFQV2tVMnQ2RE5KcVNJdF8yYlFITFpGcFVtczNlOThlamplbm5iejdtN3E0c0RwREZSTUxuaG5fdUZQQlpDbUZEd2c?oc=5",
-      "publishedAt": "Tue, 23 Jun 2026 06:30:57 GMT",
-      "summary": "A closer look at the newly launched 2026 Mitsubishi Outlander PHEV in Southeast Asia. Vietnam.vn",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": [
-        "EV",
-        "HEV"
-      ]
-    },
-    {
       "id": "google_news_862f59de4f",
       "source": "Báo Thế giới và Việt Nam",
       "sourceCategory": "googlenews",
@@ -534,23 +551,6 @@
       "categories": []
     },
     {
-      "id": "google_news_e1e5a50e5e",
-      "source": "Vietnam.vn",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Brukte 7-seters biler for rundt 350 millioner VND: Dette er bedre valg enn Toyota Innova og Mitsubishi Xpander.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN0RFSmZXNzk4c0poaTF2WFlXZHdtVUFYUGZ2RnUyX1JpY0N5N3RxeEN3TENOeVduaGJ4U090TWNqVk1MSTY4ZTl3MWNQZWVsTmpVZm5oS3hNMmRrWlMtR2NTTFBOWWs1TXBKb3c2U0FOc3ZVYVFrcTBEY0prT1FPZHhHNjlnQk5RMHo5T19tQ1FBLXJ4RFJyNUhlc3g5SlB5clU2U1phcnM2b2UzdE51WHUwbHczZ2VoZ3ZhaHZkbw?oc=5",
-      "publishedAt": "Tue, 23 Jun 2026 03:06:27 GMT",
-      "summary": "Brukte 7-seters biler for rundt 350 millioner VND: Dette er bedre valg enn Toyota Innova og Mitsubishi Xpander. Vietnam.vn",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi",
-        "Toyota"
-      ],
-      "categories": []
-    },
-    {
       "id": "google_news_bfffbd4335",
       "source": "Techz.vn",
       "sourceCategory": "googlenews",
@@ -600,26 +600,6 @@
         "Toyota"
       ],
       "categories": []
-    },
-    {
-      "id": "google_news_5e65fcecbe",
-      "source": "Docnhanh.vn",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Nissan NV200 thế hệ mới lộ diện: MPV gia đình cùng cỡ Mitsubishi Xpander, trang bị công nghệ PHEV",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUUJEb0ptUUVabldoV0hyMzJiUVhOYS1tR2lURzlVWnkwV0RpeW96cjlHSU1nNXdhYXBZRXlBMnZoQl91dnhpamdwMkh6X3JqOURWMnU4eHZBUUhiS1JEalNKNHN4a1NKekVBNWRhV0hVeGE3UEdzMjgtMWdadFphX285d0dkLVpsOHlPTTBZemVhalpLckxqeU96RFczeUlLWFl0dElQMkJJeXUzTkthQUV3a19zazNOeVdZeDNCLTZxNHFycXVfZVhMWWdhQXZxRTJVaEJ2RQ?oc=5",
-      "publishedAt": "Tue, 23 Jun 2026 02:00:00 GMT",
-      "summary": "Nissan NV200 thế hệ mới lộ diện: MPV gia đình cùng cỡ Mitsubishi Xpander, trang bị công nghệ PHEV Docnhanh.vn",
-      "thumbnail": "",
-      "vehicleType": "four_wheel",
-      "makers": [
-        "Mitsubishi",
-        "Nissan"
-      ],
-      "categories": [
-        "EV",
-        "HEV"
-      ]
     },
     {
       "id": "dan_tri_56dbb07e72",
@@ -2183,6 +2163,23 @@
       ]
     },
     {
+      "id": "google_news_aeceeb1806",
+      "source": "CafeAuto.Vn",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Toyota Veloz Cross 2026: Liều thuốc hạ bệ Xpander?",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUmJnZ2k2SnNtVnFscGZrQXE2TzRtbWVMUUNKNFZqU1hGanFsUExMeXZRN3pjR3ZiTW5LbnZWcnhZWWxfbHhvdHhyeXpCbHQ1bndFUHJ2dzdyc1VEMlg2LVVPbWFzUi1YUXVBN3g3aEo2QVlzbUxTTXdhNW1QaXFHTFVnWE9ORWxsSkVGRQ?oc=5",
+      "publishedAt": "Fri, 19 Jun 2026 08:03:01 GMT",
+      "summary": "Toyota Veloz Cross 2026: Liều thuốc hạ bệ Xpander? CafeAuto.Vn",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi",
+        "Toyota"
+      ],
+      "categories": []
+    },
+    {
       "id": "thanh_nien_5409915c2e",
       "source": "Thanh Nien",
       "sourceCategory": "general",
@@ -2793,20 +2790,6 @@
       ]
     },
     {
-      "id": "vnexpress_7904370ec6",
-      "source": "VnExpress",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Giải pháp lắp ghế an toàn trên xe 5 chỗ với nhà đông con",
-      "url": "https://vnexpress.net/giai-phap-lap-ghe-an-toan-tren-xe-5-cho-voi-nha-dong-con-5086753.html",
-      "publishedAt": "Thu, 18 Jun 2026 10:47:22 +0700",
-      "summary": "Với gia đình có ba con nhỏ, xe 5 chỗ vẫn có thể đáp ứng nhu cầu nếu bố trí hợp lý ghế trẻ em, booster và vị trí ngồi.",
-      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/06/17/679edb5fdac5bde6d97acdbe-multi-9551-5676-1781684423.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=NGq_bKeSV1XM6UAENOtr7Q",
-      "vehicleType": "unknown",
-      "makers": [],
-      "categories": []
-    },
-    {
       "id": "vietnamnet_cdc1f6e0c5",
       "source": "VietnamNet",
       "sourceCategory": "general",
@@ -2822,22 +2805,6 @@
         "BMW"
       ],
       "categories": []
-    },
-    {
-      "id": "vnexpress_2ee44ead64",
-      "source": "VnExpress",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Xe máy lao vào gầm xe tải đang qua giao lộ",
-      "url": "https://vnexpress.net/xe-may-lao-vao-gam-xe-tai-dang-qua-giao-lo-5087030.html",
-      "publishedAt": "Thu, 18 Jun 2026 09:25:14 +0700",
-      "summary": "Ở hướng vuông góc, một người đi xe điện cứ thế lao thẳng vào gầm bên hông xe tải hôm 17/6 tại đường Hùng Vương.",
-      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/06/18/screenshot20260618at110844vnex-9794-8711-1781755757.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=zq-ikG5qkvjtqqHJYyDW6g",
-      "vehicleType": "two_wheel",
-      "makers": [],
-      "categories": [
-        "EV"
-      ]
     },
     {
       "id": "vnexpress_c530516cb6",
@@ -3589,6 +3556,22 @@
       ]
     },
     {
+      "id": "google_news_3be750c7ba",
+      "source": "Vietnam.vn",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "GAC GS3 Emzoom sắp về Việt Nam, có gì để \"đấu\" Mitsubishi Xforce?",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNjc5aE5ab3lkOWdlM2VNM2dxSnZCSDB4eU9LdDREekRoZUwzUjMzOHIzV2FmbVd3aWJpaE03OTEzbS02VU5DYTg5ZGE2VE9WbjZSa1BWYUoyaXlyMGpRYlZpN3N3OWlNOXRTSEpKc0txdEZGd29UMGo3akp2dFRrNWV4UC0tQ1h1M00wOQ?oc=5",
+      "publishedAt": "Sat, 13 Jun 2026 02:12:50 GMT",
+      "summary": "GAC GS3 Emzoom sắp về Việt Nam, có gì để \"đấu\" Mitsubishi Xforce? Vietnam.vn",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": []
+    },
+    {
       "id": "google_news_b94bf398a3",
       "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
@@ -3662,6 +3645,22 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeE1qYmlsdlpiNm9MVFB5eHN2RzhvbzFZbVhpRHJEUmZHbFdlVUtwdUdoZ1o1cE9PeUcydWhnR1lGSjRRd2hFSXNUZVl6cDFqaDMySkNRUE9aNnBGNElRc2ZkS2ZWdk9CSmk2dkhkMFN0WUt4RzhCUjA0OVJVMEs0dDhRa29FUl93Y1JHVEowc01yeWlmTWN5bExJbnJTVjVWVTA3Z3ZSNWRUVWNCUlpEUlhFQjh6SXViSTVKMw?oc=5",
       "publishedAt": "Mon, 08 Jun 2026 07:00:00 GMT",
       "summary": "Mitsubishi Attrage 2026: Cập nhật giá lăn bánh và ưu đãi gần 50 triệu đồng tháng 6/2026 Báo Hà Tĩnh",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": []
+    },
+    {
+      "id": "google_news_30391d0278",
+      "source": "Báo Lâm Đồng",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mitsubishi Attrage 2026: Chi tiết giá lăn bánh và ưu đãi gần 49 triệu đồng trong tháng 6/2026",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTjFqM1J4QU5YbGdLQ01PcXhOMmJiVUZLU3FpbUd4S0J5bkpiOW9ReWppelB0Rk1ERHgtcGJpN3hjSWRlZ01EcER3cGJoY1M0bjF2VjZ6eFRuQVRpWnNIQlVndUpuZS15VnBsbDBFQjUyMWVYOEZ5cHNkVmZOeFVCbnA2SW9xcVlYMF95MUZaU0k0UEJKeFgyOUVRc0hwOTV6c3JJUVlVXzN5NldjRFMtQk12dFpOY0NIVGRXaUdVNzJLXzA?oc=5",
+      "publishedAt": "Mon, 08 Jun 2026 07:00:00 GMT",
+      "summary": "Mitsubishi Attrage 2026: Chi tiết giá lăn bánh và ưu đãi gần 49 triệu đồng trong tháng 6/2026 Báo Lâm Đồng",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4158,6 +4157,22 @@
         "Mitsubishi"
       ],
       "categories": []
+    },
+    {
+      "id": "google_news_29a40d668d",
+      "source": "Vietnam+ (VietnamPlus)",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Hybrid vehicle sales in Vietnam surge by 86%",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOUMtVWI3SWo5NUVuQmJoTDhFT0FsVnBxdWlvMjlVeHVTdEI0eFVYLUVpaXZvMExYRWlZSllkdVI0RTB6bXdZQmhsSFk2UkxjaUNoY0JnNVNjUkJTRnM5VjZDQmpLTGpOeVptNEt1eGNZR1lFbFR6alRNaXlSMU5ka0liTmExbG1ET3VWcw?oc=5",
+      "publishedAt": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Hybrid vehicle sales in Vietnam surge by 86% Vietnam+ (VietnamPlus)",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [],
+      "categories": [
+        "HEV"
+      ]
     },
     {
       "id": "google_news_a15726bb23",
@@ -5097,24 +5112,6 @@
       "categories": []
     },
     {
-      "id": "google_news_be29f6234c",
-      "source": "ASEAN United FC",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "ASEAN Mitsubishi Electric Cup™ Final 2nd Leg - Preview: Thailand vs Vietnam",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc2dpSng5NkxhV0FENEpJYks1YUVKTl9oSm90bGJvMWIwSHRGZzVOZXdVY2V1ZHZqZk54SEg4VFBKeGJCSFdlajNQX3ZXNFFIaWhYeDlpWWNKcDJEMUpjUl9wUGlGN2p1SW9iQjhwUm1BM3VjdlVEXzRfQkpWeXVNQkItX1ZlbFNkSjlBOWtRTHlvbHhrSm1Zag?oc=5",
-      "publishedAt": "Sat, 04 Jan 2025 08:00:00 GMT",
-      "summary": "ASEAN Mitsubishi Electric Cup™ Final 2nd Leg - Preview: Thailand vs Vietnam ASEAN United FC",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": [
-        "EV"
-      ]
-    },
-    {
       "id": "autopro_629d6ab0a0",
       "source": "AutoPro",
       "sourceCategory": "specialty",
@@ -5283,22 +5280,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGFpM2dGbFdyb0EtUDlsQzVVYmZfVV96YXRKb3pIblAzQnFSNmdQSTBhNzl3VmRsN1NaWWpHcVNFRGw4NGI5MzNmc1NGSV80SUZnR09rQkw1N2VPTWtzN29ZVDJtQnRqZGJ6aEF4UE0xSzhHZjBNUksxNTZuY0ItNTdTVFFHdEU3T2xFYnRwSHJrb0xiR1ZF?oc=5",
       "publishedAt": "Mon, 01 Apr 2024 07:00:00 GMT",
       "summary": "Mitsubishi restructures real estate investments in Vietnam Theinvestor",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": []
-    },
-    {
-      "id": "google_news_f87919c6ad",
-      "source": "Top Gear Philippines",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Left-hand drive Mitsubishi XForce debuts in Vietnam. Is PH next?",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQanhubXFSTEpzY3NpSTRlZE5hdDdoTlVnMnZ4VG5GTktCNDl4aFJiSjRQOW9ZNWVJeEdJN25fX01JYm9MSklZTmVibXZsc0NlMXRWQ21aZ2ZyZkdmel9nUklHRGxBN1BNclZpbHhJN09yd2VyNTBJRWdWN193M1pIUDNDdw?oc=5",
-      "publishedAt": "Wed, 17 Jan 2024 08:00:00 GMT",
-      "summary": "Left-hand drive Mitsubishi XForce debuts in Vietnam. Is PH next? Top Gear Philippines",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -5497,6 +5478,22 @@
       "categories": [
         "Launch"
       ]
+    },
+    {
+      "id": "google_news_f38d1fc683",
+      "source": "Automotive News",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Kenji Harada named new CEO of Mitsubishi Motor Sales of Canada",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVRDT3pfZm5OVHJxVXU3QnNSdW9BMzZsZ05vbkFKcmpWckV4TDRvM1ZmOVl1bldVRC1wU0FwOUF3MkZ4eGtvbDJQOUVvcGwweWxrVzZsMWphVTBFNlFRTXdZU253R09fczVlSEt0YS1pSzYyZzgzajh6NHdKR2pmUkRSczlpWThnZERoT0M0aDJTWFN0M1VYcw?oc=5",
+      "publishedAt": "Thu, 24 Jun 2021 07:00:00 GMT",
+      "summary": "Kenji Harada named new CEO of Mitsubishi Motor Sales of Canada Automotive News",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": []
     },
     {
       "id": "autopro_abe5326a72",
