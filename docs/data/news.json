@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-06-30T23:30:53.235112+00:00",
-  "totalCount": 412,
+  "lastUpdated": "2026-07-01T01:38:45.552739+00:00",
+  "totalCount": 411,
   "stats": {
     "totalRaw": 450,
-    "excluded": 30,
-    "afterDedup": 412
+    "excluded": 31,
+    "afterDedup": 411
   },
   "sources": [
     "Asia Business Outlook",
@@ -68,6 +68,7 @@
     "Xedoisong.vn",
     "Znews",
     "auto5.vn",
+    "autoevolution",
     "autopro.com.vn",
     "bnews.vn",
     "mitsubishi-motors.com",
@@ -1535,23 +1536,6 @@
       "categories": []
     },
     {
-      "id": "google_news_bf9ca2b409",
-      "source": "Vietnam.vn",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Vì sao Hyundai Tucson tiếp tục giảm 100 triệu, rẻ ngang Mitsubishi Xforce?",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZkVUcm9qajRxSExOOTJVQmo1UHlRVnFWZ2YzeGdKc0oxR0xWb3ZGN1Jvbm9JRllUay1od2xZeXRnazBPS3dNX1NOMXJ4Ymx1bkJkTDR2LXlHWXUwbmN3bEpXM2dvQmtOUjhrNmtFRHJFb21VZmtFdlloMHhaODdBNjBrekRiejRLOFFjbDFSaGUtSUgxdnpqVENRTQ?oc=5",
-      "publishedAt": "Sun, 28 Jun 2026 23:36:16 GMT",
-      "summary": "Vì sao Hyundai Tucson tiếp tục giảm 100 triệu, rẻ ngang Mitsubishi Xforce? Vietnam.vn",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi",
-        "Hyundai"
-      ],
-      "categories": []
-    },
-    {
       "id": "vietnamnet_946993de04",
       "source": "VietnamNet",
       "sourceCategory": "general",
@@ -2524,20 +2508,6 @@
       "categories": [
         "EV"
       ]
-    },
-    {
-      "id": "vnexpress_3ac9429dfc",
-      "source": "VnExpress",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Xe máy cố cược mạng sống trước đầu xe container",
-      "url": "https://vnexpress.net/xe-may-co-cuoc-mang-song-truoc-dau-xe-container-5089985.html",
-      "publishedAt": "Fri, 26 Jun 2026 08:35:22 +0700",
-      "summary": "Tài xế xe container chầm chậm chuyển hướng gần hết đường vẫn bị một xe máy cố vượt qua đầu, hôm 24/6 tại Đông Anh.",
-      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/06/26/screenshot20260626at103628vnex-2368-2880-1782445027.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=U3ezDB6pQ-bggy9UPfLz5A",
-      "vehicleType": "two_wheel",
-      "makers": [],
-      "categories": []
     },
     {
       "id": "thanh_nien_29b9889e4b",
@@ -4700,6 +4670,24 @@
       ]
     },
     {
+      "id": "google_news_3a9fd5110c",
+      "source": "VnExpress",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mitsubishi Xpander bán chạy nhất phân khúc năm thứ 7 liên tiếp",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSmJVUlJzYlVpNDBjSkZoVkp2RFNiRGRUR3RtcjNiUF9wdDZJWk90M1RjY2l6Q1ZJSU9hSGIwQUNpeDZ5V0pLUnRMTWlGOC1yaHlvZDNoTkI4b250d1FFZFJhNTRfN2ZGbnFWSnF1dVRzUFZRN3R5cmFCb2Z5ZS1LRlNXQ0RPV0tIcTQxNms5OVljMEthUXZfNk1ndlYwdw?oc=5",
+      "publishedAt": "Tue, 13 Jan 2026 08:00:00 GMT",
+      "summary": "Mitsubishi Xpander bán chạy nhất phân khúc năm thứ 7 liên tiếp VnExpress",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": [
+        "Sales"
+      ]
+    },
+    {
       "id": "google_news_176dd1ab55",
       "source": "Công Luận",
       "sourceCategory": "googlenews",
@@ -5146,22 +5134,6 @@
       ]
     },
     {
-      "id": "google_news_defd3a6003",
-      "source": "Theinvestor",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Work begins on Mitsubishi Estate’s $55 mln logistics facility in northern Vietnam",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTjJBem8yZndFX3dqeUJKQmpYQzVWdTZ2Wk5qRkxwcTVSRDhxMkVTRDhwZjlrZWhlZkJ3RlNLVG9GaUpUYzhnam1UMGgyOXFNN3J5LVhhZldYZW5OZW9RUnBueGNKcmtVa2FqbGp3VFUtMFdpXzN2X0MtNFp4aFlRT05nVmhTRVdtVTlVUHZ2bG1WWXRaVjZaSXk5MlFoTTFBQnp0eGl1cHR0a0dtUy0zdGZqSGw?oc=5",
-      "publishedAt": "Wed, 20 Nov 2024 08:00:00 GMT",
-      "summary": "Work begins on Mitsubishi Estate’s $55 mln logistics facility in northern Vietnam Theinvestor",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": []
-    },
-    {
       "id": "google_news_2771e06e00",
       "source": "Best Selling Cars Blog",
       "sourceCategory": "googlenews",
@@ -5195,6 +5167,22 @@
       "categories": []
     },
     {
+      "id": "google_news_22602590f9",
+      "source": "Theinvestor",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mitsubishi Estate’s logistics brand to make overseas debut with $90 mln project in Vietnam",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWFzWEp1eU5rNVM5MHZqcXM3ZTNzVlBVOVkxRjBTMU1xVzVmWjdEVEwxOHFlb3VtUjctTVhGeFpadGpZZXpOdWUwMF9SU1BrcEJLalQxT1d4ZVpOcGFCME5iTEVpTWhsUlQ2d09IUllNYVJ6OTV3bEU0UzNidXdnVzZaeWhGWE9mTUZqRGZwVDhUMWhSV3dSb0NhWWFXR0dmS3RLVTFyZUF2MFdfbXJ5ZVVCTGFyMXFzUW1lc1R4dlk?oc=5",
+      "publishedAt": "Tue, 22 Oct 2024 07:00:00 GMT",
+      "summary": "Mitsubishi Estate’s logistics brand to make overseas debut with $90 mln project in Vietnam Theinvestor",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": []
+    },
+    {
       "id": "google_news_dc8cf71dd4",
       "source": "mitsubishi-motors.com",
       "sourceCategory": "googlenews",
@@ -5219,22 +5207,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXU2UHVVNGFYNE5XR2p3eG1CenpQY2tlYlRrTG1QeGM4OElPMHBCRjhKd2xMTUw3ak5EcjA4aXM0dm1NQUF3R0FLVExRVkJoVFVEeG1ZekU2OC0wQWpEN0pob09TSjB3akJ1UFYzOXhTT04yb0FKSktyejk0OHN2cUFkZ3J3ZEdxb0JoS3d0bTFYci1qU3ZpZi13ZERxWG1qdzVSVURNekxRMUw0LWNZaGlBTmJrT2h5cUtyMXVjRQ?oc=5",
       "publishedAt": "Wed, 31 Jul 2024 07:00:00 GMT",
       "summary": "Mitsubishi Estate expects to expand investment in the Vietnamese market VnExpress International",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": []
-    },
-    {
-      "id": "google_news_1ea124a997",
-      "source": "Theinvestor",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Mitsubishi-KEPCO invested central Vietnam thermal power plant set to beat schedule",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZjl5bDFpR1lBQ3hLRjV0dVJ0QW13STBiNmhKV2E2MmtHQ1I0Z1ZsM3k0QmNIODV1dTk5WGp1anVtcGlJQ0IwUlJZYTcyNks3Y3FrT1hzcVM2R3J6am5sSG85OF9xaEl5d2F6dEp1ZHFjdlNWOHFGbUZHaEpGR2Y4UTlBUkhFSmRWbmVCU2dpcDBob3Nnc1MxcjFxX0VxeHNzT2NwU1F6R2lBc2hRV1NMb0RTZU9vWm8z?oc=5",
-      "publishedAt": "Tue, 18 Jun 2024 07:00:00 GMT",
-      "summary": "Mitsubishi-KEPCO invested central Vietnam thermal power plant set to beat schedule Theinvestor",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -5431,6 +5403,24 @@
         "Mitsubishi"
       ],
       "categories": []
+    },
+    {
+      "id": "google_news_c6aad27bea",
+      "source": "autoevolution",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mitsubishi Gets Back Under the Spotlight With Fresh XFC Concept",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWFpY2t5bGQzSlJwQ1VUQkZvWmhCdGVrUUh1NkJvNEd5T1pJZFpsRjFMelJ2aW83Tl9yZ25zV04xelMtTFhLTFRSdmtkTVRfeDZDWEJ5TlZ2ME5DTUdsc0RFRTItbkVlQ3VpV0M3SVB1VG1PUEVoWnJsTnFMRVZKMW1XamtBY2RPSWY3Mno1YlN6S0VteklCYjV1aTl2QVFhdXdEUVU1amtfZzdwd2I0?oc=5",
+      "publishedAt": "Wed, 19 Oct 2022 07:00:00 GMT",
+      "summary": "Mitsubishi Gets Back Under the Spotlight With Fresh XFC Concept autoevolution",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": [
+        "EV"
+      ]
     },
     {
       "id": "google_news_0b9271460d",
@@ -5972,6 +5962,36 @@
       "makers": [
         "Honda"
       ],
+      "categories": []
+    },
+    {
+      "id": "tuoi_tre_f0a5090a3e",
+      "source": "Tuoi Tre",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "Xe máy Honda tăng cường dùng vật liệu tái chế, áp dụng cho cả xe tay ga sản xuất ở Việt Nam",
+      "url": "https://tuoitre.vn/xe-may-honda-tang-cuong-dung-vat-lieu-tai-che-ap-dung-cho-ca-xe-tay-ga-san-xuat-o-viet-nam-100260701000334417.htm",
+      "publishedAt": "7/1/2026 6:30:00 AM",
+      "summary": "Honda đang mở rộng việc sử dụng vật liệu tái chế trên nhiều mẫu xe máy, từ nhựa tái chế làm thùng chứa đồ, kính chắn gió đến vành nhôm, nhằm giảm phát thải carbon và thúc đẩy mục tiêu sản xuất bền vữn",
+      "thumbnail": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/6/30/honda-super-cub-4-1782838920327689969090-647-0-1181-854-crop-17828389259551927824135.jpeg",
+      "vehicleType": "two_wheel",
+      "makers": [
+        "Honda"
+      ],
+      "categories": []
+    },
+    {
+      "id": "tuoi_tre_001344e410",
+      "source": "Tuoi Tre",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "Xe buýt TP.HCM miễn phí từ hôm nay: 'Tiết kiệm được thêm mớ tiền, sướng ghê'",
+      "url": "https://tuoitre.vn/xe-buyt-tphcm-mien-phi-tu-hom-nay-nha-cho-moi-xe-sach-xanh-san-sang-don-khach-100260630204212032.htm",
+      "publishedAt": "7/1/2026 6:28:00 AM",
+      "summary": "Từ hôm nay 1-7, người dân ở TP.HCM được đi miễn phí 134 tuyến xe buýt. Thành phố đã bố trí xe dự phòng, nâng cấp nhà chờ và giám sát chặt để phục vụ người dân.",
+      "thumbnail": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/6/30/2aoboqhgnnjeppc1nvx6mwtptmlcibsjfeznu2xq-17828622167471073788498-332-319-1709-2523-crop-1782862587236601359851.jpg",
+      "vehicleType": "unknown",
+      "makers": [],
       "categories": []
     },
     {
@@ -6671,37 +6691,6 @@
       "categories": [
         "HEV"
       ]
-    },
-    {
-      "id": "tuoi_tre_f9006d8c83",
-      "source": "Tuoi Tre",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "'Xe đầu kéo điện chỉ tốn 5.000 đồng/km, hiển thị mọi thứ trên hệ thống'",
-      "url": "https://tuoitre.vn/xe-dau-keo-dien-chi-ton-5000-dong-km-hien-thi-moi-thu-tren-he-thong-100260624021101496.htm",
-      "publishedAt": "6/24/2026 8:27:00 AM",
-      "summary": "Sự xuất hiện của xe đầu kéo điện đang tạo ra nhiều ý kiến khác nhau trong ngành logistics.",
-      "thumbnail": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/6/24/dsc2863-hdr145524-1-1782193126480585451593-1782241265452-1782241267234533636448-66-0-1055-1583-crop-1782263288167145317485.png",
-      "vehicleType": "unknown",
-      "makers": [],
-      "categories": []
-    },
-    {
-      "id": "tuoi_tre_ef9cbc40e4",
-      "source": "Tuoi Tre",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Toyota và Nissan cảnh báo bất ngờ về xe nhập Mỹ",
-      "url": "https://tuoitre.vn/toyota-va-nissan-canh-bao-bat-ngo-ve-xe-nhap-my-100260623183442151.htm",
-      "publishedAt": "6/24/2026 7:05:00 AM",
-      "summary": "Khi đưa các mẫu xe sản xuất tại Mỹ về bán ở quê nhà, Toyota và Nissan đã phát đi những cảnh báo hiếm thấy về chất lượng hoàn thiện, cho biết khách hàng có thể bắt gặp lỗi sơn hoặc sai lệch nhỏ trong l",
-      "thumbnail": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/6/23/toyota-ava-1782214322117202229027-0-29-576-951-crop-17822143278471080073935.jpg",
-      "vehicleType": "unknown",
-      "makers": [
-        "Toyota",
-        "Nissan"
-      ],
-      "categories": []
     }
   ]
 }
