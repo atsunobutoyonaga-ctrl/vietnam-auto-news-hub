@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-07-07T23:31:09.782053+00:00",
-  "totalCount": 408,
+  "lastUpdated": "2026-07-08T00:58:07.614160+00:00",
+  "totalCount": 407,
   "stats": {
     "totalRaw": 450,
     "excluded": 30,
-    "afterDedup": 408
+    "afterDedup": 407
   },
   "sources": [
     "ANTARA News",
@@ -69,6 +69,7 @@
     "Xedoisong.vn",
     "Znews",
     "autopro.com.vn",
+    "baohaiphong.vn",
     "baonghean.vn",
     "bnews.vn",
     "diendandoanhnghiep.vn",
@@ -82,6 +83,43 @@
     "xehay.vn"
   ],
   "articles": [
+    {
+      "id": "vnexpress_07233a36c5",
+      "source": "VnExpress",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "Bentley công bố tên gọi mẫu xe điện đầu tiên: Torcal",
+      "url": "https://vnexpress.net/bentley-cong-bo-ten-goi-mau-xe-dien-dau-tien-torcal-5094575.html",
+      "publishedAt": "Wed, 08 Jul 2026 07:00:00 +0700",
+      "summary": "Mẫu xe điện mới cùng nền tảng với Porsche Cayenne Electric, kích thước nhỏ hơn Bentayga, ra mắt vào cuối tháng 9.",
+      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/07/07/BentleyTorcal2-1783411946-2313-1783412943.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yVzM-rMyeqJCo7Iig2fNkg",
+      "vehicleType": "unknown",
+      "makers": [
+        "Porsche"
+      ],
+      "categories": [
+        "EV",
+        "Launch"
+      ]
+    },
+    {
+      "id": "google_news_1db19e6ee9",
+      "source": "baohaiphong.vn",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Triệu hồi hơn 5.000 xe Mitsubishi tại Việt Nam",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkRlSS1pQVV1bnM0QnlkanlFR0pXWlY4TXZkNHJDWEo3TVd6SDdVR3I5dkxOdUZaaHY4MzdKd000WWREOTVONkdWd0hNcjFaTzZMdE13ZF9qd3pSNkYxSE1ickQ5Nk5uV0hxeTR4YWVobWVfb2hNMC1wbU9nb3FpTTFhQnhlUW1k?oc=5",
+      "publishedAt": "Tue, 07 Jul 2026 23:56:01 GMT",
+      "summary": "Triệu hồi hơn 5.000 xe Mitsubishi tại Việt Nam baohaiphong.vn",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": [
+        "Recall"
+      ]
+    },
     {
       "id": "vnexpress_46e766aab0",
       "source": "VnExpress",
@@ -143,6 +181,24 @@
       "categories": []
     },
     {
+      "id": "google_news_4442848bf6",
+      "source": "Báo Hà Tĩnh",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mitsubishi Xpander bị triệu hồi tại Việt Nam do lỗi tựa lưng hàng ghế thứ hai",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1lsLWV3Ml9kdERCTmtsbzVWOGwtaVA5V3VVRkx6bUpJaXlQTjFaSmk1a3lBQS1SVExlNmlKZkx2YVBuN2UyZHRaTGMzVTFYR2MzdjA3Skd2eXNaT1FzVWQxTUoxNURfMnItM3NMSUlHZTBaOVVHVUNMNTBnZGJQN3JJbm9rQVF1UHpzU0FGREdSRTR1SkxlUE1uX20zYmVBaks2VTdVUGF2aGNZbGpfY3h6Rlk?oc=5",
+      "publishedAt": "Tue, 07 Jul 2026 21:46:00 GMT",
+      "summary": "Mitsubishi Xpander bị triệu hồi tại Việt Nam do lỗi tựa lưng hàng ghế thứ hai Báo Hà Tĩnh",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": [
+        "Recall"
+      ]
+    },
+    {
       "id": "thanh_nien_663735a54c",
       "source": "Thanh Nien",
       "sourceCategory": "general",
@@ -169,24 +225,6 @@
       "vehicleType": "four_wheel",
       "makers": [],
       "categories": []
-    },
-    {
-      "id": "google_news_375acaa728",
-      "source": "VOV.VN",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Mitsubishi Xpander bị triệu hồi tại Việt Nam do lỗi tựa lưng hàng ghế thứ hai",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdnZ4OENqd2pGQ1B3UVhVVVQxVWN4bmlVSmRjOXhZVFI4SW01b0RVa0NEYldjbUdacV94SUJZUW1YMTRzQU52bjdBUjZQSEJRb1hiTEo3Y29jMVkwbW1KVWxmanRvS3NXbWRNeTMyRXp1S1NXNjdZMUFVLXZBRkVFanYzaWR2WDNNQlpmSHpJby1RdTNXR3NBWENxTzZ1Y05PQXZqVkJxS3NCeS0xWGFWenByb0R2ajBucTRFUg?oc=5",
-      "publishedAt": "Tue, 07 Jul 2026 10:50:23 GMT",
-      "summary": "Mitsubishi Xpander bị triệu hồi tại Việt Nam do lỗi tựa lưng hàng ghế thứ hai VOV.VN",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": [
-        "Recall"
-      ]
     },
     {
       "id": "vietnamnet_2e166f083c",
@@ -2489,24 +2527,6 @@
       "categories": []
     },
     {
-      "id": "vnexpress_397c0f111c",
-      "source": "VnExpress",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Honda CR-V lần đầu tiên thành 'vua doanh số'",
-      "url": "https://vnexpress.net/honda-cr-v-lan-dau-tien-thanh-vua-doanh-so-5092839.html",
-      "publishedAt": "Fri, 03 Jul 2026 11:16:19 +0700",
-      "summary": "Mẫu crossover của hãng Nhật lần đầu tiên đứng đầu bảng xếp hạng doanh số toàn thị trường sau kết quả của nửa đầu năm.",
-      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/07/03/HondaCRV-1783049418-2847-1783049528.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Z4spo15pAnEVb7EhbH4wpw",
-      "vehicleType": "four_wheel",
-      "makers": [
-        "Honda"
-      ],
-      "categories": [
-        "Sales"
-      ]
-    },
-    {
       "id": "dan_tri_df6a33d879",
       "source": "Dan Tri",
       "sourceCategory": "general",
@@ -2779,14 +2799,14 @@
       "categories": []
     },
     {
-      "id": "google_news_791fdd2a19",
-      "source": "Znews",
+      "id": "google_news_71d65daaed",
+      "source": "Vietnam.vn",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Loạt xe Nhật ưu đãi đầu tháng 7, Mitsubishi Xpander giảm đến 80 triệu",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGR4ck1CMk9lQmlnUnZTR3JIZFhyNzhLMHVqZUpqWnV4b3pYSVNnY2p5RWhzZjhPZ1p6WFdDaTkzRGdTbC1UV2NJWUpQMGoxVnIxSmNPa09SVWZIZ3NtcE0xeW1hR0F6dXk0dmwzckRiMEFwa1hESl9vMmhjaWc4Y05uYWE3WENndEVBLThucjNsZV9PTzE1bnhUM2FiUFVtcVVXVA?oc=5",
-      "publishedAt": "Thu, 02 Jul 2026 23:39:52 GMT",
-      "summary": "Loạt xe Nhật ưu đãi đầu tháng 7, Mitsubishi Xpander giảm đến 80 triệu Znews",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN2tSTjNDUlh2SzFGZVhpOWd2NkhrNU4zWnA2Wlh0OU5qLWZDSWYwMDZiaENxbFZOQzl4VlhWU0h6UGV1bGRjTWVhMzdBVDV6b0ExM3JCV212RVRST0pFaFJ1UXhrWDhUN1FxUGt6dE5HQTkzY1lTcU1QX0xsVEUtRTB1SG5PVGFPaUxyc005V1pLWkZya2c?oc=5",
+      "publishedAt": "Thu, 02 Jul 2026 23:51:18 GMT",
+      "summary": "Loạt xe Nhật ưu đãi đầu tháng 7, Mitsubishi Xpander giảm đến 80 triệu Vietnam.vn",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -3931,23 +3951,6 @@
       "categories": []
     },
     {
-      "id": "google_news_9036461279",
-      "source": "Báo Dân Việt",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Lý do ô tô 7 chỗ Mitsubishi Xpander bất ngờ rẻ hơn Toyota Vios",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlg0MmNBa2wyWDBobVVXcGU5dFNacHFmUHRVaUdpSHhoN19ndUhaZVhhVjctSFYwOGFjdUNRNmdlb3c5M0dwU29KMjQyS3FIR1pBYjJDWV9WOHhaaGpUalA2Wk5ZTXotN21KX0pkLTFwRC1pY2JrQVZBRlFwWEZkZk43dG9ycXQ3bWNpS2tQVzZzMW9TV1AyUTdHWQ?oc=5",
-      "publishedAt": "Thu, 11 Jun 2026 07:00:00 GMT",
-      "summary": "Lý do ô tô 7 chỗ Mitsubishi Xpander bất ngờ rẻ hơn Toyota Vios Báo Dân Việt",
-      "thumbnail": "",
-      "vehicleType": "four_wheel",
-      "makers": [
-        "Mitsubishi",
-        "Toyota"
-      ],
-      "categories": []
-    },
-    {
       "id": "google_news_84cc2ca387",
       "source": "Xedoisong.vn",
       "sourceCategory": "googlenews",
@@ -4289,24 +4292,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbDhEdFYyMVNKaHFhVnNoUHo1UF9PRExId2Y3Q2xFZ1A4YnVXcjN2ZG11Y1FNLWVTSXVSY0tZNTJEbV9TUW1BcUc0LTFSdGY3bmp3RHhScUJhbXZEeWVySUpteW9jNDBSaURES2p2NkMydGw4eWhNZTBxMlZ0SDAzemx4Ny1FaGU2OHEzN0ZzUUhkVGhxZTJmUU9tYkdpdVgxZzdwZzBWVHRyNlVJcHo3QWEyamlsbG9YWXB2Q0V5bnBrWTVSYi1HU3dZR2ZuQnZU?oc=5",
       "publishedAt": "Tue, 05 May 2026 07:00:00 GMT",
       "summary": "Mitsubishi triệu hồi hơn 5.000 xe Xpander và Xpander Cross tại Việt Nam do lỗi khung ghế thuonghieucongluan.com.vn",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": [
-        "Recall"
-      ]
-    },
-    {
-      "id": "google_news_2419fdd4d3",
-      "source": "Công Luận",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Hàng nghìn xe Mitsubishi Xpander bị lỗi phải triệu hồi tại Việt Nam",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNXdUVElfUG5tZGE1eFBEVEJiMzE4STIwM1E3XzJPcllzVnlBelV6cDBVOF81aEl2WV9IdFd5eWtuUGtwQS1zQnctWEVxSkVCcXdWYzY0Tl9Rc29uVGhWd1FJQ0M0ZTZjM2N4WW1uSVBQallFZlNIeUFWT0hPU1VuQktpZEhqbXlsOVdTRmI4RU1NdVF0RGZGanFQZUZnZjNoMndUQjRB?oc=5",
-      "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
-      "summary": "Hàng nghìn xe Mitsubishi Xpander bị lỗi phải triệu hồi tại Việt Nam Công Luận",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -5918,6 +5903,22 @@
       "categories": []
     },
     {
+      "id": "tuoi_tre_8fe830a11c",
+      "source": "Tuoi Tre",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "Mazda CX-5 đời mới đi gần 1.600km: Chạy đã nhưng phần mềm gây thất vọng",
+      "url": "https://tuoitre.vn/mazda-cx-5-doi-moi-di-gan-1600km-chay-da-nhung-phan-mem-gay-that-vong-100260707121407816.htm",
+      "publishedAt": "7/8/2026 7:04:00 AM",
+      "summary": "Mazda CX-5 2026 ghi điểm với cảm giác lái, không gian rộng rãi và khả năng vận hành ổn định trong chuyến đi gần 1.600km.",
+      "thumbnail": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/7/7/5c6d87c6-4278-4b90-959b-cd4fb25ec93c-1783262637493-1783262637802712406882-1783400856991-17834008573371209985159-0-95-1123-1892-crop-178340119291071608446.jpg",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mazda"
+      ],
+      "categories": []
+    },
+    {
       "id": "tuoi_tre_80a9bc993b",
       "source": "Tuoi Tre",
       "sourceCategory": "general",
@@ -6656,22 +6657,6 @@
       "categories": [
         "Recall"
       ]
-    },
-    {
-      "id": "tuoi_tre_f0a5090a3e",
-      "source": "Tuoi Tre",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Xe máy Honda tăng cường dùng vật liệu tái chế, áp dụng cho cả xe tay ga sản xuất ở Việt Nam",
-      "url": "https://tuoitre.vn/xe-may-honda-tang-cuong-dung-vat-lieu-tai-che-ap-dung-cho-ca-xe-tay-ga-san-xuat-o-viet-nam-100260701000334417.htm",
-      "publishedAt": "7/1/2026 6:30:00 AM",
-      "summary": "Honda đang mở rộng việc sử dụng vật liệu tái chế trên nhiều mẫu xe máy, từ nhựa tái chế làm thùng chứa đồ, kính chắn gió đến vành nhôm, nhằm giảm phát thải carbon và thúc đẩy mục tiêu sản xuất bền vữn",
-      "thumbnail": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/6/30/honda-super-cub-4-1782838920327689969090-647-0-1181-854-crop-17828389259551927824135.jpeg",
-      "vehicleType": "two_wheel",
-      "makers": [
-        "Honda"
-      ],
-      "categories": []
     }
   ]
 }
