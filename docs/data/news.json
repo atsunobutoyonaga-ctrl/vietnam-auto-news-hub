@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-07-14T23:31:11.953016+00:00",
-  "totalCount": 419,
+  "lastUpdated": "2026-07-15T00:12:33.239352+00:00",
+  "totalCount": 421,
   "stats": {
     "totalRaw": 450,
     "excluded": 24,
-    "afterDedup": 419
+    "afterDedup": 421
   },
   "sources": [
     "ACN Newswire",
@@ -24,7 +24,6 @@
     "Báo VietNamNet",
     "Báo và Phát thanh, Truyền hình Lạng Sơn",
     "CafeAuto.Vn",
-    "CafeF",
     "Công Luận",
     "Cộng đồng xe Việt Nam",
     "Dan Tri",
@@ -51,6 +50,7 @@
     "Tuoi Tre News | The News Gateway to Vietnam",
     "Tuổi Trẻ",
     "Tạp chí Sở hữu Trí tuệ",
+    "VIETTIMES",
     "VIR",
     "VOV.VN",
     "Vietnam Economic Times",
@@ -65,6 +65,7 @@
     "auto5.vn",
     "autopro.com.vn",
     "baonghean.vn",
+    "diendandoanhnghiep.vn",
     "mitsubishi-motors.com",
     "mol.co.jp",
     "mri.co.jp",
@@ -75,6 +76,24 @@
     "xehay.vn"
   ],
   "articles": [
+    {
+      "id": "vnexpress_aaa5befc6f",
+      "source": "VnExpress",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "BYD Racco - kei-car Trung Quốc sắp bán ở Nhật",
+      "url": "https://vnexpress.net/byd-racco-kei-car-trung-quoc-sap-ban-o-nhat-5097330.html",
+      "publishedAt": "Wed, 15 Jul 2026 07:00:00 +0700",
+      "summary": "Mẫu xe Trung Quốc sẽ bán ra tại quê hương của dòng kei-car vào cuối tháng 7, thách thức các đối thủ từ Mitsubishi hay Nissan.",
+      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/07/14/BYDRacco1-1784016999-1865-1784017098.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=SJBi-xlzFqVlX5B2hcqjlw",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi",
+        "Nissan",
+        "BYD"
+      ],
+      "categories": []
+    },
     {
       "id": "vnexpress_2863f21647",
       "source": "VnExpress",
@@ -2684,22 +2703,6 @@
       "categories": []
     },
     {
-      "id": "vnexpress_e8ff4b4370",
-      "source": "VnExpress",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Chủ xe máy điện VinFast nhận gói chăm sóc, bảo dưỡng xe",
-      "url": "https://vnexpress.net/chu-xe-may-dien-vinfast-nhan-goi-cham-soc-bao-duong-xe-5096006.html",
-      "publishedAt": "Fri, 10 Jul 2026 17:40:00 +0700",
-      "summary": "VinFast triển khai chương trình hậu mãi cho khách đưa xe máy điện đến xưởng dịch vụ chính hãng trị giá 600.000 đồng, từ 10/7 đến 31/8.",
-      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/07/10/a2-1783679554-4659-1783679618.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=4dejefNDrNAwAMZgdaKXIQ",
-      "vehicleType": "two_wheel",
-      "makers": [
-        "VinFast"
-      ],
-      "categories": []
-    },
-    {
       "id": "vietnamnet_b2e0c4aa93",
       "source": "VietnamNet",
       "sourceCategory": "general",
@@ -4061,22 +4064,6 @@
       "categories": []
     },
     {
-      "id": "google_news_ae70000c40",
-      "source": "Vietnam.vn",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Mitsubishi Vietnam tilbyr kampanjer i juli 2026: Xpander- og Xforce-modellene får betydelige prisreduksjoner.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMHd3cWxGeUhWM2s0dURqS2JRdkVHZjlxZTlxRm9BcDVhVlBGUks1aE5sYVh4cVhjU1dRR19mQVk4Z0FFWFVXTFJYYTByeFlWelA3VHlrYTJpRVlQWTVHZGwwNGZrVW1uZG5qd2VSWWNWUDlpUE1kQlNkTmZTX3Y0N1Z6ZWZSV21lRjBLMzl2WFJWZExyV0ZQUEdXT1JKQQ?oc=5",
-      "publishedAt": "Sat, 04 Jul 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Vietnam tilbyr kampanjer i juli 2026: Xpander- og Xforce-modellene får betydelige prisreduksjoner. Vietnam.vn",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": []
-    },
-    {
       "id": "google_news_1eaf5252de",
       "source": "Báo Thế giới và Việt Nam",
       "sourceCategory": "googlenews",
@@ -4123,38 +4110,6 @@
       "categories": [
         "Launch"
       ]
-    },
-    {
-      "id": "google_news_83214a825a",
-      "source": "Tin tức 24h",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Mitsubishi Attrage có bản nâng cấp mới tại Đông Nam Á",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUVPazJRWTdkWDBBUGFLUUxPa0JYWGV5d1lvQU1yTFloOGJQZ2VKNmlLZzZtVWFRMHI3VGRTeDlIbWM1Nkc3NEtfekU4cUdLYzZjT3pHYkV1eXZfNndLWmQxZ19Rb0NNUF9WbGliY0VUcXdXQnVoNzFNeWZFYkhidDl1clY5cXZzd2FQWmdkdm1nWWRaRmhkVjdqNEg4a3ct?oc=5",
-      "publishedAt": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Attrage có bản nâng cấp mới tại Đông Nam Á Tin tức 24h",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": []
-    },
-    {
-      "id": "google_news_5685e7a829",
-      "source": "Vietnam.vn",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Cập nhật bảng giá xe hãng Mitsubishi mới nhất tháng 7/2026",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON3ZPVmVuRDg5NllKeXlOZ1h4YUl3aEpvVHJESWtkenNJQ2FRX3pUY2tQUXlZLWMxdU9URVkzTkJpcWtDSWwtYllhMWE2M2h1MW5OaGZCOUhCZkprUkRWd2pqWVRjMXViaWwxa3owR3BWTVBtVGZCWDB2OXpyRG12RzFTeEVGV3dM?oc=5",
-      "publishedAt": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "summary": "Cập nhật bảng giá xe hãng Mitsubishi mới nhất tháng 7/2026 Vietnam.vn",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": []
     },
     {
       "id": "google_news_f44c130a69",
@@ -4225,20 +4180,6 @@
       ]
     },
     {
-      "id": "google_news_c309e501d3",
-      "source": "Tuoi Tre News | The News Gateway to Vietnam",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Nearly 60% of Japanese firms plan to expand reach in Vietnam",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVklTZHhHQzRsVUMyVGRzRXBtZzNKT1R1T3hiaEYxaUYzTHhwX1REU1JDVUN5anYzeTZmMWhTS2dxc09vUURGbWRfUXk4dEdFbC1IMEFYdVFYRzloRmNIeTI4WU43aDYzbUFiZ2U3ZEdNNEFMYy1PTDRlYUVwTzFJTXAyT0U4NnIxeEd5U1Q0RnhDenFnazBIejZYUHhWcUFLNWZMNnZ2elRmQQ?oc=5",
-      "publishedAt": "Tue, 30 Jun 2026 10:38:00 GMT",
-      "summary": "Nearly 60% of Japanese firms plan to expand reach in Vietnam Tuoi Tre News | The News Gateway to Vietnam",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [],
-      "categories": []
-    },
-    {
       "id": "google_news_7edbb38ff4",
       "source": "Znews",
       "sourceCategory": "googlenews",
@@ -4247,6 +4188,22 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcWJJS19DMFRac1lzV25VMmlJV1RHM1ktQkJCVHE1UXVDTXhIYklFaVBIZ1ZQWUpQZFhmR0JFYWs3bjB2TmRIbVI5c3M3a2EyLWdINlhJWUpYWVBoTktLQ1k3SWtvbUktM0w5V3NUdXJPSXZlUGtnWU0wODQzSmhFNzJmM19PTU5jbk5aLW0xZGczbkpSOTE3cjhTaXUwNUl2bHZ0Nl9jaldDQQ?oc=5",
       "publishedAt": "Tue, 30 Jun 2026 07:00:00 GMT",
       "summary": "VinaCapital, Dragon Capital, Mitsubishi hiến kế cho Việt Nam hút vốn ngoại Znews",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": []
+    },
+    {
+      "id": "google_news_f786cfb3b5",
+      "source": "VnExpress",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mitsubishi Pajero thế hệ mới tái hiện cụm đồng hồ huyền thoại",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1NsNU1KMWhvTEVYZ2gxRWFMdmdHMEhZTWdycTdSYm1YclVYczZoNXI1MXJKMEtZZGFJX1NaMVo4Z0RENWE1dldjTDNBUUhUOFd2N1VXMk8yaXFJMjM2MDJTcVpING1hN1FBdUFDNndWS1JOdGh1Y2tIa2ZXZG01M015WXNHSTBWYzNiNXJ6UUF2NDE0c2hveG1jLVc?oc=5",
+      "publishedAt": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "Mitsubishi Pajero thế hệ mới tái hiện cụm đồng hồ huyền thoại VnExpress",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4271,22 +4228,6 @@
       "categories": [
         "Launch"
       ]
-    },
-    {
-      "id": "google_news_f786cfb3b5",
-      "source": "VnExpress",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Mitsubishi Pajero thế hệ mới tái hiện cụm đồng hồ huyền thoại",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1NsNU1KMWhvTEVYZ2gxRWFMdmdHMEhZTWdycTdSYm1YclVYczZoNXI1MXJKMEtZZGFJX1NaMVo4Z0RENWE1dldjTDNBUUhUOFd2N1VXMk8yaXFJMjM2MDJTcVpING1hN1FBdUFDNndWS1JOdGh1Y2tIa2ZXZG01M015WXNHSTBWYzNiNXJ6UUF2NDE0c2hveG1jLVc?oc=5",
-      "publishedAt": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Pajero thế hệ mới tái hiện cụm đồng hồ huyền thoại VnExpress",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": []
     },
     {
       "id": "google_news_5866fd8308",
@@ -4473,38 +4414,6 @@
       "categories": []
     },
     {
-      "id": "google_news_870207a53b",
-      "source": "CafeF",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Xe bán ngày càng nhiều, Mitsubishi nâng cấp đại lý cho khách đỡ phải chờ lâu: Có nơi mới rộng 3.750m2, chứa 23 khoang sửa và đồng sơn",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPak9WZEU0VDRWOFl4S0xtSFdDMVloeGE0aUo3SzRxRHdSRXd2M3dDaDItRjhDejEzODNHZmtDY3lubng4eUllUFZuTHlpVTRiaEVfZ2hmejh5QzdreGpNUS02WVk4UlR3XzJzXzBVZlFKM3duZWFnQ3JydU93dXRheERvQUh0Ymh4SWhwNjJvNmhPNE1wcXVhQWpsZ2dwN3hHeG9hOWloUWlzWTdreDV6UmpWRGNlc3R5cFBQMExhb0g5cTRCam16WTFGTzVKTU9ZUzZJdmJnSVpMYlA5MXJrZkFnZWxZenhfXzk4YjJqc1VnMnhvcjRkRHRKQVg0dw?oc=5",
-      "publishedAt": "Fri, 19 Jun 2026 07:00:00 GMT",
-      "summary": "Xe bán ngày càng nhiều, Mitsubishi nâng cấp đại lý cho khách đỡ phải chờ lâu: Có nơi mới rộng 3.750m2, chứa 23 khoang sửa và đồng sơn CafeF",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": []
-    },
-    {
-      "id": "google_news_98f3ba66f1",
-      "source": "Tuổi Trẻ",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Đại lý được xem sớm xe Mitsubishi mới: 'Pajero như Land Cruiser, Outlander khác một trời một vực'",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ3ltamxsdFBhb2xGczd6YXhqdlAxZExyeGdBX2hQNmVBclBiNEZnWVhlekRJVnZYY2hXdUNuV3FVeUF4YlV3UDlOTjlKdmZYc1RXMmVZWVdSUkRhNU9WMjA3eWZ2azVQUGFzZE9PelZVUEY4OHlUWll0Zk9uTEszX3BZcnU4ZTZPdTRxakpHSlR0MklUWllCanBBYklTR09UekprWjEzWG9kQ3lRYURFWVlrellCdVRXV2Q5VEduSkktRXR0eGFtby1abXg2TVE0?oc=5",
-      "publishedAt": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "Đại lý được xem sớm xe Mitsubishi mới: 'Pajero như Land Cruiser, Outlander khác một trời một vực' Tuổi Trẻ",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": []
-    },
-    {
       "id": "google_news_a2898ed2ef",
       "source": "Báo Dân trí",
       "sourceCategory": "googlenews",
@@ -4622,6 +4531,25 @@
       "categories": []
     },
     {
+      "id": "google_news_37d3606af4",
+      "source": "diendandoanhnghiep.vn",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Xe bán chạy nhất của Mitsubishi tại Việt Nam gặp lỗi phải triệu hồi",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3NmeWdxb2V3azdGOUlfMDJMNmh1c09zWUwzOEhjOVJmdEh3YWt2aDdBWjI2eUZ1VzA1WTdCQUE1a09HOTRMYzl5WFFQbmJBcERuVzByU0FQNWpOSmNEd196by1qM3k3LUxZZEdJWU5sUW5FTzhSdy13a2VPd1dSNjFibnRuU1QtTHdfZzF3LW5IZzFBOWZhVHNMWk5Yc2x6eVZxY0Z3ck9mWkYzNmZHZA?oc=5",
+      "publishedAt": "Mon, 11 May 2026 07:00:00 GMT",
+      "summary": "Xe bán chạy nhất của Mitsubishi tại Việt Nam gặp lỗi phải triệu hồi diendandoanhnghiep.vn",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": [
+        "Sales",
+        "Recall"
+      ]
+    },
+    {
       "id": "google_news_a8ce90ae38",
       "source": "vietnamnews.vn",
       "sourceCategory": "googlenews",
@@ -4689,6 +4617,42 @@
       ],
       "categories": [
         "HEV"
+      ]
+    },
+    {
+      "id": "google_news_e4f38d60e6",
+      "source": "Báo Thanh Niên",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Hơn 5.000 xe Mitsubishi Xpander tại Việt Nam dính lỗi ghế, phải triệu hồi khắc phục",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWDVKU3JYWU1OUVFtN0xQZEc1THZNRDNkMEJfNUE2ME9JbzF5c0ctUE9jdTE0UklqV1E4WGNJQ0JaZDN5N3FCRGNGOTZQNnVWN2VxLVFoSFRkZHFQVnhzRHRCQ1dldWp5WEJzZFZNV0ZUci1XVXpzcmdfOVV5VVU1T3k1ajhobHd5Y2ZyWHZwMEdOZF90aG4ycWxVZkZORTMtM0NiNC03bnUxeS1CUEgyOW5ReS1BOXlQN3lFSjVnUHo0Uzg?oc=5",
+      "publishedAt": "Sat, 02 May 2026 07:00:00 GMT",
+      "summary": "Hơn 5.000 xe Mitsubishi Xpander tại Việt Nam dính lỗi ghế, phải triệu hồi khắc phục Báo Thanh Niên",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": [
+        "Recall"
+      ]
+    },
+    {
+      "id": "google_news_2ba9678d78",
+      "source": "VIETTIMES",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Hơn 5.000 xe Mitsubishi Xpander bị triệu hồi tại Việt Nam",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSW9kSjBOb0QyZzNkTU9jMVZVWWlsNGc1Y0Y0dlFJVDVXb2VTc09URW9Wd2JWbjBwMlQwNl9SRlU2UUJFLUtnSHM4bUFHWUFRY3hvUTRCRTZVRmhEOU83em5JNGptT3dNc0t6Q29JVEJJX0J1WDhXX3FCclllY2tpb2NkUlhwbEl3R2lUUlRHTS1MaGJWQWZsVQ?oc=5",
+      "publishedAt": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "summary": "Hơn 5.000 xe Mitsubishi Xpander bị triệu hồi tại Việt Nam VIETTIMES",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": [
+        "Recall"
       ]
     },
     {
@@ -4836,6 +4800,22 @@
       ]
     },
     {
+      "id": "google_news_08ae4ff334",
+      "source": "Tuổi Trẻ",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Lần đầu Mitsubishi làm dã ngoại quy mô lớn tại Việt Nam: 2 ngày 1 đêm miễn phí có điều kiện",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPXzU2VUI0YTJvXzlyX3dKNVRWMkQ0MjVldnNHckFtaVg0cHVsaERpOGFWc0hJWTBZSFZUQ1h5b1BHRE95OXNjVjRfY3lJOU9iaC1zZXpMeDFlYl8ydk5wYVhDYXVrTTlPQU5oWjIxQnFINFRLZ1RBNEJJWHRKUGZtY0NUdTZzeWVEU0lpN2YwYm9ZNE1ZSjBpX0h1YVZLQVV1UGRlcXZzaHpGY2FxRUNnSHY0UXlvZ0l3S29XRUtaZ0x6NkNrbUxWY0lJUQ?oc=5",
+      "publishedAt": "Mon, 09 Mar 2026 07:00:00 GMT",
+      "summary": "Lần đầu Mitsubishi làm dã ngoại quy mô lớn tại Việt Nam: 2 ngày 1 đêm miễn phí có điều kiện Tuổi Trẻ",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": []
+    },
+    {
       "id": "google_news_cd24247e43",
       "source": "Tuoi Tre News | The News Gateway to Vietnam",
       "sourceCategory": "googlenews",
@@ -4844,6 +4824,22 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOE95dktENktZN0FLT2VMSmdjYUQ0TlQ0YUJUSVJiNGhSV1BxNEhXOWduSFZ0VHBkV1ZkdUVzZ2NLYzdPTE9uc0VaVGI2NWJaVG9CTGpqZnRPSHFGckltVTA4YzRaSU5iai0yR0p4Wi1IUEZFWEQwWC1TVXY1S0s4QmFZZnBRbUxubzBfLWQwUEJMdlRoaUQ0UDNYQ2NiOVJSM2tTczIxY2plS1E?oc=5",
       "publishedAt": "Fri, 06 Mar 2026 08:00:00 GMT",
       "summary": "Mitsubishi Xpander MT 2026 debuts in Vietnam, priced at $21,700 Tuoi Tre News | The News Gateway to Vietnam",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": []
+    },
+    {
+      "id": "google_news_17f21168e2",
+      "source": "VOV.VN",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mitsubishi Motors Việt Nam ưu đãi cho tất cả các mẫu xe trong tháng 3",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ0t6bUs2NTMyM2loUFN0Q3lMMkJScmhIOVBGRjJJa2NwdW5fSGlLRl94dmFFcVZxYWNPdjJVa01YZkxxOHJrYWZndWFQV3ZTWHpLbGdsanJtWG9sc1VqRm05cWJ4REljR1FIN1c3N1BpSXhHSG0wSHNDenpsMk1DQUZaWE5TWnZwMFB5LTdSblN1dUxsMWg0SHhwSDlMSUNucW1PRjg1bHpwWFd6ekUwcE9R?oc=5",
+      "publishedAt": "Thu, 05 Mar 2026 08:00:00 GMT",
+      "summary": "Mitsubishi Motors Việt Nam ưu đãi cho tất cả các mẫu xe trong tháng 3 VOV.VN",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4961,6 +4957,24 @@
       "categories": []
     },
     {
+      "id": "google_news_afa8e6b372",
+      "source": "VnExpress",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Doanh số Mitsubishi năm 2025 tăng 7%, điểm sáng Xforce và Xpander",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObTdvUlNEam9GN0VmRTZ3SENGakFqdTB1dTNWdUJvcDQ5U3E2Ukhxc0s2UnF6X18yYkZCUXp4dkE2ckF3ekg5Y3hQejhDNFNtb2VGTG41S3IwVlZ6eHlHSFhua2c5Q3pUV1VSM2hCYmU0em5IaGlVMHc0S0xWMXhjVUlPdEdOQko1emZlR0EycS1EeVJycXhCdFJvUVZJMGs?oc=5",
+      "publishedAt": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "summary": "Doanh số Mitsubishi năm 2025 tăng 7%, điểm sáng Xforce và Xpander VnExpress",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": [
+        "Sales"
+      ]
+    },
+    {
       "id": "google_news_05eb480603",
       "source": "Báo VietNamNet",
       "sourceCategory": "googlenews",
@@ -4989,6 +5003,25 @@
         "Mitsubishi"
       ],
       "categories": []
+    },
+    {
+      "id": "google_news_5805f34fd5",
+      "source": "Tuổi Trẻ",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mitsubishi lần đầu bán vượt Toyota trở thành hãng xe xăng, dầu bán chạy nhất Việt Nam",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMXc5SzhaOWM1alJpRGx3QlVYRHpObF9La3NndUFJREZ3d3dWVUVKV0lVMG5ZOG5IeTVGTm55anNKSHRXR0NhRWVOSDA3b0FaN2loQ0NZdy1xSUhkVTF1VG9ReE5hVUdhWG5xM3hSaHc3MTBfamJhcWVxalQ1Vmp2dkQtT1ZyYlhwWU5vVlJ4ZVdURzU3ZVMtbVpIMWxQYUxYc1pWOHpseHpVeFdMckxKak8tbGFfNUpVUVY2WEsydkpwMW8?oc=5",
+      "publishedAt": "Wed, 14 Jan 2026 08:00:00 GMT",
+      "summary": "Mitsubishi lần đầu bán vượt Toyota trở thành hãng xe xăng, dầu bán chạy nhất Việt Nam Tuổi Trẻ",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi",
+        "Toyota"
+      ],
+      "categories": [
+        "Sales"
+      ]
     },
     {
       "id": "google_news_3365512ba0",
@@ -5223,6 +5256,24 @@
       "vehicleType": "unknown",
       "makers": [],
       "categories": []
+    },
+    {
+      "id": "google_news_4463b0c166",
+      "source": "Enerdata",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mitsubishi Power joins development of Vietnam’s 1.2 GW O Mon 4 project",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNXlPZ2dUcVZlVnBwNW5Yb3pSNzJjM2M5V204TmdSZGF6c0VPX3dKVVpOUDRjR2xYV3RMc1dzc1QwTC1hUEFEcENWaFdiUEd6V3BPdXZvc01ZYVZwR3RzMEx3TmhKYUJEUVJKa1FBLXlMLTR6ZlY3SXRUeVZiVm9XYktXU2p1Z2pkSEpyNHYzU1Yxa0t0d0tFc0FSdkd2YWhNWkEwTHdzalNvQUpJNEFoWXlGNllWWjV4eV9fWXp2VGd5WnFW?oc=5",
+      "publishedAt": "Wed, 10 Sep 2025 07:00:00 GMT",
+      "summary": "Mitsubishi Power joins development of Vietnam’s 1.2 GW O Mon 4 project Enerdata",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": [
+        "EV"
+      ]
     },
     {
       "id": "google_news_96a6d7f3f7",
