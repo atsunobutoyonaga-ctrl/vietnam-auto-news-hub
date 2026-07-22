@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-07-21T23:30:45.777218+00:00",
-  "totalCount": 408,
+  "lastUpdated": "2026-07-22T00:54:57.345118+00:00",
+  "totalCount": 407,
   "stats": {
     "totalRaw": 450,
     "excluded": 34,
-    "afterDedup": 408
+    "afterDedup": 407
   },
   "sources": [
     "ANTARA News",
@@ -17,6 +17,7 @@
     "Báo Dân Việt",
     "Báo Dân trí",
     "Báo Hà Tĩnh",
+    "Báo Khánh Hòa",
     "Báo Thanh Niên",
     "Báo Thế giới và Việt Nam",
     "Báo VietNamNet",
@@ -31,7 +32,6 @@
     "Gia đình & Xã hội",
     "International Business Times",
     "Korea JoongAng Daily",
-    "MSN",
     "Mitsubishi Power",
     "Nikkei Asia",
     "OFnews.vn",
@@ -72,6 +72,38 @@
   ],
   "articles": [
     {
+      "id": "vnexpress_1b046ba503",
+      "source": "VnExpress",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "Ý nghĩa đằng sau các màu sắc kẹp phanh trên xe Nissan",
+      "url": "https://vnexpress.net/y-nghia-dang-sau-cac-mau-sac-kep-phanh-tren-xe-nissan-5099730.html",
+      "publishedAt": "Wed, 22 Jul 2026 07:30:00 +0700",
+      "summary": "Không đơn thuần để trang trí, màu sắc kẹp phanh trên xe Nissan là quy chuẩn ngầm phân định từ xe phổ thông cho đến các mẫu xe đua.",
+      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/07/21/Nissan2-1784620756-9976-1784623306.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bfZcbTRM5lFHf_wyLOVNvg",
+      "vehicleType": "unknown",
+      "makers": [
+        "Nissan"
+      ],
+      "categories": []
+    },
+    {
+      "id": "google_news_debfb69f3f",
+      "source": "Vietnam.vn",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Hơn 2.000 thành viên tham gia giải chạy Mitsubishi Motors Việt Nam Nha Trang City Trail 2026",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOXVpaG5YUzVaUmZfbURuZ3BDT2ZQYXRHVUpTci1MeTJMUU5JOXNGME1xaVcwaUpkS0hVZWIzZE40SGlnUmRqMkJxdF9Xa0tCTktsRWE4bkZUbXRiSk1LUjVJbGNDdVBta3pkeHA5WDVKQVpXMDJMdkFyd0I1b19tcDFnNWVVcERIdUFnaXVKU0FwY3BXWFo5b3NXUXpwWmdIUGZCY041SEtGdWtHOHlEUnd2NG1UZw?oc=5",
+      "publishedAt": "Wed, 22 Jul 2026 00:18:36 GMT",
+      "summary": "Hơn 2.000 thành viên tham gia giải chạy Mitsubishi Motors Việt Nam Nha Trang City Trail 2026 Vietnam.vn",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": []
+    },
+    {
       "id": "vietnamnet_f6be05026e",
       "source": "VietnamNet",
       "sourceCategory": "general",
@@ -83,6 +115,22 @@
       "thumbnail": "https://static-images.vnncdn.net/vps_images_publish/000001/000003/2026/7/21/nhung-nhuoc-diem-co-huu-cua-dong-co-v6-tren-o-to-khong-phai-cu-manh-la-hoan-hao-2146.jpg?width=0&amp;s=-wva0ymP52mUT93uxRkhZA",
       "vehicleType": "four_wheel",
       "makers": [],
+      "categories": []
+    },
+    {
+      "id": "vnexpress_43423ebc44",
+      "source": "VnExpress",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "BYD lên kế hoạch lập kỷ lục tốc độ 'vô tiền khoáng hậu'",
+      "url": "https://vnexpress.net/byd-len-ke-hoach-lap-ky-luc-toc-do-vo-tien-khoang-hau-5099728.html",
+      "publishedAt": "Wed, 22 Jul 2026 06:00:00 +0700",
+      "summary": "BYD muốn đẩy U9 Xtreme vượt mốc 500 km/h vào tháng 11 tới, con số chưa từng có trong ngành xe.",
+      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/07/21/BYDYangwangU9-1784601106-8676-1784601377.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nlF0mNxB8aYyzwQkjq8tFQ",
+      "vehicleType": "unknown",
+      "makers": [
+        "BYD"
+      ],
       "categories": []
     },
     {
@@ -1589,6 +1637,22 @@
       "categories": []
     },
     {
+      "id": "google_news_9f511277ac",
+      "source": "Báo Khánh Hòa",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Khai mạc Giải chạy Mitsubishi Motors Vietnam Nha Trang City Trail 2026",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZlR5Z0RqYndVbHpQR01PZERuMWFwLUoxNVlHWDREdU9DR0h6UUVfMFl5WFR5dm01TWtucEczcVNRQkNEVkt5ZFpXNThPLUJFaUxaRjY4T1N4SjZueDdvUWtjZHA5eXp3MU05a2FyMGI2RXdHTGowWnQ2aExadmsxejFsdkNVLWY0MHZyV0NOR05HZ1VmQk9uX2sxTFF0eWl0ZUZrTUJRMU8ta1VBNjYzNnFqdEtWa1JPVm5tWElxc2did2RQQ3Y0cHI3UENIeWRGSlQ3VQ?oc=5",
+      "publishedAt": "Sat, 18 Jul 2026 10:32:00 GMT",
+      "summary": "Khai mạc Giải chạy Mitsubishi Motors Vietnam Nha Trang City Trail 2026 Báo Khánh Hòa",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": []
+    },
+    {
       "id": "dan_tri_8a1a710238",
       "source": "Dan Tri",
       "sourceCategory": "general",
@@ -1918,24 +1982,6 @@
       "vehicleType": "unknown",
       "makers": [
         "Toyota"
-      ],
-      "categories": [
-        "HEV"
-      ]
-    },
-    {
-      "id": "google_news_98afecf70e",
-      "source": "MSN",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Mitsubishi Xpander đời mới lộ diện: Thiết kế vuông vức hơn, về Việt Nam dễ bổ sung hybrid, ADAS",
-      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOTlVVLUNja1VkVDJfcEt4cmE2aS1EcW5mMGY4RktNaWJLSjNuMkNCUFV1eThCWWJBSVF1M0IzVVhvckNyaWZERHp4OWItczVNVms3SmhpLVJyZW9GVFZpbkprQmV1bm9CVU5DdDVuU0pNMmpWN0JIeWxqc0lia3F4LUdqZUZ3eXpIN0d4TVdXYTJYMk9kdWo1VlY2VF96ZHlodWJvX2RvNlFKQWJLYV9fOXAtWmlsaWtONGFkT0kyaldEVEk5b3dpM3dlZmJqbEJ2cW9WcVJYT0ZuN28wR01oSFQ4UGxtcVlnN05oeGJGWnFRaG9vVWpwcjhUOHduWW9pNDZfaHBCYmZaSW9YR0I1QlZoNFVfRTBtV2tzZUlxenFBa0Zndm9SZTMySU1UcTBETGtlbEdsREZhQ0NuV0pWTVRBTy1kNUpjT2pnWnM5bnRNUnJsaDhpMjFTYmhJZXpZVmNWN1BR?oc=5",
-      "publishedAt": "Fri, 17 Jul 2026 20:31:01 GMT",
-      "summary": "Mitsubishi Xpander đời mới lộ diện: Thiết kế vuông vức hơn, về Việt Nam dễ bổ sung hybrid, ADAS MSN",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
       ],
       "categories": [
         "HEV"
@@ -2804,24 +2850,6 @@
       ]
     },
     {
-      "id": "vnexpress_016cd46392",
-      "source": "VnExpress",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Vision e-Sky - xe điện mini mới của Suzuki",
-      "url": "https://vnexpress.net/vision-e-sky-xe-dien-mini-moi-cua-suzuki-5097549.html",
-      "publishedAt": "Thu, 16 Jul 2026 11:32:11 +0700",
-      "summary": "Mẫu xe điện rẻ nhất của Suzuki, phát triển từ xe kei-car, dự kiến mở bán tại châu Âu và Anh vào đầu năm 2027 với giá dưới 26.000 USD.",
-      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/07/15/SuzukiVisionesky1-1784103375-4333-1784103489.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_5dSvVv5JY3zKnRmiRp17A",
-      "vehicleType": "unknown",
-      "makers": [
-        "Suzuki"
-      ],
-      "categories": [
-        "EV"
-      ]
-    },
-    {
       "id": "vietnamnet_8070952b0d",
       "source": "VietnamNet",
       "sourceCategory": "general",
@@ -2863,20 +2891,6 @@
       "makers": [
         "Skoda"
       ],
-      "categories": []
-    },
-    {
-      "id": "vnexpress_ae06000cd7",
-      "source": "VnExpress",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Ôtô hỏng treo khí nén, hãng nói do cơ cấu bảo vệ",
-      "url": "https://vnexpress.net/oto-hong-treo-khi-nen-hang-noi-do-co-cau-bao-ve-5097972.html",
-      "publishedAt": "Thu, 16 Jul 2026 09:52:58 +0700",
-      "summary": "Nhiều người dùng bức xúc vì xe liên tục lỗi sập gầm, hãng Xpeng giải thích hệ thống treo tự kích hoạt chế độ bảo vệ nhiệt khi trời nóng.",
-      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/07/16/XpengX91-1784167831-5346-1784170268.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=T3zilTCnv2j56HJ-zaxl2Q",
-      "vehicleType": "four_wheel",
-      "makers": [],
       "categories": []
     },
     {
@@ -2927,22 +2941,6 @@
       "vehicleType": "two_wheel",
       "makers": [],
       "categories": []
-    },
-    {
-      "id": "vnexpress_4668ef564c",
-      "source": "VnExpress",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Xe gầm cao cỡ B tăng mạnh doanh số nửa đầu 2026",
-      "url": "https://vnexpress.net/xe-gam-cao-co-b-tang-manh-doanh-so-nua-dau-2026-5097746.html",
-      "publishedAt": "Thu, 16 Jul 2026 04:00:00 +0700",
-      "summary": "Sau 6 tháng đầu 2026, tổng doanh số các mẫu VF 6, Yaris Cross, Xforce... đạt hơn 40.700 xe, tăng 43% so với cùng kỳ năm ngoái.",
-      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/07/15/kiaseltosvnexpressjpg-17841012-6589-6075-1784101711.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=zz3DxP__zmIQcdXLTDca4Q",
-      "vehicleType": "unknown",
-      "makers": [],
-      "categories": [
-        "Sales"
-      ]
     },
     {
       "id": "thanh_nien_5ae96a3a98",
@@ -3093,22 +3091,6 @@
       "thumbnail": "https://images2.thanhnien.vn/zoom/600_315/528068263637045248/2026/7/14/edit_photo_fvrltnhvxx-1784072925.jpg",
       "vehicleType": "unknown",
       "makers": [],
-      "categories": []
-    },
-    {
-      "id": "google_news_ecfbb5361b",
-      "source": "Tin tức 24h",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Lộ thêm ảnh phác thảo mới về dòng Mitsubishi Pajero iO",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRGlJTVZIazNvQ2FPRThjSjVxQVpkZUI2WEQzNGk3UTBHRkFsZElIZS1XQVFJNUpwUEk4WTYyMmEtRk9KM2Z5YkNrRWR1ZUxSQXIwQ2dUeDlaNmxqRmg2RHdmQjhCVGI2TjBYOXVwVS1IUjNoQVcxZkVUbVhxLXFRR2o5RjNoVG41ZFFVdW9PLXJ2OEtFVHE0M2R4NWlCdEhPM3c?oc=5",
-      "publishedAt": "Wed, 15 Jul 2026 02:00:00 GMT",
-      "summary": "Lộ thêm ảnh phác thảo mới về dòng Mitsubishi Pajero iO Tin tức 24h",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
       "categories": []
     },
     {
@@ -3828,6 +3810,22 @@
       ]
     },
     {
+      "id": "google_news_f786cfb3b5",
+      "source": "VnExpress",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mitsubishi Pajero thế hệ mới tái hiện cụm đồng hồ huyền thoại",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1NsNU1KMWhvTEVYZ2gxRWFMdmdHMEhZTWdycTdSYm1YclVYczZoNXI1MXJKMEtZZGFJX1NaMVo4Z0RENWE1dldjTDNBUUhUOFd2N1VXMk8yaXFJMjM2MDJTcVpING1hN1FBdUFDNndWS1JOdGh1Y2tIa2ZXZG01M015WXNHSTBWYzNiNXJ6UUF2NDE0c2hveG1jLVc?oc=5",
+      "publishedAt": "Tue, 30 Jun 2026 07:00:00 GMT",
+      "summary": "Mitsubishi Pajero thế hệ mới tái hiện cụm đồng hồ huyền thoại VnExpress",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": []
+    },
+    {
       "id": "google_news_b56655de7f",
       "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
@@ -3910,26 +3908,6 @@
         "Mitsubishi"
       ],
       "categories": [
-        "Launch"
-      ]
-    },
-    {
-      "id": "google_news_862f59de4f",
-      "source": "Báo Thế giới và Việt Nam",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Cận cảnh Mitsubishi Outlander PHEV 2026 vừa ra mắt tại Đông Nam Á",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV01ibzRQanh1SXpMclZEbE9Tdmd6ZjB0NGlUVkdIVVBxcXl3ZzBkQjIzWkZlM1B3WFpfT3V2NDZSblMwWUoxR3Z0aWp4TnR3SDFvWURPRDdsMmEtYzBoaWJ4RC1ycmdCTFRMSGppX0hlYzAyMXV3UG51WENrcXhoUGpXZllVZHprTDFCcGU4Q0UyMjZMb1R2bl94Y1k3Q0U?oc=5",
-      "publishedAt": "Tue, 23 Jun 2026 07:00:00 GMT",
-      "summary": "Cận cảnh Mitsubishi Outlander PHEV 2026 vừa ra mắt tại Đông Nam Á Báo Thế giới và Việt Nam",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": [
-        "EV",
-        "HEV",
         "Launch"
       ]
     },
@@ -4088,22 +4066,6 @@
       "categories": []
     },
     {
-      "id": "google_news_028c779091",
-      "source": "Báo điện tử VTC News",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Mitsubishi: Một số xe cũ chưa xác định được khả năng tương thích với xăng E10",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdFpNQjhPcjVncmF4c2t5SWlSclBRVm5QVlJwOUZwbXh3QVdobURUVDhwdzVaMTJOY2JfT244WjFPTnhSUUZ2Y1FITi00UWdKS0diODBsT1l1VmNyVTZEMUljczRKVkJoTW1FcWhtTXJ6Z1YtUXBxN3VpZjhoeDFhcGRMam5Scy0xV2xoczExLUxkejJWODBocUkzTmNScDFaX2VEaGIxdnN6bHk1NVo0?oc=5",
-      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
-      "summary": "Mitsubishi: Một số xe cũ chưa xác định được khả năng tương thích với xăng E10 Báo điện tử VTC News",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": []
-    },
-    {
       "id": "google_news_28a4bf25a1",
       "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
@@ -4120,6 +4082,22 @@
       "categories": [
         "HEV"
       ]
+    },
+    {
+      "id": "google_news_028c779091",
+      "source": "Báo điện tử VTC News",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mitsubishi: Một số xe cũ chưa xác định được khả năng tương thích với xăng E10",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdFpNQjhPcjVncmF4c2t5SWlSclBRVm5QVlJwOUZwbXh3QVdobURUVDhwdzVaMTJOY2JfT244WjFPTnhSUUZ2Y1FITi00UWdKS0diODBsT1l1VmNyVTZEMUljczRKVkJoTW1FcWhtTXJ6Z1YtUXBxN3VpZjhoeDFhcGRMam5Scy0xV2xoczExLUxkejJWODBocUkzTmNScDFaX2VEaGIxdnN6bHk1NVo0?oc=5",
+      "publishedAt": "Wed, 03 Jun 2026 07:00:00 GMT",
+      "summary": "Mitsubishi: Một số xe cũ chưa xác định được khả năng tương thích với xăng E10 Báo điện tử VTC News",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": []
     },
     {
       "id": "google_news_b500481e79",
@@ -4672,25 +4650,6 @@
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT2dIbUNkb29YUjFUa3VybUk5WDRUYjlXaGJYOTRjb2xocm1Pd3drWjNqOVhJank0NktKeFRaLS1CVWdKYmJjQ3BYSWZzWmEtaWJnSUhjblBaZnQ2MkNKMDBLVDZPM0REQ0g3Z2ZfWHJsdUtZdm9vVGtsVUZLRk5wVmZFNVM4WExJQ0dnY1JUZHhWVmlVdWhYUXB2WVozSFB3cEtJZ0JJT3NVTTY1MFhIQkRqcG1NWDZxWHNNUUcwdW5UMDVrMHJxcEZzM2s?oc=5",
       "publishedAt": "Mon, 20 Apr 2026 07:00:00 GMT",
       "summary": "Xem trước Mitsubishi Pajero đời mới sắp ra mắt: Lắp gần Việt Nam, máy hybrid, cạnh tranh Prado Tuổi Trẻ",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": [
-        "HEV",
-        "Launch"
-      ]
-    },
-    {
-      "id": "google_news_c33bd98578",
-      "source": "autopro.com.vn",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Xem trước Mitsubishi Pajero đời mới ra mắt năm nay: Lắp ở gần Việt Nam, chung gầm Triton, máy hybrid, dễ cạnh tranh Land Cruiser Prado",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZUpSZTNROHR1MlFNNWE2VFJ3d29fQThqSjIyRG1JSnEtXzdlSjVvZFV5dnJfbDIxdlc2UG1nemNYODUyNkc4b2ZQdUhyS2tSMVhieFkxMEtENHJFemF2WW56RmVJcmdpV0NMRkxCa3BvUTNUSll1S3FVaXVtcEdibWpJSlJfc21hZ0lhZXF6OGdpSXlfVkZaR0VBREFLeXpaZ3czOHk1VFpQcEpWNWN6T01ETVREVzF3c1EtTHZ5R1ZxaUJTcXF5TUdEWjc4NjlnU19BWV8ta3BlemJhVVllaGkxWTliWXBCbUU5c1lJTVBtMmtGZUhfMGpHQkMwa1ZLVHA1QktjMA?oc=5",
-      "publishedAt": "Sun, 19 Apr 2026 07:00:00 GMT",
-      "summary": "Xem trước Mitsubishi Pajero đời mới ra mắt năm nay: Lắp ở gần Việt Nam, chung gầm Triton, máy hybrid, dễ cạnh tranh Land Cruiser Prado autopro.com.vn",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -6129,6 +6088,24 @@
         "Honda"
       ],
       "categories": []
+    },
+    {
+      "id": "tuoi_tre_994c424ae2",
+      "source": "Tuoi Tre",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "Cuộc chơi trạm sạc xe điện cho cả tài xế lẫn nhà đầu tư",
+      "url": "https://tuoitre.vn/cuoc-choi-tram-sac-xe-dien-cho-ca-tai-xe-lan-nha-dau-tu-100260721233954397.htm",
+      "publishedAt": "7/22/2026 6:00:00 AM",
+      "summary": "Trong khi nhiều chủ xe VinFast được miễn phí sạc đến năm 2029, người dùng các thương hiệu khác phải tính kỹ cả nơi sạc lẫn thời điểm cắm sạc, bởi mỗi hệ thống áp dụng một mức giá khác nhau.",
+      "thumbnail": "https://cdn2.tuoitre.vn/thumb_w/1200/471584752817336320/2026/7/21/nh-4-1781567034927-178156703551570011385jpg-17846502851411915129095-73-0-1168-1752-crop-1784650419277448515423.jpg",
+      "vehicleType": "unknown",
+      "makers": [
+        "VinFast"
+      ],
+      "categories": [
+        "EV"
+      ]
     },
     {
       "id": "tuoi_tre_e143dbc509",
