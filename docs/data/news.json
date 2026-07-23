@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-07-22T23:30:46.136092+00:00",
-  "totalCount": 413,
+  "lastUpdated": "2026-07-23T00:59:02.178543+00:00",
+  "totalCount": 414,
   "stats": {
     "totalRaw": 450,
     "excluded": 31,
-    "afterDedup": 413
+    "afterDedup": 414
   },
   "sources": [
     "ANTARA News",
@@ -19,7 +19,6 @@
     "Báo Dân trí",
     "Báo Hà Tĩnh",
     "Báo Khánh Hòa",
-    "Báo Thanh Niên",
     "Báo Thế giới và Việt Nam",
     "Báo Tri thức và Cuộc sống",
     "Báo VietNamNet",
@@ -42,6 +41,7 @@
     "TNGlobal",
     "Techz.vn",
     "Thanh Nien",
+    "Thanh Niên",
     "The Business Times",
     "Theinvestor",
     "Thể Thao 247",
@@ -49,9 +49,11 @@
     "Tuoi Tre",
     "Tuoi Tre News | The News Gateway to Vietnam",
     "Tuổi Trẻ",
+    "Tạp chí điện tử Thương Trường",
     "VIETTIMES",
     "VIR",
     "VOV.VN",
+    "Vietnam Economic Times",
     "Vietnam+ (VietnamPlus)",
     "Vietnam.vn",
     "VietnamNet",
@@ -74,6 +76,36 @@
   ],
   "articles": [
     {
+      "id": "vnexpress_50bb47744d",
+      "source": "VnExpress",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "Ngành ôtô Mỹ chạy đua loại bỏ phần cứng xuất xứ từ Trung Quốc",
+      "url": "https://vnexpress.net/nganh-oto-my-chay-dua-loai-bo-phan-cung-xuat-xu-tu-trung-quoc-5100176.html",
+      "publishedAt": "Thu, 23 Jul 2026 07:15:00 +0700",
+      "summary": "Các hãng xe đang gấp rút tìm kiếm nguồn cung thay thế cho các linh kiện kết nối thông minh sản xuất tại Trung Quốc.",
+      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/Polestar1-1784709541-9856-1784709861.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=skO8KmCL6fAJacdPF0JYmg",
+      "vehicleType": "unknown",
+      "makers": [],
+      "categories": []
+    },
+    {
+      "id": "vnexpress_a1c9c2a128",
+      "source": "VnExpress",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "Những pin xe điện tốt nhất sau 100.000 km",
+      "url": "https://vnexpress.net/nhung-pin-xe-dien-tot-nhat-sau-100-000-km-5100171.html",
+      "publishedAt": "Thu, 23 Jul 2026 06:40:00 +0700",
+      "summary": "Phân tích gần 10.000 bộ pin xe điện cho thấy dung lượng đều giữ trên 90% sau 100.000 km, với những cái tên vượt trội.",
+      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/KiaeNiro-1784704021-8772-1784704479.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bXw4IP88-eVy9vwSYLuURQ",
+      "vehicleType": "unknown",
+      "makers": [],
+      "categories": [
+        "EV"
+      ]
+    },
+    {
       "id": "vietnamnet_be157754a5",
       "source": "VietnamNet",
       "sourceCategory": "general",
@@ -86,6 +118,25 @@
       "vehicleType": "four_wheel",
       "makers": [],
       "categories": []
+    },
+    {
+      "id": "vnexpress_b9da6219ca",
+      "source": "VnExpress",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "Xe điện Hyundai Ioniq 5 sản xuất không đủ bán",
+      "url": "https://vnexpress.net/xe-dien-hyundai-ioniq-5-san-xuat-khong-du-ban-5100186.html",
+      "publishedAt": "Thu, 23 Jul 2026 06:01:00 +0700",
+      "summary": "Đứng thứ ba về doanh số xe điện tại Mỹ trong quý II, Ioniq 5 đang đối mặt nguy cơ thiếu hụt nguồn cung nghiêm trọng.",
+      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/07/22/HyundaiIoniq5-1784686373-7295-1784686416.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qvb45leuahM3Pd8kEW57sg",
+      "vehicleType": "unknown",
+      "makers": [
+        "Hyundai"
+      ],
+      "categories": [
+        "EV",
+        "Sales"
+      ]
     },
     {
       "id": "vnexpress_176c419e75",
@@ -1440,13 +1491,13 @@
     },
     {
       "id": "google_news_72f92ad3c8",
-      "source": "Báo Thanh Niên",
+      "source": "Thanh Niên",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Xe gia đình cỡ nhỏ: Doanh số VinFast Limo Green vượt mặt Mitsubishi Xpander",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR2lBcGlueWVyaU1EWV9QTXRzT1VIUGtabjlvZ202cDZxSzQwVUdUUE1nNi1zek5kcGJRT0VYQWxEdTYwN1AzWTc0SkFoXzVQMmMxclFJR3dpMEtHUlJaWGl4X1Q3YmZIaHgySmY0MWFISEZrOUNSc1FlUTFycHpiWGVNRkc2ZFJ6c3NfVk1pZzNSYXl3a0ZWOHA0MEcyNG9MSnV1WlN1VHNsbi1LbUNxX3F5RXBFQmc4R2c?oc=5",
       "publishedAt": "Mon, 20 Jul 2026 14:48:00 GMT",
-      "summary": "Xe gia đình cỡ nhỏ: Doanh số VinFast Limo Green vượt mặt Mitsubishi Xpander Báo Thanh Niên",
+      "summary": "Xe gia đình cỡ nhỏ: Doanh số VinFast Limo Green vượt mặt Mitsubishi Xpander Thanh Niên",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -2905,23 +2956,6 @@
       "categories": []
     },
     {
-      "id": "vnexpress_e285e967a5",
-      "source": "VnExpress",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Toyota và BMW thử nghiệm xe chạy xăng làm từ dầu ăn",
-      "url": "https://vnexpress.net/toyota-va-bmw-thu-nghiem-xe-chay-xang-lam-tu-dau-an-5098375.html",
-      "publishedAt": "Fri, 17 Jul 2026 12:05:13 +0700",
-      "summary": "BMW, Toyota và Bosch muốn chứng minh xăng tái tạo giúp giảm phát thải tức thì trên các dòng ôtô hiện hành mà không cần cải tiến phần cứng.",
-      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/07/17/Repsol1-1784253046-6571-1784253234.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qb7nLpIrVZXgo8r_ka7woQ",
-      "vehicleType": "unknown",
-      "makers": [
-        "Toyota",
-        "BMW"
-      ],
-      "categories": []
-    },
-    {
       "id": "thanh_nien_ff3eefced4",
       "source": "Thanh Nien",
       "sourceCategory": "general",
@@ -3050,38 +3084,6 @@
       ],
       "categories": [
         "Sales"
-      ]
-    },
-    {
-      "id": "vnexpress_d0e0d99116",
-      "source": "VnExpress",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Ôtô điện dành riêng cho phái nữ với loạt tính năng 'độc lạ'",
-      "url": "https://vnexpress.net/oto-dien-danh-rieng-cho-phai-nu-voi-loat-tinh-nang-doc-la-5097706.html",
-      "publishedAt": "Fri, 17 Jul 2026 06:00:00 +0700",
-      "summary": "Phiên bản nâng cấp của Ora Ballet Cat có một số tính năng giúp chiều chuộng phái đẹp như camera selfie ở cột A.",
-      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/07/15/gwmora2-1784099306-7733-1784099850.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8jionbIcMGiQVgDDUU_GtQ",
-      "vehicleType": "four_wheel",
-      "makers": [],
-      "categories": []
-    },
-    {
-      "id": "vnexpress_e99b5f11cd",
-      "source": "VnExpress",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Chủ tịch Ford: Không thể ngăn ôtô Trung Quốc mãi mãi",
-      "url": "https://vnexpress.net/chu-tich-ford-khong-the-ngan-oto-trung-quoc-mai-mai-5097963.html",
-      "publishedAt": "Fri, 17 Jul 2026 05:00:00 +0700",
-      "summary": "Ông Bill Ford cho rằng các hãng xe Mỹ cần sẵn sàng đấu sòng phẳng với các đối thủ Trung Quốc thay vì trông chờ vào rào cản thuế quan.",
-      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/07/16/Ford1-1784172168-4722-1784172252.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=1VTpQv-uOs6Q-wtKVv1bnw",
-      "vehicleType": "unknown",
-      "makers": [
-        "Ford"
-      ],
-      "categories": [
-        "Policy"
       ]
     },
     {
@@ -3562,13 +3564,13 @@
     },
     {
       "id": "google_news_76cafb3838",
-      "source": "Báo Thanh Niên",
+      "source": "Thanh Niên",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "6 ô tô nhập khẩu bán chạy nhất Việt Nam nửa đầu năm 2026",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZXpndEVpNXJZWTlyTUM5UXlLNW5nQ2RrMWVIUXVpTnJuYUlULVp4bDR5TkxTNl9PWXItSlloQjhibjVmT2FzNWlfa2psVFJQMUlfeENOUHE1OGlFNGRoUUFyQ2M4LUhid0RJYmY0V3V2YTQ5NUFFNWlYNERZSWxXQnM1NVNPb290cTkyUkhhX2ktMTVQVEExcnFoWGFBZHdldGc?oc=5",
       "publishedAt": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "summary": "6 ô tô nhập khẩu bán chạy nhất Việt Nam nửa đầu năm 2026 Báo Thanh Niên",
+      "summary": "6 ô tô nhập khẩu bán chạy nhất Việt Nam nửa đầu năm 2026 Thanh Niên",
       "thumbnail": "",
       "vehicleType": "four_wheel",
       "makers": [],
@@ -3712,13 +3714,13 @@
     },
     {
       "id": "google_news_75907e35f3",
-      "source": "Báo Thanh Niên",
+      "source": "Thanh Niên",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Xe MPV phổ thông: Hyundai Stargazer đại hạ giá, Mitsubishi Xpander tăng ưu đãi đấu Veloz",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXFpSlJ5TFBrSkZhM2M5cTk1SkdSQ0xLR3dvZGNWNXMzTW9FTXh6bFhISGQ1YkNKalA5UGVmUEFiTllXRWNLSFhrV0c5SDR1aklZZGFzOTFJaTJYVVU3Ynk3V1NnWnpWeUdSb0JoNEpaVlJtYUxyZXdhaDNsQnlRU1BVRjV3bmYxWEdVYU0waFpjZ0c5VEljLVZTTGdha3diT2pnTWNoekVXRkpIVUJ5R0E0RDdoZThkbmtCREI5cjhiTWhUTmFleg?oc=5",
       "publishedAt": "Wed, 08 Jul 2026 07:00:00 GMT",
-      "summary": "Xe MPV phổ thông: Hyundai Stargazer đại hạ giá, Mitsubishi Xpander tăng ưu đãi đấu Veloz Báo Thanh Niên",
+      "summary": "Xe MPV phổ thông: Hyundai Stargazer đại hạ giá, Mitsubishi Xpander tăng ưu đãi đấu Veloz Thanh Niên",
       "thumbnail": "",
       "vehicleType": "four_wheel",
       "makers": [
@@ -3959,13 +3961,13 @@
     },
     {
       "id": "google_news_10efbd3e53",
-      "source": "Báo Thanh Niên",
+      "source": "Thanh Niên",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mua xe 7 chỗ tầm giá 650 triệu, chọn Mitsubishi Xpander hay Toyota Veloz Cross?",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1RlNDhuZnRqbm42cnpRQXUwYWNJbEFGRlhEczN0NjdwZ1ZRT2xab0s2UlozTFVzLVlMQ3lLREl3OWdoR1B4blVxTjBfNzU4b09vSWlKVjdBNmFmMjhUNl9iNmhiWE9jN0ZvNFVGbksxRkdIcEl3TkM4WTcwUzl2bV9WX0xPQzd0bFpKY3NsNkVVOUgyTzNVMXNuQjdhS0NtX0lBZFBsR2UyMWFoUlh1ZDdzbXJKbXo5WmJDV05B?oc=5",
       "publishedAt": "Sun, 28 Jun 2026 07:00:00 GMT",
-      "summary": "Mua xe 7 chỗ tầm giá 650 triệu, chọn Mitsubishi Xpander hay Toyota Veloz Cross? Báo Thanh Niên",
+      "summary": "Mua xe 7 chỗ tầm giá 650 triệu, chọn Mitsubishi Xpander hay Toyota Veloz Cross? Thanh Niên",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4404,13 +4406,13 @@
     },
     {
       "id": "google_news_f4f82b73c9",
-      "source": "Báo Thanh Niên",
+      "source": "Thanh Niên",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Xpander đã qua sử dụng 3 năm lỗ bao nhiêu?",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZkhVemZnZXd2Yk9FRFY2S2czZ0l5bEw2UllmcDVQbmNHSWdFUHE3UngyUV9acVdoRTNFbmJtSkJWQnNlMTQwNmZpbkEwWGxLdS1Lc1lVbEI3TC00aTFhc3JsOUVNRjN5eUlYVi1nSDhyWjM1eW5INzJDdlYtWVRKNmh6U05wN0hnZFhfeU9nUS1US0RWWDdxQkJHT0k?oc=5",
       "publishedAt": "Mon, 11 May 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Xpander đã qua sử dụng 3 năm lỗ bao nhiêu? Báo Thanh Niên",
+      "summary": "Mitsubishi Xpander đã qua sử dụng 3 năm lỗ bao nhiêu? Thanh Niên",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4581,13 +4583,31 @@
     },
     {
       "id": "google_news_e4f38d60e6",
-      "source": "Báo Thanh Niên",
+      "source": "Thanh Niên",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Hơn 5.000 xe Mitsubishi Xpander tại Việt Nam dính lỗi ghế, phải triệu hồi khắc phục",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWDVKU3JYWU1OUVFtN0xQZEc1THZNRDNkMEJfNUE2ME9JbzF5c0ctUE9jdTE0UklqV1E4WGNJQ0JaZDN5N3FCRGNGOTZQNnVWN2VxLVFoSFRkZHFQVnhzRHRCQ1dldWp5WEJzZFZNV0ZUci1XVXpzcmdfOVV5VVU1T3k1ajhobHd5Y2ZyWHZwMEdOZF90aG4ycWxVZkZORTMtM0NiNC03bnUxeS1CUEgyOW5ReS1BOXlQN3lFSjVnUHo0Uzg?oc=5",
       "publishedAt": "Sat, 02 May 2026 07:00:00 GMT",
-      "summary": "Hơn 5.000 xe Mitsubishi Xpander tại Việt Nam dính lỗi ghế, phải triệu hồi khắc phục Báo Thanh Niên",
+      "summary": "Hơn 5.000 xe Mitsubishi Xpander tại Việt Nam dính lỗi ghế, phải triệu hồi khắc phục Thanh Niên",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": [
+        "Recall"
+      ]
+    },
+    {
+      "id": "google_news_8639f5d579",
+      "source": "Tạp chí điện tử Thương Trường",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Thu hồi hơn 5.000 xe Mitsubishi Xpander, Xpander Cross tại Việt Nam",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeE9uOTU5dXhhQmlOdDNZSVVlbm9kQUhiTnNOVTdJRGZhbXd5aUliaFQ3MVB6SkdXZGhGMVVkYkNkQ3ZaWWFyOTlEdWROWXpmeWRISXV0dEh4OG9IcXZfMHBuSVU3Zm9obnVIZFZNQ3lLd21Vd1BUWGZMQVpJSEhMZEk1NTlUNGZyc2psWTF6SjdsOVk0d1liUnBHb2RZeUpYVkxJRWFySVZyOVduQTdJ?oc=5",
+      "publishedAt": "Thu, 30 Apr 2026 07:00:00 GMT",
+      "summary": "Thu hồi hơn 5.000 xe Mitsubishi Xpander, Xpander Cross tại Việt Nam Tạp chí điện tử Thương Trường",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -5002,6 +5022,20 @@
       "makers": [
         "Mitsubishi"
       ],
+      "categories": []
+    },
+    {
+      "id": "google_news_3365512ba0",
+      "source": "Vietnam Economic Times",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Japanese bank raises Vietnam's growth forecast",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HZkp2RkNNT3liTU5fSzZoV2ptcVFuX0hkcW00cEUzZWgyZTRBNnZfU2JwUm51LW1QYXprRUtrTlFNZFQ4dVBEWEI3YjhKWWo4eWEzQnlkZHhnR2ZsNkRGVkw2aExfcVh2NTZDRmdESmtmQnZhT3A3SmNZSDRVZw?oc=5",
+      "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
+      "summary": "Japanese bank raises Vietnam's growth forecast Vietnam Economic Times",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [],
       "categories": []
     },
     {
@@ -5445,22 +5479,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTVJSVVSVHd1a1BmZWh5SW40YXlYZTNuWGVNbHpMeFU1cldHN1MyWWt3WWxhX1BlaDBYU243YVI5RXF2N2FINTFQNmZDeGNSR0ZUa2dva2N3bEZfMFZKM2xkaHlvMHpiS0hDcmlIbi1Tek5GaFdFQXJPNFktTGNET2xmMXNsTHhNTTVKWWtNY0NMeVYxZV9DakZCSVdpdUpPY2pUUVlRWDk5dlk?oc=5",
       "publishedAt": "Mon, 17 Jun 2024 07:00:00 GMT",
       "summary": "Vietnam May 2024: Mitsubishi Xpander now #1 YTD in recovering market Best Selling Cars Blog",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": []
-    },
-    {
-      "id": "google_news_a0e5a84e5a",
-      "source": "Best Selling Cars Blog",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Vietnam March 2024: Mitsubishi Xforce lands directly at #3",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbWxKZGRtdUMwY21BNGY3TGtTRjVVTzdLcjNzYkFxMFNlT2lJYUhwYS1PRUltOWJqS2tFek0tOWN1bGs5MEhHNmZzM3FaTEJuNDZQcGVlU255aFZqaTc0Tk8zeFByNldZN21wRFQ3Y3MwVnpYZ01mZlFCSHIzdlFqUnYwMllyRlZ4bG5yeDJCUjBVV3I3X1pYekh3Um8?oc=5",
-      "publishedAt": "Wed, 17 Apr 2024 07:00:00 GMT",
-      "summary": "Vietnam March 2024: Mitsubishi Xforce lands directly at #3 Best Selling Cars Blog",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
