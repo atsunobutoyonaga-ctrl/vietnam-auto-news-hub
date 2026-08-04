@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T23:30:44.635360+00:00",
+  "lastUpdated": "2026-08-04T00:58:15.257237+00:00",
   "totalCount": 407,
   "stats": {
     "totalRaw": 450,
@@ -11,8 +11,9 @@
     "AutoDeal",
     "AutoPro",
     "Automotive World",
+    "Best Selling Cars Blog",
+    "Báo Công Luận",
     "Báo Dân trí",
-    "Báo Thanh Niên",
     "Báo Thế giới và Việt Nam",
     "Báo VietNamNet",
     "Báo Đà Nẵng",
@@ -22,17 +23,15 @@
     "CafeF",
     "Cộng đồng xe Việt Nam",
     "Dan Tri",
-    "Enerdata",
     "Gia đình & Xã hội",
-    "International Business Times",
     "Logistics Manager",
     "Mitsubishi Power",
     "Nhịp sống kinh doanh",
     "Nikkei Asia",
     "Plataforma Media",
     "TNGlobal",
-    "Techz.vn",
     "Thanh Nien",
+    "Thanh Niên",
     "The Business Times",
     "Theinvestor",
     "Thể Thao 247",
@@ -46,6 +45,7 @@
     "VIETTIMES",
     "VIR",
     "VOV.VN",
+    "Vietnam Economic Times",
     "Vietnam+ (VietnamPlus)",
     "Vietnam.vn",
     "VietnamNet",
@@ -58,20 +58,53 @@
     "automotivelogistics.media",
     "autopro.com.vn",
     "baonghean.vn",
-    "bestsellingcarsblog.com",
     "bnews.vn",
-    "congluan.vn",
     "diendandoanhnghiep.vn",
-    "en.vneconomy.vn",
+    "enerdata.net",
+    "jp.ibtimes.com",
     "mitsubishi-motors.com",
     "mol.co.jp",
     "mri.co.jp",
     "nguoiquansat.vn",
+    "techz.vn",
     "thuonghieucongluan.com.vn",
     "vietnamnews.vn",
     "xehay.vn"
   ],
   "articles": [
+    {
+      "id": "google_news_43993e2370",
+      "source": "nguoiquansat.vn",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mẫu xe MPV 7 chỗ Toyota Veloz Hybrid chốt giá 440 triệu đồng, phả hơi nóng lên Mitsubishi Xpander",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeVFCdjVoU0hHcUtZX3RhaXFoQmpzZGVGdUJPVEUtSnAxTDg5OXZsOVlKYjZMekxWLU1mQkJFZkV2TDVTakdiZUxyVWtBY3FSNXMzWXd4Y0FkOFNLLXVxVVFuc3BCVmFtY1k4Y0gycXVnbkpOQzhhQnpaWEFKbWxjMVU0cmxEZUJzaUdmQVVMME54aTVIc0dqSE1tR0l5NHUxd3RleDNpV29YbXU1b3dFMkU0T1cxWEh1T2o3aUJVS1lqSno5NWkyc08ySVM?oc=5",
+      "publishedAt": "Tue, 04 Aug 2026 00:00:01 GMT",
+      "summary": "Mẫu xe MPV 7 chỗ Toyota Veloz Hybrid chốt giá 440 triệu đồng, phả hơi nóng lên Mitsubishi Xpander nguoiquansat.vn",
+      "thumbnail": "",
+      "vehicleType": "four_wheel",
+      "makers": [
+        "Mitsubishi",
+        "Toyota"
+      ],
+      "categories": [
+        "HEV"
+      ]
+    },
+    {
+      "id": "vnexpress_c592046e04",
+      "source": "VnExpress",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "Xe tải lật ngang xô vào xe ngược chiều",
+      "url": "https://vnexpress.net/xe-tai-lat-ngang-xo-vao-xe-nguoc-chieu-5104393.html",
+      "publishedAt": "Tue, 04 Aug 2026 06:34:00 +0700",
+      "summary": "Xe tải ôm cua tốc độ cao bị đổ ngang xô vào ôtô ở hướng ngược chiều, hôm 1/8 tại đường 29, Văn Bản.",
+      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/08/03/ezgif184096d3300e3081-17857161-8000-9177-1785717271.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=KO4DN_nlyoUJ0TrMJdXNsw&t=image",
+      "vehicleType": "unknown",
+      "makers": [],
+      "categories": []
+    },
     {
       "id": "vnexpress_63039cd95b",
       "source": "VnExpress",
@@ -822,13 +855,13 @@
     },
     {
       "id": "google_news_7cc384c011",
-      "source": "Techz.vn",
+      "source": "techz.vn",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "MG G50 giảm ‘chạm đáy’ còn 395 triệu: MPV 7 chỗ giá rẻ, hợp cả gia đình và dịch vụ, ‘đấu’ Xpander",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPODBZcmZUZjcwdWV3aDRSR21ITXpaV1NZd1I4VElUenowT0g3NkJINTVDR1FuakZkdkpLVHFkaTBqNUZIa0hDcHJxbm1faHc0N2Q4Rl92UWxuUG1MaVpwaHZBYXdYSE5RQ3NJNVpUcm1EZmlxSnpieFlhN29Qd3c5LVBtRGt3cVdYT0RNRUJTenI5NU5YSzJHQjg4UXA1VGRiRkExdWZTUzRrTlEyYUppQmNLZ2NnWnFGZVk5XzdIbXhGLWJWNTdRSUJKUWY0UmtFWmc?oc=5",
       "publishedAt": "Sun, 02 Aug 2026 09:51:45 GMT",
-      "summary": "MG G50 giảm ‘chạm đáy’ còn 395 triệu: MPV 7 chỗ giá rẻ, hợp cả gia đình và dịch vụ, ‘đấu’ Xpander Techz.vn",
+      "summary": "MG G50 giảm ‘chạm đáy’ còn 395 triệu: MPV 7 chỗ giá rẻ, hợp cả gia đình và dịch vụ, ‘đấu’ Xpander techz.vn",
       "thumbnail": "",
       "vehicleType": "four_wheel",
       "makers": [
@@ -1488,13 +1521,13 @@
     },
     {
       "id": "google_news_68899e118a",
-      "source": "Techz.vn",
+      "source": "techz.vn",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Suzuki XL7 facelift ra mắt: MPV gia đình thêm camera 360, cạnh tranh Mitsubishi Xpander",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZl9uTkdkYlpmTUV0VzVPWFNjZW9XZ3kzVS0tQkNQd2xNNkktZDYyc0FOYXNXVW5yWkNSVWk5OHlQQ1JHTEFNVHhiZEVOUEh6TnhfM0hDS0NCREVVekFQZXJ2aXNZSUxESkZmcGd0MGY5d3RLa04taXNNX1MtbzEtWkFUSzZBTDd5eUROVG9wb3VVSHpKM1VUUkw4Qkp6WnlBQXg4eDJhMHV4QkdwRGNBaWdDYk9QOHRyaHVacWQ2Wk5PQ3NoQW9KU3NEcw?oc=5",
       "publishedAt": "Fri, 31 Jul 2026 15:43:07 GMT",
-      "summary": "Suzuki XL7 facelift ra mắt: MPV gia đình thêm camera 360, cạnh tranh Mitsubishi Xpander Techz.vn",
+      "summary": "Suzuki XL7 facelift ra mắt: MPV gia đình thêm camera 360, cạnh tranh Mitsubishi Xpander techz.vn",
       "thumbnail": "",
       "vehicleType": "four_wheel",
       "makers": [
@@ -1970,25 +2003,6 @@
       "categories": []
     },
     {
-      "id": "vnexpress_53bcecf070",
-      "source": "VnExpress",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "VinFast mang dàn xe điện đến triển lãm ôtô Indonesia",
-      "url": "https://vnexpress.net/vinfast-mang-dan-xe-dien-den-trien-lam-oto-indonesia-5103444.html",
-      "publishedAt": "Thu, 30 Jul 2026 18:00:00 +0700",
-      "summary": "Hãng xe Việt Nam trở lại triển lãm ôtô quốc tế Gaikindo Indonesia (GIIAS) 2026, giới thiệu dải sản phẩm VF 3, VF 6, VF 7, VF MPV 7 và dòng xe Green, hôm 29/7.",
-      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/07/30/photo-1785405641-9195-1785405750.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=wpqV9PDO3sUoo9VtoqLnAA",
-      "vehicleType": "four_wheel",
-      "makers": [
-        "VinFast"
-      ],
-      "categories": [
-        "EV",
-        "Launch"
-      ]
-    },
-    {
       "id": "thanh_nien_b21530ad45",
       "source": "Thanh Nien",
       "sourceCategory": "general",
@@ -2039,13 +2053,13 @@
     },
     {
       "id": "google_news_c9cc9b2122",
-      "source": "Techz.vn",
+      "source": "techz.vn",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "BYD M6 DM ra mắt: MPV gia đình 7 chỗ giá từ 434 triệu đồng, ‘đối cứng’ của Mitsubishi Xpander",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTkx1ZXFxUEQ2MXVzSV90RDMzYXRGVEhQNFhzZXpUcmNuaVRsM0pvOUNvenp2YVZQN21hVndQMURDalhTZ1gyQTVFUXdUN3ZOU1QyWUtvSkJUdjhfN2VUb19EaU5wdjFIUlJVUEJ4NXA3Z2t5LWVJWktMTV9QZVJUSUxzeEhPSDJaUERIcXRreWJiZUxiU0wtNFVkOXJCbDhfTTRxVlhoTmNMdXN0TFVLOGtPRU5FV2cxcHZvMncyZWwxVTRYZzdaMWJGTktLNHp1?oc=5",
       "publishedAt": "Thu, 30 Jul 2026 09:25:12 GMT",
-      "summary": "BYD M6 DM ra mắt: MPV gia đình 7 chỗ giá từ 434 triệu đồng, ‘đối cứng’ của Mitsubishi Xpander Techz.vn",
+      "summary": "BYD M6 DM ra mắt: MPV gia đình 7 chỗ giá từ 434 triệu đồng, ‘đối cứng’ của Mitsubishi Xpander techz.vn",
       "thumbnail": "",
       "vehicleType": "four_wheel",
       "makers": [
@@ -2141,13 +2155,13 @@
     },
     {
       "id": "google_news_16faf387e4",
-      "source": "Techz.vn",
+      "source": "techz.vn",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Toyota chính thức ra mắt mẫu MPV 7 chỗ đẹp long lanh giá 440 triệu đồng: ‘Xé vé’ Mitsubishi Xpander",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOT1ZWWlNOOFotUEhjT3ptZDBiSWI5c3pwWElKc3dXWDEyYlJCSk5NRDVOdFJEOXlXMXhFbUFPZG9UUVEtdHRuSkJ0TlhHTE55S3lKVkYwRmhWTmRLbUVWcEpTSThMdjEtQWdVQUxaQzZCd0MydFQzdXMyVG1Rdl9IRndPOUh6aDU2SkVRSTNJS2sxMGFfNUlnbFE1YV9Wdm43aV80UHdpVVNXdlJkRk81UVJwS05VYzFfZTJOdE1ZR2dOcmszVkJtam1HQlRTV1Y0SXdGbzVVZ1lFUQ?oc=5",
       "publishedAt": "Thu, 30 Jul 2026 07:16:40 GMT",
-      "summary": "Toyota chính thức ra mắt mẫu MPV 7 chỗ đẹp long lanh giá 440 triệu đồng: ‘Xé vé’ Mitsubishi Xpander Techz.vn",
+      "summary": "Toyota chính thức ra mắt mẫu MPV 7 chỗ đẹp long lanh giá 440 triệu đồng: ‘Xé vé’ Mitsubishi Xpander techz.vn",
       "thumbnail": "",
       "vehicleType": "four_wheel",
       "makers": [
@@ -3471,13 +3485,13 @@
     },
     {
       "id": "google_news_76cafb3838",
-      "source": "Báo Thanh Niên",
+      "source": "Thanh Niên",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "6 ô tô nhập khẩu bán chạy nhất Việt Nam nửa đầu năm 2026",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZXpndEVpNXJZWTlyTUM5UXlLNW5nQ2RrMWVIUXVpTnJuYUlULVp4bDR5TkxTNl9PWXItSlloQjhibjVmT2FzNWlfa2psVFJQMUlfeENOUHE1OGlFNGRoUUFyQ2M4LUhid0RJYmY0V3V2YTQ5NUFFNWlYNERZSWxXQnM1NVNPb290cTkyUkhhX2ktMTVQVEExcnFoWGFBZHdldGc?oc=5",
       "publishedAt": "Mon, 13 Jul 2026 07:00:00 GMT",
-      "summary": "6 ô tô nhập khẩu bán chạy nhất Việt Nam nửa đầu năm 2026 Báo Thanh Niên",
+      "summary": "6 ô tô nhập khẩu bán chạy nhất Việt Nam nửa đầu năm 2026 Thanh Niên",
       "thumbnail": "",
       "vehicleType": "four_wheel",
       "makers": [],
@@ -3572,24 +3586,6 @@
       "categories": []
     },
     {
-      "id": "google_news_375acaa728",
-      "source": "VOV.VN",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Mitsubishi Xpander bị triệu hồi tại Việt Nam do lỗi tựa lưng hàng ghế thứ hai",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdnZ4OENqd2pGQ1B3UVhVVVQxVWN4bmlVSmRjOXhZVFI4SW01b0RVa0NEYldjbUdacV94SUJZUW1YMTRzQU52bjdBUjZQSEJRb1hiTEo3Y29jMVkwbW1KVWxmanRvS3NXbWRNeTMyRXp1S1NXNjdZMUFVLXZBRkVFanYzaWR2WDNNQlpmSHpJby1RdTNXR3NBWENxTzZ1Y05PQXZqVkJxS3NCeS0xWGFWenByb0R2ajBucTRFUg?oc=5",
-      "publishedAt": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Xpander bị triệu hồi tại Việt Nam do lỗi tựa lưng hàng ghế thứ hai VOV.VN",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": [
-        "Recall"
-      ]
-    },
-    {
       "id": "google_news_24bcf50afe",
       "source": "baonghean.vn",
       "sourceCategory": "googlenews",
@@ -3633,22 +3629,6 @@
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [],
-      "categories": []
-    },
-    {
-      "id": "google_news_f786cfb3b5",
-      "source": "VnExpress",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Mitsubishi Pajero thế hệ mới tái hiện cụm đồng hồ huyền thoại",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1NsNU1KMWhvTEVYZ2gxRWFMdmdHMEhZTWdycTdSYm1YclVYczZoNXI1MXJKMEtZZGFJX1NaMVo4Z0RENWE1dldjTDNBUUhUOFd2N1VXMk8yaXFJMjM2MDJTcVpING1hN1FBdUFDNndWS1JOdGh1Y2tIa2ZXZG01M015WXNHSTBWYzNiNXJ6UUF2NDE0c2hveG1jLVc?oc=5",
-      "publishedAt": "Tue, 30 Jun 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Pajero thế hệ mới tái hiện cụm đồng hồ huyền thoại VnExpress",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
       "categories": []
     },
     {
@@ -3976,6 +3956,22 @@
       "categories": []
     },
     {
+      "id": "google_news_e7738748c5",
+      "source": "CafeF",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Nếu chạy đều hơn 65km/ngày, chủ xe Mitsubishi Xpander tại Việt Nam sẽ không tốn tiền đổ xăng suốt hơn 2 năm",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNak40V2hDclBaSXNGOVYwODFkT0FkR1hnZmFqNVhRQkdJOUxwMy1QZUV0anBTQm83NGZmdHpXcDh5cG1XUGdrSHZVTERPZzg1ZkE3Zy1FSVdCMTRBdERrb2ZMQlZsSkNxQTRPUi1NYUpOaEtiSUJqeXJIazRvc1NEekh3aTJYTVM3NHAxZ2p5R1F0bEJrOGdJdmptaExpaDVUOGdlUnY1YVpBREJueEJtdHg0U0FaLS10NVFiVkxXeURyOGgyTzdrR0F1Q0k5WGU3Q0pfLW5ydzZ3U1hUR004?oc=5",
+      "publishedAt": "Wed, 13 May 2026 07:00:00 GMT",
+      "summary": "Nếu chạy đều hơn 65km/ngày, chủ xe Mitsubishi Xpander tại Việt Nam sẽ không tốn tiền đổ xăng suốt hơn 2 năm CafeF",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": []
+    },
+    {
       "id": "google_news_29a40d668d",
       "source": "Vietnam+ (VietnamPlus)",
       "sourceCategory": "googlenews",
@@ -4030,13 +4026,13 @@
     },
     {
       "id": "google_news_f4f82b73c9",
-      "source": "Báo Thanh Niên",
+      "source": "Thanh Niên",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Xpander đã qua sử dụng 3 năm lỗ bao nhiêu?",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZkhVemZnZXd2Yk9FRFY2S2czZ0l5bEw2UllmcDVQbmNHSWdFUHE3UngyUV9acVdoRTNFbmJtSkJWQnNlMTQwNmZpbkEwWGxLdS1Lc1lVbEI3TC00aTFhc3JsOUVNRjN5eUlYVi1nSDhyWjM1eW5INzJDdlYtWVRKNmh6U05wN0hnZFhfeU9nUS1US0RWWDdxQkJHT0k?oc=5",
       "publishedAt": "Mon, 11 May 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Xpander đã qua sử dụng 3 năm lỗ bao nhiêu? Báo Thanh Niên",
+      "summary": "Mitsubishi Xpander đã qua sử dụng 3 năm lỗ bao nhiêu? Thanh Niên",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4065,13 +4061,13 @@
     },
     {
       "id": "google_news_9cc6f6ccac",
-      "source": "congluan.vn",
+      "source": "Báo Công Luận",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Xforce 2026 ra mắt thị trường Việt Nam, giá bán tăng nhẹ",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUVp6Q0lPb0xiWEdKUFBkaUlEb2ZvMHFDYTEyY2VFMVpTeHg0SDNaZ1N4cm56enZnX1hWSDc2MTRCMWxrd25XZVQxSG1yT0VydHc2MmFFT2lKbDJ6LWFkbnJLbWNERnJRLUZOVVp4R0d1ZkZjMDdHQVVEVlkyN1NMeXRjeFFkSWVnN21iaS1NYy1SY0xiQmlBLS1pVnU4Z0pYdlZYZA?oc=5",
       "publishedAt": "Sun, 10 May 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Xforce 2026 ra mắt thị trường Việt Nam, giá bán tăng nhẹ congluan.vn",
+      "summary": "Mitsubishi Xforce 2026 ra mắt thị trường Việt Nam, giá bán tăng nhẹ Báo Công Luận",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4153,13 +4149,13 @@
     },
     {
       "id": "google_news_2419fdd4d3",
-      "source": "congluan.vn",
+      "source": "Báo Công Luận",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Hàng nghìn xe Mitsubishi Xpander bị lỗi phải triệu hồi tại Việt Nam",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNXdUVElfUG5tZGE1eFBEVEJiMzE4STIwM1E3XzJPcllzVnlBelV6cDBVOF81aEl2WV9IdFd5eWtuUGtwQS1zQnctWEVxSkVCcXdWYzY0Tl9Rc29uVGhWd1FJQ0M0ZTZjM2N4WW1uSVBQallFZlNIeUFWT0hPU1VuQktpZEhqbXlsOVdTRmI4RU1NdVF0RGZGanFQZUZnZjNoMndUQjRB?oc=5",
       "publishedAt": "Mon, 04 May 2026 07:00:00 GMT",
-      "summary": "Hàng nghìn xe Mitsubishi Xpander bị lỗi phải triệu hồi tại Việt Nam congluan.vn",
+      "summary": "Hàng nghìn xe Mitsubishi Xpander bị lỗi phải triệu hồi tại Việt Nam Báo Công Luận",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4189,13 +4185,13 @@
     },
     {
       "id": "google_news_e4f38d60e6",
-      "source": "Báo Thanh Niên",
+      "source": "Thanh Niên",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Hơn 5.000 xe Mitsubishi Xpander tại Việt Nam dính lỗi ghế, phải triệu hồi khắc phục",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWDVKU3JYWU1OUVFtN0xQZEc1THZNRDNkMEJfNUE2ME9JbzF5c0ctUE9jdTE0UklqV1E4WGNJQ0JaZDN5N3FCRGNGOTZQNnVWN2VxLVFoSFRkZHFQVnhzRHRCQ1dldWp5WEJzZFZNV0ZUci1XVXpzcmdfOVV5VVU1T3k1ajhobHd5Y2ZyWHZwMEdOZF90aG4ycWxVZkZORTMtM0NiNC03bnUxeS1CUEgyOW5ReS1BOXlQN3lFSjVnUHo0Uzg?oc=5",
       "publishedAt": "Sat, 02 May 2026 07:00:00 GMT",
-      "summary": "Hơn 5.000 xe Mitsubishi Xpander tại Việt Nam dính lỗi ghế, phải triệu hồi khắc phục Báo Thanh Niên",
+      "summary": "Hơn 5.000 xe Mitsubishi Xpander tại Việt Nam dính lỗi ghế, phải triệu hồi khắc phục Thanh Niên",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4289,13 +4285,13 @@
     },
     {
       "id": "google_news_517b09df60",
-      "source": "Enerdata",
+      "source": "enerdata.net",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Vietnam inaugurates 1.32 GW Vung Ang II coal-fired power plant",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGoyanRaQUlwZzJubDNUSmhxb1d1WjZNcEpiMUEtbVZ2bEROYXRjZVFUTzA3dDhPMzhBNjNfNUM4SC1yajRjOV9pbWhHM0syVE50eE9xV2QwYXU1VGFHQWRZNThydGxheFFHRmkyRjliLWh6WmxjRWxNSGN6SHJlWHFJdTFKNUZVSkhmQTNQV1JqQTBhU0hqc09jcDQyVEhSbGI3Z3B3TlFFLVBGcVFlYkNkY1pBUmJ5WGF0c1pBOA?oc=5",
       "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "summary": "Vietnam inaugurates 1.32 GW Vung Ang II coal-fired power plant Enerdata",
+      "summary": "Vietnam inaugurates 1.32 GW Vung Ang II coal-fired power plant enerdata.net",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [],
@@ -4303,13 +4299,13 @@
     },
     {
       "id": "google_news_b620e3caa5",
-      "source": "bestsellingcarsblog.com",
+      "source": "Best Selling Cars Blog",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Vietnam March 2026: VinFast reaches record 39% share",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZHRRZUJDa0RWSWliVHU5ZXJWX2ZBRGllVjdkSEdYZGh6VXllRHd4RUEzLUhWNFZWTnMxYkxBVWpKSTlHaDR4LXdmeEdwemRZalVzTElFdUJTUHZwN2FNZ0F3VVB3bmp5djdFRlFRY2J1RTkxckxjM0JCcXI5MWMzbk0zZlJaVVFrZ2JmVmpYRGJNSVpHN0E?oc=5",
       "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "summary": "Vietnam March 2026: VinFast reaches record 39% share bestsellingcarsblog.com",
+      "summary": "Vietnam March 2026: VinFast reaches record 39% share Best Selling Cars Blog",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4373,13 +4369,13 @@
     },
     {
       "id": "google_news_22cc51894c",
-      "source": "International Business Times",
+      "source": "jp.ibtimes.com",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Tokyu Land, Mitsubishi Corp Form Vietnam JV to Develop 2,600-Unit 'Hydrotherapy City' Complex in Ho Chi Minh City",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQXNWZ3h1V29qYlE0emJVa0ZTVzdZMjl0bHloRnRzWGpHc0lVNTNpVmV6Q2FRM1dqRVFCSC1feVdwOHhWcXFISThJbU9KdVpfRGx4RUVubl9aay1wLV9nYWtXdXRGQVYyYXV5UGhLRE1ZcjlqdEdOVlF3Z1B1anRWZ1MySE5RZWVheXhnWkNWdlQ1end6bUh0V1VtUFNFdU54anBuVjREMTJDS3pJTHNZZF9aVFRubFFQZmZTei10UWQ?oc=5",
       "publishedAt": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "summary": "Tokyu Land, Mitsubishi Corp Form Vietnam JV to Develop 2,600-Unit 'Hydrotherapy City' Complex in Ho Chi Minh City International Business Times",
+      "summary": "Tokyu Land, Mitsubishi Corp Form Vietnam JV to Develop 2,600-Unit 'Hydrotherapy City' Complex in Ho Chi Minh City jp.ibtimes.com",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4639,13 +4635,13 @@
     },
     {
       "id": "google_news_a213ad8d9b",
-      "source": "Báo Thanh Niên",
+      "source": "Thanh Niên",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "10 ô tô động cơ xăng, dầu bán chạy nhất Việt Nam 2025: Mitsubishi Xpander dẫn đầu",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1ZVa0dwNmI3bGtad0w2UFVhY3lBMlFLV1BMd3M3dGJNRXBCY2xkMHdzWmNQdFRwZmJyeFJTdFhMS3JVSDZ3T2Zaa1VpTTkwRzg4WXB5b0lTcnZKQnEzaXg5akRnZ1V2UHFzZlRGc3Bza3B6ZFhEMTA0YzIxVlF5cE5sZURmN25iQ2JKQlAyWjhSdUJBNUR6N3RWblAtTG94R3VmZnliUDZHUnFubVFMRS1KNzVyLWhHTEFUTXFGOHE?oc=5",
       "publishedAt": "Fri, 16 Jan 2026 08:00:00 GMT",
-      "summary": "10 ô tô động cơ xăng, dầu bán chạy nhất Việt Nam 2025: Mitsubishi Xpander dẫn đầu Báo Thanh Niên",
+      "summary": "10 ô tô động cơ xăng, dầu bán chạy nhất Việt Nam 2025: Mitsubishi Xpander dẫn đầu Thanh Niên",
       "thumbnail": "",
       "vehicleType": "four_wheel",
       "makers": [
@@ -4710,13 +4706,13 @@
     },
     {
       "id": "google_news_176dd1ab55",
-      "source": "congluan.vn",
+      "source": "Báo Công Luận",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Việt Nam gần như không còn lắp ráp trong nước",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd3VpNG5JUks4VjV4UXMyRmRQUTRMcFhFVEQzNnVGQy1zQlczUVdPNndiZGY1bzQwSjZ2WW5pUTV6el9IanpVLXd5c011NkhhRzNKWktMMjRCQU4za1FNRmFaQmlGeXliR0l3T0FubmVJeGJlS0tVR0V4RGphS1V6TDh1bWJIY0NVdGpUZzlDTUYyaDlzTTFN?oc=5",
       "publishedAt": "Mon, 22 Dec 2025 08:00:00 GMT",
-      "summary": "Mitsubishi Việt Nam gần như không còn lắp ráp trong nước congluan.vn",
+      "summary": "Mitsubishi Việt Nam gần như không còn lắp ráp trong nước Báo Công Luận",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4742,13 +4738,13 @@
     },
     {
       "id": "google_news_3365512ba0",
-      "source": "en.vneconomy.vn",
+      "source": "Vietnam Economic Times",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Japanese bank raises Vietnam's growth forecast",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1HZkp2RkNNT3liTU5fSzZoV2ptcVFuX0hkcW00cEUzZWgyZTRBNnZfU2JwUm51LW1QYXprRUtrTlFNZFQ4dVBEWEI3YjhKWWo4eWEzQnlkZHhnR2ZsNkRGVkw2aExfcVh2NTZDRmdESmtmQnZhT3A3SmNZSDRVZw?oc=5",
       "publishedAt": "Thu, 18 Dec 2025 08:00:00 GMT",
-      "summary": "Japanese bank raises Vietnam's growth forecast en.vneconomy.vn",
+      "summary": "Japanese bank raises Vietnam's growth forecast Vietnam Economic Times",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [],
@@ -4854,13 +4850,13 @@
     },
     {
       "id": "google_news_b945dce17e",
-      "source": "bestsellingcarsblog.com",
+      "source": "Best Selling Cars Blog",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Vietnam October 2025: VinFast above 20,000 sales for the first time",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMTVWYkpuQk5DWXllZ3BzZUJhVnA0VjJ5Z04zLVlKeFRhR3pRc0FNM2Y5aS1pTDNXOUVveUZja2ZTN0loQ0g0VmFhSjhtQ1hDMUpiMzJZdnFzSXhrOF9jSFQ2LUx3Z2ZJNERKc2p4b0t3cWlzeExJVkJBeDQwcFRndy1HMC1qREkyRVNjaFd6bFBjY1VZQ01lLWZjWEk5MVlWejluOEd6ZXdtUQ?oc=5",
       "publishedAt": "Mon, 17 Nov 2025 08:00:00 GMT",
-      "summary": "Vietnam October 2025: VinFast above 20,000 sales for the first time bestsellingcarsblog.com",
+      "summary": "Vietnam October 2025: VinFast above 20,000 sales for the first time Best Selling Cars Blog",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -5027,6 +5023,24 @@
       "categories": []
     },
     {
+      "id": "google_news_4463b0c166",
+      "source": "enerdata.net",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mitsubishi Power joins development of Vietnam’s 1.2 GW O Mon 4 project",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNXlPZ2dUcVZlVnBwNW5Yb3pSNzJjM2M5V204TmdSZGF6c0VPX3dKVVpOUDRjR2xYV3RMc1dzc1QwTC1hUEFEcENWaFdiUEd6V3BPdXZvc01ZYVZwR3RzMEx3TmhKYUJEUVJKa1FBLXlMLTR6ZlY3SXRUeVZiVm9XYktXU2p1Z2pkSEpyNHYzU1Yxa0t0d0tFc0FSdkd2YWhNWkEwTHdzalNvQUpJNEFoWXlGNllWWjV4eV9fWXp2VGd5WnFW?oc=5",
+      "publishedAt": "Wed, 10 Sep 2025 07:00:00 GMT",
+      "summary": "Mitsubishi Power joins development of Vietnam’s 1.2 GW O Mon 4 project enerdata.net",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": [
+        "EV"
+      ]
+    },
+    {
       "id": "google_news_96a6d7f3f7",
       "source": "Mitsubishi Power",
       "sourceCategory": "googlenews",
@@ -5078,13 +5092,13 @@
     },
     {
       "id": "google_news_2fee972ed9",
-      "source": "bestsellingcarsblog.com",
+      "source": "Best Selling Cars Blog",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Vietnam July 2025: VinFast monopolises Top 4",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzZCc0tZb1lQTHpkNkRNak55NmUyTmFHWUNreTZ0VmFJRDlUZmxxT1RoRHFmTjBvSHU5YmJxSWhYV1YyUlQzRTc0b2Y4eVNxS040cDkxWl9GQTVwOXktbTctUGVraEtiV2xzV2FaMXpHbUZsRTJ2eVZFV2Nhc3BUVzVmUENETzQ3Z3kwdA?oc=5",
       "publishedAt": "Fri, 15 Aug 2025 07:00:00 GMT",
-      "summary": "Vietnam July 2025: VinFast monopolises Top 4 bestsellingcarsblog.com",
+      "summary": "Vietnam July 2025: VinFast monopolises Top 4 Best Selling Cars Blog",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -5172,13 +5186,13 @@
     },
     {
       "id": "google_news_2771e06e00",
-      "source": "bestsellingcarsblog.com",
+      "source": "Best Selling Cars Blog",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Vietnam October 2024: Toyota (+116.2%), Mitsubishi (+79.1%) outpace soaring market (+41.3%)",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNE42NTU0bWkwSXVzUTNNdjNPYzFhcUw5WlQzMlNNNE1RYmJhZENGbDVlNUxFbEdQSEZzQVRidHVhRHFpMmwtM1RwekpBMzJsdXJaTzdVOVYwX0F5MnpwWjRobFhFN0xvUVJjbE5sNUJSVWVNOWhJWWc3NW9HVnlCQ1U1MnJSY2h3dzh6SHZnWkdtNVdZRlJkVnQxLTl6dzY3NmNJOUZOeU5LSTU4NFZDY2poQXRrclVKX2c?oc=5",
       "publishedAt": "Tue, 19 Nov 2024 08:00:00 GMT",
-      "summary": "Vietnam October 2024: Toyota (+116.2%), Mitsubishi (+79.1%) outpace soaring market (+41.3%) bestsellingcarsblog.com",
+      "summary": "Vietnam October 2024: Toyota (+116.2%), Mitsubishi (+79.1%) outpace soaring market (+41.3%) Best Selling Cars Blog",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -5221,13 +5235,13 @@
     },
     {
       "id": "google_news_3f38d07cee",
-      "source": "bestsellingcarsblog.com",
+      "source": "Best Selling Cars Blog",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Vietnam August 2024: Mitsubishi Xforce repeats at #1, Ford Ranger now #1 YTD",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ0RNTG8wUVlkbFNvTWtURm1KMGU1NXU0Z0xyWV9PbEVpOFk4Umhockh3ZXNtbERtU3VLQmRvUERRZk9kRkptX0JlMnRZeUlFU1dYUTlRUzB6UFFTS1hBM3kwTjVlQlFlNlVHdzNGRERxb1hubWFxNzNKRFdmbkJwM1I3cHA0Vm1RR0F2bUx5Y3hIUkJGMFFnTlotemRZQllrajVuaWdKUlZTNHlKT1VNbmgtcw?oc=5",
       "publishedAt": "Tue, 17 Sep 2024 07:00:00 GMT",
-      "summary": "Vietnam August 2024: Mitsubishi Xforce repeats at #1, Ford Ranger now #1 YTD bestsellingcarsblog.com",
+      "summary": "Vietnam August 2024: Mitsubishi Xforce repeats at #1, Ford Ranger now #1 YTD Best Selling Cars Blog",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -5238,13 +5252,13 @@
     },
     {
       "id": "google_news_ef3981b7b0",
-      "source": "bestsellingcarsblog.com",
+      "source": "Best Selling Cars Blog",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Vietnam July 2024: Mitsubishi Xforce best-seller",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPemdqT1Z3Y0ktSXE4NVNnZWRNTG5IRTIzUnBSTFlvMGItc3BrZVNHUGpPVXBJcFRRMndGSHVaWkhPRjVOcFRtOWVlWWxkaWFRZ2xkOV84OVdkWnowXzRfMC1Pa3RWQjJ1a3dlY25vbFZoYWZ1d2ZlNjZXMlpGXzd3QlJzaWhTVXFaS0tRN0U5SkVOUQ?oc=5",
       "publishedAt": "Fri, 16 Aug 2024 07:00:00 GMT",
-      "summary": "Vietnam July 2024: Mitsubishi Xforce best-seller bestsellingcarsblog.com",
+      "summary": "Vietnam July 2024: Mitsubishi Xforce best-seller Best Selling Cars Blog",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -5254,13 +5268,13 @@
     },
     {
       "id": "google_news_e97bd33040",
-      "source": "bestsellingcarsblog.com",
+      "source": "Best Selling Cars Blog",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Vietnam May 2024: Mitsubishi Xpander now #1 YTD in recovering market",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNTVJSVVSVHd1a1BmZWh5SW40YXlYZTNuWGVNbHpMeFU1cldHN1MyWWt3WWxhX1BlaDBYU243YVI5RXF2N2FINTFQNmZDeGNSR0ZUa2dva2N3bEZfMFZKM2xkaHlvMHpiS0hDcmlIbi1Tek5GaFdFQXJPNFktTGNET2xmMXNsTHhNTTVKWWtNY0NMeVYxZV9DakZCSVdpdUpPY2pUUVlRWDk5dlk?oc=5",
       "publishedAt": "Mon, 17 Jun 2024 07:00:00 GMT",
-      "summary": "Vietnam May 2024: Mitsubishi Xpander now #1 YTD in recovering market bestsellingcarsblog.com",
+      "summary": "Vietnam May 2024: Mitsubishi Xpander now #1 YTD in recovering market Best Selling Cars Blog",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -5270,13 +5284,13 @@
     },
     {
       "id": "google_news_a0e5a84e5a",
-      "source": "bestsellingcarsblog.com",
+      "source": "Best Selling Cars Blog",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Vietnam March 2024: Mitsubishi Xforce lands directly at #3",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbWxKZGRtdUMwY21BNGY3TGtTRjVVTzdLcjNzYkFxMFNlT2lJYUhwYS1PRUltOWJqS2tFek0tOWN1bGs5MEhHNmZzM3FaTEJuNDZQcGVlU255aFZqaTc0Tk8zeFByNldZN21wRFQ3Y3MwVnpYZ01mZlFCSHIzdlFqUnYwMllyRlZ4bG5yeDJCUjBVV3I3X1pYekh3Um8?oc=5",
       "publishedAt": "Wed, 17 Apr 2024 07:00:00 GMT",
-      "summary": "Vietnam March 2024: Mitsubishi Xforce lands directly at #3 bestsellingcarsblog.com",
+      "summary": "Vietnam March 2024: Mitsubishi Xforce lands directly at #3 Best Selling Cars Blog",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -5297,23 +5311,6 @@
       "vehicleType": "unknown",
       "makers": [
         "Mitsubishi"
-      ],
-      "categories": []
-    },
-    {
-      "id": "google_news_e4bc4db725",
-      "source": "bestsellingcarsblog.com",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Vietnam January 2024: Mitsubishi Xpander and Ford Ranger top market up 9.6%",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdjdkMGFPSWQxUkhQN05DNzVIUG9tbjYtSDZCSmhIY1VTMUFwNnAtNlZ1cmU0bUE4cjkwVi1pdTBSSVdaMXRYRnZUUnZJNjhTR1YybERrX0kyRXhPX1dnbzJYNjlRS3FQblZJS05OaExNTmdoWm1Rb0k4NlB3dC1yYTVGbXVsUWlMRWhwRDYxZUlQN181MXNSWGlyYlJvc25Yc2FUWllvTkZ4Sm93SjNrQlc3YUQ?oc=5",
-      "publishedAt": "Fri, 23 Feb 2024 08:00:00 GMT",
-      "summary": "Vietnam January 2024: Mitsubishi Xpander and Ford Ranger top market up 9.6% bestsellingcarsblog.com",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi",
-        "Ford"
       ],
       "categories": []
     },
@@ -5349,13 +5346,13 @@
     },
     {
       "id": "google_news_a22e374673",
-      "source": "bestsellingcarsblog.com",
+      "source": "Best Selling Cars Blog",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Vietnam August 2023: Mazda CX-5 and Mitsubishi Xpander top freefalling market",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0k0OEpRWW1mS0tfU3JLM2NoZUFpUGNSYmhfODhKSEpTUGRMV2RPU1RhSi05VTh3b2Q3Wk51SkoxRG1WLVBacjliVEZsZmYtNDZaaGpXVGM2MUZxU0dnWGprdlhaY2RCT3UyY0l5ajNBOXpzRmMtbmtRYS1kS2RKTDgtRzJKcEZpblQxSk1jaGttdkRzNWR2LVpLbTNyQ3h6TkowVVhLQ0gzMHlfUTVYZEJWczd5enZ4?oc=5",
       "publishedAt": "Wed, 13 Sep 2023 07:00:00 GMT",
-      "summary": "Vietnam August 2023: Mazda CX-5 and Mitsubishi Xpander top freefalling market bestsellingcarsblog.com",
+      "summary": "Vietnam August 2023: Mazda CX-5 and Mitsubishi Xpander top freefalling market Best Selling Cars Blog",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -5446,13 +5443,13 @@
     },
     {
       "id": "google_news_5e858e34dd",
-      "source": "bestsellingcarsblog.com",
+      "source": "Best Selling Cars Blog",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Vietnam July 2022: Mitsubishi Xpander clear leader in market up 60.1%",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZTF5Y29rM0QtS0ZMdmRGSzNPeHRNOWFZbXExNGpHVVViUy10UVBnTkxORFRfRWpBamw5UnpvZjFCaUczaGVELWtPejY3WnFhMUVKU3ptVWZGX3AxSEVSNm94LWRXdno2bE1HbXpQUzJ3RUF5WEFEeWhuSUZ0ODVpakhBeEpPSmNfQTJwWG9SaHU5d2FIZ3IxWVJvRjVEb2c3SmpVQUdTYV9KaVps?oc=5",
       "publishedAt": "Mon, 22 Aug 2022 07:00:00 GMT",
-      "summary": "Vietnam July 2022: Mitsubishi Xpander clear leader in market up 60.1% bestsellingcarsblog.com",
+      "summary": "Vietnam July 2022: Mitsubishi Xpander clear leader in market up 60.1% Best Selling Cars Blog",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
