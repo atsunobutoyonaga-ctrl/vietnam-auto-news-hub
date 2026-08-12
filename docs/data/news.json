@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-08-11T23:30:45.139878+00:00",
-  "totalCount": 407,
+  "lastUpdated": "2026-08-12T00:06:17.181726+00:00",
+  "totalCount": 406,
   "stats": {
     "totalRaw": 450,
     "excluded": 39,
-    "afterDedup": 407
+    "afterDedup": 406
   },
   "sources": [
     "ANTARA News",
@@ -17,6 +17,8 @@
     "Báo Dân Việt",
     "Báo Dân trí",
     "Báo Thế giới và Việt Nam",
+    "Báo Tuyên Quang",
+    "Báo VietNamNet",
     "Báo Xây dựng",
     "Báo Đà Nẵng",
     "Báo Đấu thầu",
@@ -29,6 +31,7 @@
     "Enerdata",
     "Gia đình & Xã hội",
     "International Business Times",
+    "Logistics Manager",
     "Mitsubishi Power",
     "Nikkei Asia",
     "Plataforma Media",
@@ -39,14 +42,14 @@
     "Thanh Nien",
     "Thanh Niên",
     "The Business Times",
-    "Thể Thao 247",
     "Thời báo văn học nghệ thuật",
     "Tin tức 24h",
+    "Tinxe.vn",
     "Tuoi Tre",
     "Tuoi Tre News | The News Gateway to Vietnam",
     "Tuổi Trẻ",
-    "Tạp chí điện tử Thương Trường",
     "VIETTIMES",
+    "VIR",
     "VOV.VN",
     "Vietnam Economic Times",
     "Vietnam+ (VietnamPlus)",
@@ -61,24 +64,58 @@
     "baohaiphong.vn",
     "baonghean.vn",
     "bnews.vn",
+    "congly.vn",
     "diendandoanhnghiep.vn",
-    "doanhnhan.congly.vn",
-    "logistics-manager.com",
     "mitsubishi-motors.com",
     "mol.co.jp",
     "mri.co.jp",
     "nguoiquansat.vn",
     "theinvestor.vn",
+    "thethao247.vn",
     "thuonghieucongluan.com.vn",
+    "thuongtruong.com.vn",
     "tienphong.vn",
-    "tinxe.vn",
-    "vietnamnet.vn",
     "vietnamnews.vn",
-    "vir.com.vn",
     "vnexpress.net",
     "xehay.vn"
   ],
   "articles": [
+    {
+      "id": "vnexpress_9f3d66fefe",
+      "source": "VnExpress",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "Quy định an toàn khiến Toyota Land Cruiser 70 có đèn hậu 'mỗi nơi một khác'",
+      "url": "https://vnexpress.net/quy-dinh-an-toan-khien-toyota-land-cruiser-70-co-den-hau-moi-noi-mot-khac-5107655.html",
+      "publishedAt": "Wed, 12 Aug 2026 06:36:00 +0700",
+      "summary": "Để đáp ứng quy định ở một số nơi, Toyota đưa đèn hậu từ bên hông, nơi vốn bị lốp dự phòng che khuất một phần, xuống cản sau.",
+      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/ToyotaLandCruiser702-178642333-4835-7737-1786425187.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=0PDSp9VWYIKXuzF2amMBrg",
+      "vehicleType": "unknown",
+      "makers": [
+        "Toyota"
+      ],
+      "categories": [
+        "Policy"
+      ]
+    },
+    {
+      "id": "vnexpress_c72d77df2a",
+      "source": "VnExpress",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "Cửa hàng xăng 'thay máu' thành trạm sạc siêu nhanh",
+      "url": "https://vnexpress.net/cua-hang-xang-thay-mau-thanh-tram-sac-sieu-nhanh-5107672.html",
+      "publishedAt": "Wed, 12 Aug 2026 06:00:00 +0700",
+      "summary": "Tập đoàn dầu khí Sinopec bắt tay BYD biến các cây xăng cũ thành trạm sạc 1.500 kW, cho phép sạc đầy xe điện chỉ trong khoảng 9 phút.",
+      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/08/11/BYD2-1786412234-4673-1786412406.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=J8NF1H4gNz2Ok0FMQqOyMQ",
+      "vehicleType": "unknown",
+      "makers": [
+        "BYD"
+      ],
+      "categories": [
+        "EV"
+      ]
+    },
     {
       "id": "vietnamnet_aac40e5934",
       "source": "VietnamNet",
@@ -336,6 +373,22 @@
       "categories": [
         "Sales"
       ]
+    },
+    {
+      "id": "google_news_e4d6a86041",
+      "source": "Báo Tuyên Quang",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Dự án Triton Crown trước thềm mở bán: Vì sao thị trường bắt đầu quan tâm?",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVDZFQXdXUzZuOThlZEZJQmgwbzVrdTZIczdIaS1pdFhDNmgwOENKWlpnZnBBUlNadVdHZlNEWUJFTTdtZUhKREotOFU1Rk1oS1VlNmpoVDF6LTdlTmQ5Nm5PTk00YTd1SWY2TXdEV1o4LVJRVDA1bXpBdFlUcTN0c0hzelcwVUFSWVIwZ2FXWF9FSU9aNFhES3JtSEJJU1VIOURnS1JPbjFtWjVybmg3bGRyZS1JMHYwNXpjWEVuYzdycU1ESVBiOEN2VUVMQnlFVXc?oc=5",
+      "publishedAt": "Tue, 11 Aug 2026 08:26:28 GMT",
+      "summary": "Dự án Triton Crown trước thềm mở bán: Vì sao thị trường bắt đầu quan tâm? Báo Tuyên Quang",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": []
     },
     {
       "id": "dan_tri_34832f4b35",
@@ -2599,22 +2652,6 @@
       "categories": []
     },
     {
-      "id": "vnexpress_ca73923af3",
-      "source": "VnExpress",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Thương hiệu xe máy điện Việt Nam mới chuẩn bị ra mắt",
-      "url": "https://vnexpress.net/thuong-hieu-xe-may-dien-viet-nam-moi-chuan-bi-ra-mat-5105942.html",
-      "publishedAt": "Fri, 07 Aug 2026 09:04:06 +0700",
-      "summary": "TMT sắp giới thiệu thương hiệu E-Motor với các mẫu xe máy điện dành cho học sinh, nữ giới, chở hàng.",
-      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/tmtemotoriris20266731789935861-2569-7680-1786066686.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=5HcwRWrUaCtOhfqzXo8n7A",
-      "vehicleType": "two_wheel",
-      "makers": [],
-      "categories": [
-        "Launch"
-      ]
-    },
-    {
       "id": "dan_tri_ae757eac94",
       "source": "Dan Tri",
       "sourceCategory": "general",
@@ -2758,20 +2795,6 @@
       "categories": []
     },
     {
-      "id": "vnexpress_33c088ed74",
-      "source": "VnExpress",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Xe tải lùi húc vào người đi xe máy",
-      "url": "https://vnexpress.net/xe-tai-lui-huc-vao-nguoi-di-xe-may-5105760.html",
-      "publishedAt": "Fri, 07 Aug 2026 05:00:00 +0700",
-      "summary": "Chiếc xe tải đi lùi chẹt vào xe máy của người phụ nữ đi ngay phía sau, hôm 5/8 tại Ngô Thì Nhậm cắt Ngô Quyền, Hà Đông.",
-      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/08/07/482b398ea57e4950834d23a0647b42-3083-5936-1786066708.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=zNwn-o7Nyt0CzFZIcA0yvw&t=image",
-      "vehicleType": "two_wheel",
-      "makers": [],
-      "categories": []
-    },
-    {
       "id": "dan_tri_d9f271dde6",
       "source": "Dan Tri",
       "sourceCategory": "general",
@@ -2798,24 +2821,6 @@
       "vehicleType": "four_wheel",
       "makers": [],
       "categories": []
-    },
-    {
-      "id": "google_news_e58b07efb5",
-      "source": "CafeAuto.Vn",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Giá xe Mitsubishi Xpander giảm 90 triệu: Bảng giá & ưu đãi mới của mẫu MPV bán chạy nhất Việt Nam",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZjgyLU5SaTBsQlNKbFpuY3FrYm9jNkJla1RMV25zclFUemszT3gzMWltcTktZmIzUW9CQjR5Yk5sX3VDN1VrQk11NjZjdzdHLWwzVFItOW4xSmZtMUJTTnZKVUxjNUVsS1FrM2t0eVA0aE9iQUdYMHg1RDlzX3FZcE1yQ2lObjlFbVFHQVNIZE1GeTFjVVlNaGJDQVZ6RFVKVXJMV1pwZkpXTVBvV1dLdmc4cUEtVXozZmg3RDdLdzJtaXFRWEc2VjhlR0xTaWR5dVpuNXgwVQ?oc=5",
-      "publishedAt": "Thu, 06 Aug 2026 10:14:16 GMT",
-      "summary": "Giá xe Mitsubishi Xpander giảm 90 triệu: Bảng giá & ưu đãi mới của mẫu MPV bán chạy nhất Việt Nam CafeAuto.Vn",
-      "thumbnail": "",
-      "vehicleType": "four_wheel",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": [
-        "Sales"
-      ]
     },
     {
       "id": "google_news_20107cbba6",
@@ -2961,13 +2966,13 @@
     },
     {
       "id": "google_news_ee3674a11c",
-      "source": "doanhnhan.congly.vn",
+      "source": "congly.vn",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Huyền thoại Mitsubishi Pajero \"tái sinh\" với khung gầm SUV địa hình",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYnRWZTFiY3pYMHg2NC00V1lOUjBYMzBwY3BrZW9LUm8xQ3lwdjZLWmFVaU1RQTFyQnJYNThjS3VoMXB1bFJvNGpXN0lHWkVWSVNpVmhMRmhvQ2tKdUZpRzg0VWsyTjZBeXlrX05IS0U3QmFiY2taUlZmZ05heHY0NzZHRGhBbkZBXzZsYmhoRkdXUGhOdHBjcWhnUDgyd1E?oc=5",
       "publishedAt": "Thu, 06 Aug 2026 06:14:17 GMT",
-      "summary": "Huyền thoại Mitsubishi Pajero \"tái sinh\" với khung gầm SUV địa hình doanhnhan.congly.vn",
+      "summary": "Huyền thoại Mitsubishi Pajero \"tái sinh\" với khung gầm SUV địa hình congly.vn",
       "thumbnail": "",
       "vehicleType": "four_wheel",
       "makers": [
@@ -3503,13 +3508,13 @@
     },
     {
       "id": "google_news_36c41f3a7a",
-      "source": "Thể Thao 247",
+      "source": "thethao247.vn",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Xforce Hybrid có thể sớm về Việt Nam, nhập khẩu từ Indonesia",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmVrQnUyTzVnSUlqWHNHWUUxN3JMX0FxdGRxajFPSDB0SXZucEVwdVJwYW85NEV3TUJuSXhKYnJ0MFFUWGZOSk5qbGJDTjNrZWJqY3dQR3lHdDZVRDRqWE1haUM2R1VUTk5HOFhCeEZlcV9TR2QxcDhHaXRDektFUERPbWlpM2pVaWp0VTdlUVVOYkxtdkxrQnhVN0ZobGJUZ21ZUDZ4RFVEYnlxc3c?oc=5",
       "publishedAt": "Tue, 04 Aug 2026 09:44:00 GMT",
-      "summary": "Mitsubishi Xforce Hybrid có thể sớm về Việt Nam, nhập khẩu từ Indonesia Thể Thao 247",
+      "summary": "Mitsubishi Xforce Hybrid có thể sớm về Việt Nam, nhập khẩu từ Indonesia thethao247.vn",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4011,13 +4016,13 @@
     },
     {
       "id": "google_news_9a0ea33819",
-      "source": "vietnamnet.vn",
+      "source": "Báo VietNamNet",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Biggest vehicle recalls in Vietnam during the first half of 2026",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUkzUFVDMk05cjg1Vk50WXkxdXo3ZEhuY0pJY0J5OW42WXJvZno5Wm02TkJlQ3JEdFJhdF9iTVZTQVUxcEtScUtYT25acnR0Zk5QbnpHTG5YWHRVQUQ0NTNidWVodk12UGlZMlhtV29Gd3Z6UUx1S1FOMmdKeGNtSlhZZmVwSnRvTi1ZV0NzbVBkY0tzV1VWR29nVWtKOGJQNlNJSw?oc=5",
       "publishedAt": "Sun, 12 Jul 2026 07:00:00 GMT",
-      "summary": "Biggest vehicle recalls in Vietnam during the first half of 2026 vietnamnet.vn",
+      "summary": "Biggest vehicle recalls in Vietnam during the first half of 2026 Báo VietNamNet",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [],
@@ -4027,13 +4032,13 @@
     },
     {
       "id": "google_news_23648a3450",
-      "source": "tinxe.vn",
+      "source": "Tinxe.vn",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Việt Nam ưu đãi đến 85 triệu đồng cho hàng loạt mẫu xe trong tháng 7/2026",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFptbUFEdElkekRRRHhFRFBYd3JJX2gwYUlzRWZlWDExNW0xdzlWSnV5ZnhheWlNVjM2RmpUakxuR0YySEFSQ2pfNEJ5U3loeEh4RkdjSkxzd2hKaXRHRUsyUzhMRE03eGZFSE4wMEd4Y0hGbTZydDdpQVV3dXo5cVhISlNoMHJWcjZ3a3ZiMDVzQWVMcFZHNDAzdmh2VEFUUjZpZENxcXBsV1IyejJXemtoUUpLQ1laaE5RWjhCVVNQdnA3TlRFcE1mdDYzOUZ4?oc=5",
       "publishedAt": "Thu, 09 Jul 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Việt Nam ưu đãi đến 85 triệu đồng cho hàng loạt mẫu xe trong tháng 7/2026 tinxe.vn",
+      "summary": "Mitsubishi Việt Nam ưu đãi đến 85 triệu đồng cho hàng loạt mẫu xe trong tháng 7/2026 Tinxe.vn",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4364,22 +4369,6 @@
       ]
     },
     {
-      "id": "google_news_9543a4d1dd",
-      "source": "vnexpress.net",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Mitsubishi khuyến mãi tháng 5: Xpander giảm 80 triệu đồng",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTm51SkZFc3lSOEJBYy1pc0dmcGVVYU5JT2JrMTByT3pIWmdVc3N2eGNnanp3eVBEMkNIeVVDSF8wbVZ0TDVrckJJSXdpUS16MjgzQUxTNHIyNWlnaGp6WFNRTU0xYzBpNThqVGZ5ZUd5MzR5X3dXVmUtWHJ0MUFkZkcwWHJlNVFNdldSbzZpWjRuc1djc2c?oc=5",
-      "publishedAt": "Thu, 07 May 2026 07:00:00 GMT",
-      "summary": "Mitsubishi khuyến mãi tháng 5: Xpander giảm 80 triệu đồng vnexpress.net",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": []
-    },
-    {
       "id": "google_news_8d363b49b4",
       "source": "thuonghieucongluan.com.vn",
       "sourceCategory": "googlenews",
@@ -4581,13 +4570,13 @@
     },
     {
       "id": "google_news_894671f970",
-      "source": "logistics-manager.com",
+      "source": "Logistics Manager",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
-      "title": "MOL and Mitsubishi Estate Announce Strategic Joint Venture in Vietnam Logistics",
+      "title": "MOL and Mitsubishi Estate Announce Strategic Joint Venture in Vietnam Logistics - LM",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUEx4UU0yS1Rxb2lVTDBNanVTZEdxbEdYVkU0TzVtY1A2YUFuQS0yVXlIaTdxT3ZuU2VrQUxtd2hVYkw5MlZ1ajhUUXROQzlJNTZDUDN2Tm43NmwxSVhJOTk1UU40dy1oX3RJdVFMTzRRWkhJNkxYUXEzbEZVNlFQa1A5T1NjemJ1ZWltZV9KbWxiR0R1WnlfYnoxOWhvQ0dZSkk2WDF0cFFPM0RLMjRn?oc=5",
       "publishedAt": "Tue, 31 Mar 2026 07:00:00 GMT",
-      "summary": "MOL and Mitsubishi Estate Announce Strategic Joint Venture in Vietnam Logistics logistics-manager.com",
+      "summary": "MOL and Mitsubishi Estate Announce Strategic Joint Venture in Vietnam Logistics LM - Logistics Manager",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4724,13 +4713,13 @@
     },
     {
       "id": "google_news_22d4c3ff6e",
-      "source": "vir.com.vn",
+      "source": "VIR",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
-      "title": "Mitsubishi acquires Thuan An 1 residential development from PDR",
+      "title": "Mitsubishi acquires Thuan An 1 residential development from PDR - Vietnam Investment Review",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQjMxamQ0SHZGRFAwdHk3cnBDQ2F2cnFrWnlGWFM1Yy01Mk1GaFBVSUI3RjM3QmVITU1GZW9xSlpSQ2lMOE1aWFJkdzJfVTNyV1NSOURHSnVUWV9OM1MzZkNCMm51QVJyZmVFaHlldDRHT3VybGNaZjdWaUtMb2RNY09NTDdwNWxaOWFwYkh0bW5xOFFsQ2lMUVJn?oc=5",
       "publishedAt": "Mon, 09 Feb 2026 08:00:00 GMT",
-      "summary": "Mitsubishi acquires Thuan An 1 residential development from PDR vir.com.vn",
+      "summary": "Mitsubishi acquires Thuan An 1 residential development from PDR Vietnam Investment Review - VIR",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4776,13 +4765,13 @@
     },
     {
       "id": "google_news_05eb480603",
-      "source": "vietnamnet.vn",
+      "source": "Báo VietNamNet",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Vietnam's 2025 car sales race: These 9 models led their brands",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWpOODBnUnRzSGF2T0lESW8zSnBMZkVGMEZMdUdnTGRNWFk1U1B1V1VfVW9hTTN1Y2t2U3h3M0tmTlhLZlhkTzhJQm1SNFdYNmxzRHozUF9rYUphREdTbWVrNVVEVDdJZ0FaX2FFNzg0UlJPMXdfZFRIOU5tcW5pa1YyanpfR3AySEx2eUlVSEFhMXhVSFVGS0p5NDN4QXh1?oc=5",
       "publishedAt": "Mon, 19 Jan 2026 08:00:00 GMT",
-      "summary": "Vietnam's 2025 car sales race: These 9 models led their brands vietnamnet.vn",
+      "summary": "Vietnam's 2025 car sales race: These 9 models led their brands Báo VietNamNet",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [],
@@ -4887,13 +4876,13 @@
     },
     {
       "id": "google_news_9aa321f559",
-      "source": "Tạp chí điện tử Thương Trường",
+      "source": "thuongtruong.com.vn",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Xu hướng mới của Mitsubishi Motor Việt Nam: Chuyển hướng nhập khẩu, chấp nhận từ bỏ lợi thế và ưu đãi lắp ráp trong nước",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcHlDT1Jxc3RLdDZtNXB5a0laUnNka0JMMUN6clZmZ2NxSUx6VU1ISVd5eW5IMktTTll5SWpvOFFpS25fNXhJZTZnM0E5OEpGMEYwM01Kd0hMb0pqeWtRb1Y5Qi1fakgwQ0pqNkhmNy1GSWswMUhvNUxHVDRLc2I4QUg5X2l0SUM0ODNKYUZVSUhUeWx0cW0zZzZPMGl1NmE3VWhxUXAwb1h0SUpCd0JqZHM5aW15VG5qdGVlZlFJd2MzU1pEOUhxbVZDa2dLN1ZzY1JvaDFXNWpvejRlOWRXV1drcUI0NjRDa2tmVTRRN0JFRW42TkE?oc=5",
       "publishedAt": "Sun, 30 Nov 2025 08:00:00 GMT",
-      "summary": "Xu hướng mới của Mitsubishi Motor Việt Nam: Chuyển hướng nhập khẩu, chấp nhận từ bỏ lợi thế và ưu đãi lắp ráp trong nước Tạp chí điện tử Thương Trường",
+      "summary": "Xu hướng mới của Mitsubishi Motor Việt Nam: Chuyển hướng nhập khẩu, chấp nhận từ bỏ lợi thế và ưu đãi lắp ráp trong nước thuongtruong.com.vn",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -5095,19 +5084,21 @@
     },
     {
       "id": "google_news_2cd7576c74",
-      "source": "vir.com.vn",
+      "source": "VIR",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
-      "title": "Mitsubishi Estate launches first logistics project in Vietnam",
+      "title": "Mitsubishi Estate launches first logistics project in Vietnam - Vietnam Investment Review",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSG43a0F2dFpway1hNE5aUHE1dTZoUjBIZlpzWTh4QzhtNERnaWtGMXhpWXBJeHJXclpaalV2Wkx4Vks5RkJPd3B4S0lyQ1FhY1M0WGQ3NmZaZ3ZXLWg2VDd0bkJISDBkY2cxMlB2X3NUeTFCX3NZSTk1aXU4SG9hc0pIbHA3NDlzT0lmSi1VX0pMbGNKVm9J?oc=5",
       "publishedAt": "Thu, 21 Aug 2025 07:00:00 GMT",
-      "summary": "Mitsubishi Estate launches first logistics project in Vietnam vir.com.vn",
+      "summary": "Mitsubishi Estate launches first logistics project in Vietnam Vietnam Investment Review - VIR",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
         "Mitsubishi"
       ],
-      "categories": []
+      "categories": [
+        "EV"
+      ]
     },
     {
       "id": "google_news_3faaf9067c",
