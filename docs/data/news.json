@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-09-27T23:30:43.778863+00:00",
-  "totalCount": 405,
+  "lastUpdated": "2026-09-28T01:50:03.049784+00:00",
+  "totalCount": 403,
   "stats": {
     "totalRaw": 450,
-    "excluded": 36,
-    "afterDedup": 405
+    "excluded": 37,
+    "afterDedup": 403
   },
   "sources": [
     "AutoDeal",
@@ -16,10 +16,8 @@
     "Báo Dân trí",
     "Báo Hà Tĩnh",
     "Báo Thanh Niên",
-    "Báo Thế giới và Việt Nam",
     "Báo Tiền Phong",
     "Báo Tri thức và Cuộc sống",
-    "Báo Tuổi Trẻ",
     "Báo VietNamNet",
     "CafeAuto.Vn",
     "CafeF",
@@ -27,7 +25,6 @@
     "Dan Tri",
     "DealStreetAsia",
     "Docnhanh.vn",
-    "Enerdata",
     "Gia đình & Xã hội",
     "International Business Times",
     "Khoa học và Đời sống",
@@ -47,10 +44,9 @@
     "Tinxe.vn",
     "Tuoi Tre",
     "Tuoi Tre News | The News Gateway to Vietnam",
-    "Tạp chí điện tử Thương Trường",
+    "Tuổi Trẻ",
     "VIETTIMES",
     "VOV.VN",
-    "Vietnam.vn",
     "VietnamFinance",
     "VietnamNet",
     "VnEconomy",
@@ -60,16 +56,84 @@
     "baohaiphong.vn",
     "baonghean.vn",
     "diendandoanhnghiep.vn",
+    "enerdata.net",
     "mitsubishi-motors.com",
     "mol.co.jp",
     "mri.co.jp",
     "nguoiquansat.vn",
     "thuonghieucongluan.com.vn",
+    "vietnam.vn",
     "vietnamnews.vn",
-    "vnexpress.net",
     "xehay.vn"
   ],
   "articles": [
+    {
+      "id": "dan_tri_c4798d96ef",
+      "source": "Dan Tri",
+      "sourceCategory": "general",
+      "sourceTag": "RSS",
+      "title": "Toyota Corolla sắp có thay đổi lớn",
+      "url": "https://dantri.com.vn/o-to-xe-may/toyota-corolla-sap-co-thay-doi-lon-20260927232255893.htm",
+      "publishedAt": "Mon, 28 Sep 2026 07:43:15 +0700",
+      "summary": "(Dân trí) - Toyota Corolla thế hệ mới có thể ra mắt vào năm sau, với các tùy chọn hệ truyền động hybrid cắm sạc và thuần điện.",
+      "thumbnail": "https://icdn.dantri.com.vn/2026/09/27/toyota-corolla-concept-2-1790518571915.webp",
+      "vehicleType": "two_wheel",
+      "makers": [
+        "Toyota"
+      ],
+      "categories": [
+        "HEV",
+        "Launch"
+      ]
+    },
+    {
+      "id": "google_news_4c6a144844",
+      "source": "vietnam.vn",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mitsubishi Motors Vietnam opens new parts warehouse in Northern Vietnam.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeVpoRnVPTG5DOTloVWVOSGxjQ2ZHUHZXZHpENEZkbEFoclY5YmRVakpRd2l4aVFfQ055WXdDdmhGb19KMXBFRDQ3SzZPdmIxalJLTVkySVh6ZmppM2VPVVdQRWhFS0p4SFZudE51UFNneUU0NEs4a0E0TEZWSEhfMkZSc2NZWjVELUFCTVlDLUphX1ZK?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 00:38:50 GMT",
+      "summary": "Mitsubishi Motors Vietnam opens new parts warehouse in Northern Vietnam. vietnam.vn",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": []
+    },
+    {
+      "id": "google_news_20f6f01b61",
+      "source": "xehay.vn",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mitsubishi Motors Việt Nam khai trương kho phụ tùng mới tại miền bắc, tiếp sức phục vụ khách hàng cùng gần 80 đại lý",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSlExOTVmc2VxNDRFZWd2RG5CTWpCeC1qNlpaYzl0ZXhDclJJSGNwUjVPcnFoZEtnM0Z4eUEyT2ZlbUl2ZHJabk5iUVNiZFJPS3NpTzdrSWRfMFRoU3dvYlpNMTh2Y1pJd2d0MlpQQXV4OVRDQ1FOTFF4ZEFXUUQ4NTZYVDRvTEh6MnJ4LXRENlhwZzRiaTBBem5zdjJFcVF4ODFtSUY3dWVXVDF6VjFKTTFvS1FEbFREUEtTb21ST1hRZmdaYnBubHNVVW02a3BXTWdDTk9ONnJKYmM?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 00:30:09 GMT",
+      "summary": "Mitsubishi Motors Việt Nam khai trương kho phụ tùng mới tại miền bắc, tiếp sức phục vụ khách hàng cùng gần 80 đại lý xehay.vn",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": []
+    },
+    {
+      "id": "google_news_3469d33826",
+      "source": "vietnam.vn",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mitsubishi Motors Việt Nam khai trương kho phụ tùng mới miền Bắc",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMERyNENHY1BPQjAyR1ZNNmlkUlFvZTJhaDlPZUNzblpOUjE5Rkh1emFEQW9hS0ZNNUVHSmtDTUpUbkVsLXN1ckE2YUJUZzJSN1ZLUVhUM1lxOVVhemtuX1BMNzFZN2ZvTjRXdXViWEhPQXZRakpUWE5ZWlVHQXA2V0VRbGU1Q1JmekVTQXRzakw?oc=5",
+      "publishedAt": "Mon, 28 Sep 2026 00:26:51 GMT",
+      "summary": "Mitsubishi Motors Việt Nam khai trương kho phụ tùng mới miền Bắc vietnam.vn",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": []
+    },
     {
       "id": "vietnamnet_9e709e13fc",
       "source": "VietnamNet",
@@ -180,13 +244,13 @@
     },
     {
       "id": "google_news_65722cc9f1",
-      "source": "Vietnam.vn",
+      "source": "vietnam.vn",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Xforce's on-the-road price drops sharply, making this B-segment SUV as affordable as the KIA Sonet.",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVUh3VE1OYm0xNzl2TU90N285TlhuMTN3N2gtalpmckVPaDdvSlhaT1d5WklXRHQtLXJVd1Vhck5pdDJPQ21jS0xQeU50Y3JIY1BZZmhpaHVRYUFqcFM4VldQSGRZNkd1RTlpVnpRNWNiaVlReFNoTGNCRWpOVTV4ZE9oX3FzZF9tVFoydjBzYkpHZXNyZGxqb1V6UVY?oc=5",
       "publishedAt": "Sun, 27 Sep 2026 12:23:01 GMT",
-      "summary": "Mitsubishi Xforce's on-the-road price drops sharply, making this B-segment SUV as affordable as the KIA Sonet. Vietnam.vn",
+      "summary": "Mitsubishi Xforce's on-the-road price drops sharply, making this B-segment SUV as affordable as the KIA Sonet. vietnam.vn",
       "thumbnail": "",
       "vehicleType": "four_wheel",
       "makers": [
@@ -198,13 +262,13 @@
     },
     {
       "id": "google_news_40ee737e5e",
-      "source": "Vietnam.vn",
+      "source": "vietnam.vn",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Giá lăn bánh Mitsubishi Xforce giảm mạnh, SUV hạng B rẻ ngang KIA Sonet",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEtQZHBJZDJWZXU1dlQ3ZHdqMElmcmUxZjdkbHNLRlg3ZFE4V0ZybWx5ejVXc1NmNXk5UmVtbGt0SEVkMzB4Y0Q3UmtwVG0tT1BydnV3WWRqaFA3dGpyVnY0cmIzWkRDcnROMjZxLWRJOG93SHU0dlhwa01kZzYwR0ZHUWVsNjFnS0dUazdleEh4WXUzWkkydg?oc=5",
       "publishedAt": "Sun, 27 Sep 2026 12:11:02 GMT",
-      "summary": "Giá lăn bánh Mitsubishi Xforce giảm mạnh, SUV hạng B rẻ ngang KIA Sonet Vietnam.vn",
+      "summary": "Giá lăn bánh Mitsubishi Xforce giảm mạnh, SUV hạng B rẻ ngang KIA Sonet vietnam.vn",
       "thumbnail": "",
       "vehicleType": "four_wheel",
       "makers": [
@@ -261,6 +325,24 @@
         "Kia"
       ],
       "categories": []
+    },
+    {
+      "id": "google_news_c0c2dd0518",
+      "source": "CafeF",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Mitsubishi Attrage mới lộ thông số tại Việt Nam: 2 phiên bản, 'uống' xăng nhỉnh hơn, dễ ra mắt năm nay",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbDZlQ2hSZTluVTBlWldmaWdzbEtqNThfNVF3T0VjU002V3JGV25qalJOVk9YaTcxRTN4Z0NMa2NfNnlZWGZLWG9qenNTeHlDODMwclBvMl9ZWlowNUg1MVNYNVI2S3I1bVBvLWpuYjZxUTNrb3JuUy00Qnp2M1R6VTB0OWM5amQzcG5EOUdGU3pKbmpiZkFPVVZZc3hYdk5vOGpwZzgxSjNCZ20tcXBYd3d0RjNWRDVVUjIyb2Qxc1UzQ180c3FXQWNBM3l5S1YxOGk0?oc=5",
+      "publishedAt": "Sun, 27 Sep 2026 07:46:00 GMT",
+      "summary": "Mitsubishi Attrage mới lộ thông số tại Việt Nam: 2 phiên bản, 'uống' xăng nhỉnh hơn, dễ ra mắt năm nay CafeF",
+      "thumbnail": "",
+      "vehicleType": "unknown",
+      "makers": [
+        "Mitsubishi"
+      ],
+      "categories": [
+        "Launch"
+      ]
     },
     {
       "id": "dan_tri_5a24069c32",
@@ -371,24 +453,6 @@
       "vehicleType": "two_wheel",
       "makers": [
         "Ford"
-      ],
-      "categories": [
-        "Launch"
-      ]
-    },
-    {
-      "id": "google_news_0971f45b38",
-      "source": "autopro.com.vn",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Mitsubishi Attrage mới lộ thông số tại Việt Nam: 2 phiên bản, 'uống' xăng nhỉnh hơn, dễ ra mắt năm nay",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOV0RjT3MwSnZLYTB0dHk2OUFVcnpBV1dHTEduUjg4WnlOQmZqTGJQVC1Ua01qbTU3T2pEanpVc3hOdmRNSnJYekUxQXRyUXlHSUxuY1lUX0VBS2tlQkNsYmdFODlVNEdoOXIwTFRIYnN1eFh5RTF3eUtJQjFyMDhUOVloTmV1d3EzVVBYRng2Z3NibDZnb2lxV3RNQXZ2RExTZnBGekZJMjM3OW5SanFrR0djcXV1VlhpcEtsdFJPa2ljRXlhMUtBTmdCUEE4SWdkTVNpNldBMDdtN3M?oc=5",
-      "publishedAt": "Sun, 27 Sep 2026 04:35:00 GMT",
-      "summary": "Mitsubishi Attrage mới lộ thông số tại Việt Nam: 2 phiên bản, 'uống' xăng nhỉnh hơn, dễ ra mắt năm nay autopro.com.vn",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
       ],
       "categories": [
         "Launch"
@@ -790,13 +854,13 @@
     },
     {
       "id": "google_news_f6c64b5889",
-      "source": "Báo Tuổi Trẻ",
+      "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Outlander sắp có đời mới: Cabin như xe sang, chạy hơn 100km không cần xăng",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVE9oQU5LZ3luQ0kxTVJLWS0xWlpLbFNSQ3IwYy1ETU9Sc2p1ZWpaZVNMQXp0d3hqd1JqM2huckUxbmpaaWQ3RUxMckY0SzR1VXF4T0VJM2laY1o5ZnhQc3ctdEw5c1hHTG5sTWowdWJpVEs3UkowMjFDcHBhTFdjVHN2U3BHQ3dMV00tbXZPdmFaamEyMUE5aktGSFp0UjQwdVFoWlBmQlhzZExQS241cWNITURSd1VBSmZwU1Y1X3lfT2M?oc=5",
       "publishedAt": "Sat, 26 Sep 2026 07:38:00 GMT",
-      "summary": "Mitsubishi Outlander sắp có đời mới: Cabin như xe sang, chạy hơn 100km không cần xăng Báo Tuổi Trẻ",
+      "summary": "Mitsubishi Outlander sắp có đời mới: Cabin như xe sang, chạy hơn 100km không cần xăng Tuổi Trẻ",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -1033,6 +1097,22 @@
       "categories": []
     },
     {
+      "id": "google_news_99edd03d12",
+      "source": "vietnam.vn",
+      "sourceCategory": "googlenews",
+      "sourceTag": "RSS",
+      "title": "Loạt ô tô Nhật Bản sắp đổ bộ thị trường Việt Nam cuối năm: Xe hybrid lên ngôi",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODI2dkZvSU1DWEUwc0FTY0sxQXJJNWluekxOSUhNUlRVZzRZOTR3d0sxLWVLaVo0NEo5OVZ5WFR6ckRZeVJGM0VGTUFFajJqQTdSSGp1OHAzSU5rVFdTUWU1Mk1adFNJREROdXBhTmxJRU9ENU1LNXhnTXFoNWJHZWVrdzZYdkZwZ2RRbld3aWVzaGZSWkZ0UnRtd3FPM09R?oc=5",
+      "publishedAt": "Fri, 25 Sep 2026 22:26:49 GMT",
+      "summary": "Loạt ô tô Nhật Bản sắp đổ bộ thị trường Việt Nam cuối năm: Xe hybrid lên ngôi vietnam.vn",
+      "thumbnail": "",
+      "vehicleType": "four_wheel",
+      "makers": [],
+      "categories": [
+        "HEV"
+      ]
+    },
+    {
       "id": "vietnamnet_b760551c46",
       "source": "VietnamNet",
       "sourceCategory": "general",
@@ -1204,13 +1284,13 @@
     },
     {
       "id": "google_news_d801d1aa4e",
-      "source": "Vietnam.vn",
+      "source": "vietnam.vn",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Chi tiết Kia Carens 2026 về đại lý Việt thiết kế bắt mắt cạnh tranh Mitsubishi Xpander có giá ra sao?",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdWU5VmNCQ0gxQUMxakdwNUNVTWt0Rm0wZDBCUDZnQnZDR3dIT0xlSTNhTms5eXowVlVBY3p2U01odzQxWnNucFJHcVBHREszLU02ZDdLNFZkOWg1b1A4NnR1NFp0TEg4NVYycFhDdE1TQnVYVklMc2UxdGs0bWllUVZnU1J1T05GeEhSbnlkRDlNal9BOUxUUTh2MmRhYmhSVW1QOVZBMHNoZHhLdnVjQUt2blZuOWpYTmdJSU9LN0w?oc=5",
       "publishedAt": "Fri, 25 Sep 2026 08:42:06 GMT",
-      "summary": "Chi tiết Kia Carens 2026 về đại lý Việt thiết kế bắt mắt cạnh tranh Mitsubishi Xpander có giá ra sao? Vietnam.vn",
+      "summary": "Chi tiết Kia Carens 2026 về đại lý Việt thiết kế bắt mắt cạnh tranh Mitsubishi Xpander có giá ra sao? vietnam.vn",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -1905,13 +1985,13 @@
     },
     {
       "id": "google_news_1115cd0cf4",
-      "source": "Báo Tuổi Trẻ",
+      "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Kia Carens mới được nhá hàng ở Việt Nam, sắp ra mắt đấu Mitsubishi Xpander?",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWV9UU1VnSU44aXdPSVhmeE9SdE9JYXN2X21fLUFkOGRxS0dKeVFQeG9yMGFGck1KNUZ1MWNhR3N0eTdveUJXTkhYUzRjWTlsXzd0RDVtUWJvR3FvbnZ5cWNJUGtJb1Budmt5WXRyVzNzaURJNndJZVlGaVgwdjM3Q29wZmh1SlJGRWhNLVUtSFV1ZFlpclJaYUU0T2NVcnBCRGtPQl9YVGowY0U2MzVSZ2NDeWpPUQ?oc=5",
       "publishedAt": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "summary": "Kia Carens mới được nhá hàng ở Việt Nam, sắp ra mắt đấu Mitsubishi Xpander? Báo Tuổi Trẻ",
+      "summary": "Kia Carens mới được nhá hàng ở Việt Nam, sắp ra mắt đấu Mitsubishi Xpander? Tuổi Trẻ",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -2567,22 +2647,6 @@
       "categories": []
     },
     {
-      "id": "vnexpress_82e4cdcf83",
-      "source": "VnExpress",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Honda CB500 2026 - môtô phong cách cổ điển giá từ 2.900 USD",
-      "url": "https://vnexpress.net/honda-cb500-2026-moto-phong-cach-co-dien-gia-tu-2-900-usd-5123383.html",
-      "publishedAt": "Wed, 23 Sep 2026 09:42:55 +0700",
-      "summary": "Mẫu môtô kiểu dáng classic lắp động cơ 500 phân khối, bán ba phiên bản, giá cao nhất 3.200 USD.",
-      "thumbnail": "https://vcdn1-vnexpress.vnecdn.net/2026/09/23/HondaCB500-1790130491-4045-1790130630.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=rkQipRzm_LyWiMc977--xQ",
-      "vehicleType": "unknown",
-      "makers": [
-        "Honda"
-      ],
-      "categories": []
-    },
-    {
       "id": "vietnamnet_2cecb9ea19",
       "source": "VietnamNet",
       "sourceCategory": "general",
@@ -2955,22 +3019,6 @@
       ]
     },
     {
-      "id": "google_news_740f132097",
-      "source": "Báo Thế giới và Việt Nam",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Cập nhật bảng giá lăn bánh xe Mitsubishi Attrage tháng 9/2026 mới nhất",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVjdvellwelRCS2o5S3lfQ2Y4Mkl0YTQzbkl2cHJadlZuOFZ1ZmNNbnBjMGwwRURlNzZzVjZCQUt1bzJiWlM0MG84ZWtreWpRRHhrbjM4eC1HNURDQXd6TXI0YnR1UUlsUDdBU24xQVMyTjVqV2pHUnpDUlNJQnVvLUhjNkpCZnZEWWhBVGpXZW5SUnpXQ1pseTBrcFJCdjdSQ0xTdmd3?oc=5",
-      "publishedAt": "Mon, 21 Sep 2026 06:33:41 GMT",
-      "summary": "Cập nhật bảng giá lăn bánh xe Mitsubishi Attrage tháng 9/2026 mới nhất Báo Thế giới và Việt Nam",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": []
-    },
-    {
       "id": "thanh_nien_08a5a0e309",
       "source": "Thanh Nien",
       "sourceCategory": "general",
@@ -3030,22 +3078,6 @@
       "thumbnail": "https://icdn.dantri.com.vn/2026/09/21/dong-co-1789950478983.jpg",
       "vehicleType": "unknown",
       "makers": [],
-      "categories": []
-    },
-    {
-      "id": "dan_tri_d4fbbcb287",
-      "source": "Dan Tri",
-      "sourceCategory": "general",
-      "sourceTag": "RSS",
-      "title": "Vì sao nhiều mẫu SUV vẫn giữ thiết kế bánh dự phòng treo phía sau xe?",
-      "url": "https://dantri.com.vn/o-to-xe-may/vi-sao-nhieu-mau-suv-van-giu-thiet-ke-banh-du-phong-treo-phia-sau-xe-20260921013458398.htm",
-      "publishedAt": "Mon, 21 Sep 2026 07:20:38 +0700",
-      "summary": "(Dân trí) - Không chỉ để tạo vẻ ngoài hầm hố, nhiều mẫu SUV địa hình vẫn trung thành với thiết kế bánh dự phòng treo bên ngoài, trong khi một số hãng đang dần từ bỏ, như Mitsubishi.",
-      "thumbnail": "https://icdn.dantri.com.vn/2026/09/20/jeep-wrangler-jldv8-offroad-1789921529039.jpg",
-      "vehicleType": "two_wheel",
-      "makers": [
-        "Mitsubishi"
-      ],
       "categories": []
     },
     {
@@ -3299,13 +3331,13 @@
     },
     {
       "id": "google_news_126c5cbde2",
-      "source": "Báo Tuổi Trẻ",
+      "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi chiếm 4/10 xe xăng dầu bán chạy nhất, Triton lập kỷ lục",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEhJN2ZyMW93VTZpY2xNQkNqbDBodl9jVzlRdEU4RVZIU3V4U1YzSGtUT2pBOGNjUDM3bEdrTnZHeGxiRmVYeHJ2Q1QyS1Z3WFZfX1lxZE1QYVVRSXU2ams0cVNRV3lZNHVSZVdHOEFpQVJXNzlhOElFUDdfbG9nVHV4MkhfU25qdm1aQk1CZUs3cG5pQjl3V0xWLUQ4Y1otRUdyaVR5MVcxTjA?oc=5",
       "publishedAt": "Tue, 15 Sep 2026 07:00:00 GMT",
-      "summary": "Mitsubishi chiếm 4/10 xe xăng dầu bán chạy nhất, Triton lập kỷ lục Báo Tuổi Trẻ",
+      "summary": "Mitsubishi chiếm 4/10 xe xăng dầu bán chạy nhất, Triton lập kỷ lục Tuổi Trẻ",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -3382,13 +3414,13 @@
     },
     {
       "id": "google_news_6a7ab87cd2",
-      "source": "vnexpress.net",
+      "source": "VnExpress",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Triton bản 4WD Premium ra mắt, giá 782 triệu đồng",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb0k0S3JkTnIwYnZSNVg1UFNPTVJlZmcyUGZveVdGQzNDbTRYMlViVTB2bUo4TG1LQVgweGMycVRYQTRFYjNLWnotelFnZlJBS3htQzRhRVFrQTZaMlJTUDJERklPSWhEY0JzR0NiS2tMSl96RVhpekxZWkh6N3FDQjdoWjctY1lNMWMyN1NORFR6LUw4Y0x5ZHl3?oc=5",
       "publishedAt": "Mon, 14 Sep 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Triton bản 4WD Premium ra mắt, giá 782 triệu đồng vnexpress.net",
+      "summary": "Mitsubishi Triton bản 4WD Premium ra mắt, giá 782 triệu đồng VnExpress",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -3451,13 +3483,13 @@
     },
     {
       "id": "google_news_75e2e563fc",
-      "source": "Báo Tuổi Trẻ",
+      "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Pajero chốt bán ở Đông Nam Á, giá dự kiến từ hơn 1,2 tỉ, chờ ngày về Việt Nam",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTk4yd24xLXpQRXNLNG9fR1dTWVBrME95eFZ1Ym9SNXBjaEJOMVNVSUFyaDN3XzlGTjN1emJEa0s5ejFQcjVYdm5hNGxuejZUN21nTXZoZHdIYVBXcFJLMjJhZXVXYjBJWGtwU1NFOV92V2h3bVRFdTlvbDY1UXN2SHlMTUE2OGxid0FiMWt6OVV0SURnZ25rMmZvdW16aFZYd29uaGFwcHB1eldOazhpZHlIa0NJaXotVmZ1a3pmRmdnN193WFE?oc=5",
       "publishedAt": "Mon, 14 Sep 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Pajero chốt bán ở Đông Nam Á, giá dự kiến từ hơn 1,2 tỉ, chờ ngày về Việt Nam Báo Tuổi Trẻ",
+      "summary": "Mitsubishi Pajero chốt bán ở Đông Nam Á, giá dự kiến từ hơn 1,2 tỉ, chờ ngày về Việt Nam Tuổi Trẻ",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -3533,13 +3565,13 @@
     },
     {
       "id": "google_news_3d550b05da",
-      "source": "vnexpress.net",
+      "source": "VnExpress",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Top ôtô xăng, dầu bán chạy tháng 8 - Mitsubishi Triton lần đầu lên đỉnh",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNckVIVkh3QVVYNDhkVHpYWFVvUGNPaTJOOXFjZFVaMGNrcXpUaDBuQXlyUmxYOTYySzhNemNVRVJRNGZUX25NSTRwVU45M2lBTy1YRWJ1SThjOFN6SUtISjBzSjFVOWpsYm04VF9EdDFic0RzVWpVcG9nUnN4NUFjSFl2OGFXamx2Q283eXFwSER0VXRUWTRES3RTYzVhb2RZdnFQUnA2dHNnLXhNVVYtMFNTTFpkdUtwSW50WGZNTndGekUwZmpUeA?oc=5",
       "publishedAt": "Sun, 13 Sep 2026 07:00:00 GMT",
-      "summary": "Top ôtô xăng, dầu bán chạy tháng 8 - Mitsubishi Triton lần đầu lên đỉnh vnexpress.net",
+      "summary": "Top ôtô xăng, dầu bán chạy tháng 8 - Mitsubishi Triton lần đầu lên đỉnh VnExpress",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -3570,13 +3602,13 @@
     },
     {
       "id": "google_news_b0a60c7e5d",
-      "source": "Báo Tuổi Trẻ",
+      "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Pajero đời mới thêm tính năng an toàn dù ra mắt chưa lâu",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemwwenZLdVFxMzU3bzUxODZfWmxtS25PaGpmVEdORkxXa1k4NmVRSlpTcS1sa3h3QkNOVWo3QzY2OFY3VXNtWnJFa3hPakZBcWVqbC1yV2NVQm5XV1M2UTdDS1pxWll2SjA0QnctazZQN3E4bmlLYlVkQXJUYUQwQnlQdVNTOWtVWUdWZ1l2aVI0VjRJTVVYaWpTX25zRlNoNEtvNVhTWEZWdlQ0?oc=5",
       "publishedAt": "Sun, 13 Sep 2026 04:09:00 GMT",
-      "summary": "Mitsubishi Pajero đời mới thêm tính năng an toàn dù ra mắt chưa lâu Báo Tuổi Trẻ",
+      "summary": "Mitsubishi Pajero đời mới thêm tính năng an toàn dù ra mắt chưa lâu Tuổi Trẻ",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -3706,13 +3738,13 @@
     },
     {
       "id": "google_news_2e5571963a",
-      "source": "Báo Tuổi Trẻ",
+      "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Tin tức giá xe: Mitsubishi Xpander giảm giá lăn bánh gần 100 triệu đồng",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRW93TDY5LWxhcFFKOFNhV2RnMElrMURlZEdRSGNmT0M2Z2FzakdhazRMZnlKRlhRQTdmc29XRkppd0ZRT0NBMk1UQ1k3bmM0dW92cF9VOUxnQWJDb0w0b09rbjN5RUFUM0tHVmxIdDdvcUY2ZTVxNnpaRzBzaG5SWnVIUHF6RlhnSTVZYWMzMkdDR1gydlNIWElmNnh5VnE4aFY0Nm1qd2RHVC1NZDBDQWpR?oc=5",
       "publishedAt": "Tue, 08 Sep 2026 07:00:00 GMT",
-      "summary": "Tin tức giá xe: Mitsubishi Xpander giảm giá lăn bánh gần 100 triệu đồng Báo Tuổi Trẻ",
+      "summary": "Tin tức giá xe: Mitsubishi Xpander giảm giá lăn bánh gần 100 triệu đồng Tuổi Trẻ",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -3722,13 +3754,13 @@
     },
     {
       "id": "google_news_8387119b3c",
-      "source": "vnexpress.net",
+      "source": "VnExpress",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Pajero - bình cũ rượu mới",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBLWx6VVlPcUtBMWZpN2N2NlA3Y3NySndzR05DUTRGdllwSmVyQnp5RjdObTdXbzR6T0RYUHcyQ0dBbTJGZ0FvbExwY2RrQTdrWGc2c1IyUVNIVmlBMWowTTJfMjBpdXR0cFJGMXFNWHU1OEd0enltdg?oc=5",
       "publishedAt": "Tue, 08 Sep 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Pajero - bình cũ rượu mới vnexpress.net",
+      "summary": "Mitsubishi Pajero - bình cũ rượu mới VnExpress",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -3773,13 +3805,13 @@
     },
     {
       "id": "google_news_c2c23afcc5",
-      "source": "vnexpress.net",
+      "source": "VnExpress",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Outlander sắp bán trở lại ở Việt Nam",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ0xUbjdYajZTOTA0Sk5XejdZaGN1VDdCRW5ZY21FbXlCRHpjQ2I0RTE5UlgzX1FEbkdNa3RLWjJ1SS1XUlBzNS04RHRHQmJqVWFSV3lFU2pSa2NxZF9lN2pUcTJVX1RpWjh2NVNPRUthdHZmaEUxUUNOYkFQelZrSVR1WXNvb1hreGc?oc=5",
       "publishedAt": "Fri, 04 Sep 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Outlander sắp bán trở lại ở Việt Nam vnexpress.net",
+      "summary": "Mitsubishi Outlander sắp bán trở lại ở Việt Nam VnExpress",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -3789,13 +3821,13 @@
     },
     {
       "id": "google_news_ead398d252",
-      "source": "vnexpress.net",
+      "source": "VnExpress",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Pajero thế hệ mới giá từ 49.300 USD",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd3gxXzctY0NHTHVBMkRIcGVLc3hBNnNSOXhnSkZjRFZOSzRybm16Y280d3lfWW51MXlaT1JhOGtLUnMwQjN4OVR0RGltQVZPMXZ1WjFRU1o4dmFxLTVCdThOZTQzd3hYUVVCTS1JNlcwOEh5VmRMdkdxTlFuVkF2VXdOeDNwZDA2?oc=5",
       "publishedAt": "Fri, 04 Sep 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Pajero thế hệ mới giá từ 49.300 USD vnexpress.net",
+      "summary": "Mitsubishi Pajero thế hệ mới giá từ 49.300 USD VnExpress",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -3805,13 +3837,13 @@
     },
     {
       "id": "google_news_22fdc80f9f",
-      "source": "Báo Tuổi Trẻ",
+      "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Pajero 2026 chốt giá cao hơn Ford Everest",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU3VPSTBicTVRc2RxWjhPYmlWenpNeW9EZWg3dEFabl92NURxLTBTZVlWQnFiYzk2bF9PMWdvSTk2QndpNlZzVGhQLTNzSWRhallaVlBRMG1HSW40eWl4R1ZNYXc2OHF6dUUwRGxTNTR3cU96ZDZ5RHhKeWpQUEVOMjVHWnlyN3MzYkM2LXFsQ0s1SjB6NmZLWFhn?oc=5",
       "publishedAt": "Fri, 04 Sep 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Pajero 2026 chốt giá cao hơn Ford Everest Báo Tuổi Trẻ",
+      "summary": "Mitsubishi Pajero 2026 chốt giá cao hơn Ford Everest Tuổi Trẻ",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -3843,13 +3875,13 @@
     },
     {
       "id": "google_news_ccda03afd1",
-      "source": "Báo Tuổi Trẻ",
+      "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "'Mitsubishi muốn đưa xe hybrid về Việt Nam, trở ngại không ở giá bán hay nhu cầu'",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORmlnaG8ydU9KaGgxQldBSEFDeDNjZlktVE9QZzhFaGhIdGRYdzZIWTBpd1E4bU0yRVQzUWdUd2x5N0FQdTRSX3dySmYwY3RHejNMNVNaNGpPOEVpZ2syb1Q4SkpIbWZpeERlZWpmR1JnNXNuejZIRVJXczZkWFNrOEJCMXZGRU53bERCaWl3SHo5MlF1MUxoZGlmR0ZqTUZ5OUJNM3dXNDEwaEZvRVlSbEt1aFRxVTJmZjFPdw?oc=5",
       "publishedAt": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "summary": "'Mitsubishi muốn đưa xe hybrid về Việt Nam, trở ngại không ở giá bán hay nhu cầu' Báo Tuổi Trẻ",
+      "summary": "'Mitsubishi muốn đưa xe hybrid về Việt Nam, trở ngại không ở giá bán hay nhu cầu' Tuổi Trẻ",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -3861,13 +3893,13 @@
     },
     {
       "id": "google_news_bf3bcfc42d",
-      "source": "Báo Tuổi Trẻ",
+      "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Outlander đời mới chốt về Việt Nam ngay năm 2026",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOW52RUR6Q3FFQ2p5UVlGVmdvQzNoODRoZDgzbVVneUtFbXhwRG40dExFTFZYS2xEWnpiM2JXeDZYNEVILW5BVWpzcXhyMmZTSEJOeUdWZmFoWWVPZ0NGT1EzM0FXeWFQS2ljN2JiM20wcmtCWnViOTU5eGhPV3ZZZFE5eTVoQ3hIZkZINkl4b25GM1hVNm13clRVV0hNZGdVS09J?oc=5",
       "publishedAt": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Outlander đời mới chốt về Việt Nam ngay năm 2026 Báo Tuổi Trẻ",
+      "summary": "Mitsubishi Outlander đời mới chốt về Việt Nam ngay năm 2026 Tuổi Trẻ",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -3893,13 +3925,13 @@
     },
     {
       "id": "google_news_b615e0a061",
-      "source": "vnexpress.net",
+      "source": "VnExpress",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Pajero thế hệ mới ra mắt",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NQTc2NW5yUVBiYkZBTzVuWDladnBLemlEZ0VsTC1xYXVwSHpwWGUtUklDM0ZTSXpvLTVrUE9tNmpzU20wOE1FMzJ4WGotSU5KRTlJcmNhaDRVdnl3dWo4S0FzTDgyQnZGZGlLRjZVNWJVV2tSNjRja3hn?oc=5",
       "publishedAt": "Thu, 03 Sep 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Pajero thế hệ mới ra mắt vnexpress.net",
+      "summary": "Mitsubishi Pajero thế hệ mới ra mắt VnExpress",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -3961,13 +3993,13 @@
     },
     {
       "id": "google_news_70930a850f",
-      "source": "Báo Tuổi Trẻ",
+      "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Pajero đời mới ra mắt: 2 màn lớn, máy dầu, có thể thêm hybrid, lắp ở gần Việt Nam",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3ozQnZSSVR3T2QyNE03cmI1RzR4VTQwSmRVSXFMREFLRHc3RVZ0ODhhd3hDbldpWXluQXRPZlNWdHZTQVVPN285a2VyckZXQ2l3YUJZUnpBOVRIZDBzbFZySlpkQmstVWpibWxEODk0RWd0XzV5Wl9FS1VUeFpNaEJZdVNoRUd3ODBrMDdjdHNQNlVuMzVhd2dzWDBrZC13aGpqWFBnUEpBRUxpQkEzMGVieGhidHBsU2pITnFsWUg1NURmVUEteHpn?oc=5",
       "publishedAt": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Pajero đời mới ra mắt: 2 màn lớn, máy dầu, có thể thêm hybrid, lắp ở gần Việt Nam Báo Tuổi Trẻ",
+      "summary": "Mitsubishi Pajero đời mới ra mắt: 2 màn lớn, máy dầu, có thể thêm hybrid, lắp ở gần Việt Nam Tuổi Trẻ",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4048,13 +4080,13 @@
     },
     {
       "id": "google_news_87911206a9",
-      "source": "Báo Tuổi Trẻ",
+      "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Xforce hybrid dự kiến sắp đến Việt Nam, có thể ngay trong năm nay",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHY3TWV3dmZnQ1BLT0txdzZXSlE3Q1hheG1UaUpsbDMtc0hGQ3B5NG9IdFUyMThVaHdONWJteGZweXUwRTk3Yjk0VXZzYkFnSjE2NjB5YUNsTnNzNXhzbmZramVzQ1VXNHRMV1J4V1pvVFV3VlEzYmpVRzYtUHZsSlFrRlhjTlRqNk52eUQ4RlladTBIbUQ4eU1RVUYwUXY5ZGswZUFqWmlQTDhzalBvdGlnanIzckph?oc=5",
       "publishedAt": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Xforce hybrid dự kiến sắp đến Việt Nam, có thể ngay trong năm nay Báo Tuổi Trẻ",
+      "summary": "Mitsubishi Xforce hybrid dự kiến sắp đến Việt Nam, có thể ngay trong năm nay Tuổi Trẻ",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4102,13 +4134,13 @@
     },
     {
       "id": "google_news_7584aa3e65",
-      "source": "Báo Tuổi Trẻ",
+      "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Xforce hybrid có khả năng về Việt Nam",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ0oySzNvU0Z5UUlfX1J4SGROSkdpLXVUSU5TUndWNDN6cVJfbDY4TkxHa2pwVm0ySFhBbnhacmktTFlKQjh3dmU3LWk1OXRuSW5qTUladW11WWtmTVdWd3J0elE4b0xJNXpnUV9vX2tSNFRfY3N1cDU5ODRPRUlhYTFjb05GZ1hZSnlUVmZSMmtuRHN6?oc=5",
       "publishedAt": "Wed, 15 Jul 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Xforce hybrid có khả năng về Việt Nam Báo Tuổi Trẻ",
+      "summary": "Mitsubishi Xforce hybrid có khả năng về Việt Nam Tuổi Trẻ",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4120,13 +4152,13 @@
     },
     {
       "id": "google_news_92c96ef483",
-      "source": "Báo Tuổi Trẻ",
+      "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi bán mạnh nhất top 10 xe xăng dầu nửa đầu 2026 ở Việt Nam",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdzRFZEV1X3NLeEVzbUhVRnlkUTg5UkVUY0RQUV84LUYxTlo4b00xRE1BYlFlWGY0eVh5MGZZMGNXWXRyY2N6RG80ejExRnFpMXZBTW9ZZ05OTWIwX2dnWVkxSHVaNUdMVGN3TDR2aVp5N1o0dGptOUhHQ0FaNmYzSXRuMU5rSWUzNkg1eFRhbWtqd0loUE1JRXZqQnVOWnBjVnZVS2NoMUx0ZGZx?oc=5",
       "publishedAt": "Tue, 14 Jul 2026 07:00:00 GMT",
-      "summary": "Mitsubishi bán mạnh nhất top 10 xe xăng dầu nửa đầu 2026 ở Việt Nam Báo Tuổi Trẻ",
+      "summary": "Mitsubishi bán mạnh nhất top 10 xe xăng dầu nửa đầu 2026 ở Việt Nam Tuổi Trẻ",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4219,22 +4251,6 @@
       "categories": []
     },
     {
-      "id": "google_news_a124a5c0d7",
-      "source": "xehay.vn",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Mitsubishi Việt Nam ưu đãi tháng 7/2026: Xpander, Xforce, Triton được hỗ trợ 100% lệ phí trước bạ",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFNlU2RaSWxzN1VnYWRvVEF4QWdNR2QteFFsQnpaaGpGenlKQlp3YnNjckYwV3NWbUpJbWstckJJc3gxMVRzYjI4TGp1UnpmTWNrdVZRc085NlNmWUUyNlB0NHAwcHYyaFdKOF8weTNBUlhwTUxiLWVWWFpOSnYyRlFFUTRMb0FNNTllQ2sweEVHZWV5LUctd21OSF9LNDhpQURXeDBNT2dSbEtTV3A2VGIxT1BQZw?oc=5",
-      "publishedAt": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Việt Nam ưu đãi tháng 7/2026: Xpander, Xforce, Triton được hỗ trợ 100% lệ phí trước bạ xehay.vn",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": []
-    },
-    {
       "id": "google_news_c309e501d3",
       "source": "Tuoi Tre News | The News Gateway to Vietnam",
       "sourceCategory": "googlenews",
@@ -4298,13 +4314,13 @@
     },
     {
       "id": "google_news_3221183de2",
-      "source": "vnexpress.net",
+      "source": "VnExpress",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi, Suzuki, Yamaha công bố các dòng xe đều tương thích với xăng E10",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZEZjMU44cFVaa3p0akFodmJkRXhwZW9mcmhLRlZiWF85RlVadnFLNGs4QjREeWh2NUhfeEkzWnI3UC1SX191U0NtenNaVnJMSnpqUG5xREtxQnlaRll3ekc2LUg1YVh4a2otTkt5NzkwMVZNeEJVQ19md0xmWHNKYS1rcWZseDBLYmxxLV82RzZxS2ZBU0Vqa1RZNGFoSEUtdHJSU0tFUTlHVTFa?oc=5",
       "publishedAt": "Sun, 31 May 2026 07:00:00 GMT",
-      "summary": "Mitsubishi, Suzuki, Yamaha công bố các dòng xe đều tương thích với xăng E10 vnexpress.net",
+      "summary": "Mitsubishi, Suzuki, Yamaha công bố các dòng xe đều tương thích với xăng E10 VnExpress",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4474,13 +4490,13 @@
     },
     {
       "id": "google_news_517b09df60",
-      "source": "Enerdata",
+      "source": "enerdata.net",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Vietnam inaugurates 1.32 GW Vung Ang II coal-fired power plant",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbGoyanRaQUlwZzJubDNUSmhxb1d1WjZNcEpiMUEtbVZ2bEROYXRjZVFUTzA3dDhPMzhBNjNfNUM4SC1yajRjOV9pbWhHM0syVE50eE9xV2QwYXU1VGFHQWRZNThydGxheFFHRmkyRjliLWh6WmxjRWxNSGN6SHJlWHFJdTFKNUZVSkhmQTNQV1JqQTBhU0hqc09jcDQyVEhSbGI3Z3B3TlFFLVBGcVFlYkNkY1pBUmJ5WGF0c1pBOA?oc=5",
       "publishedAt": "Wed, 22 Apr 2026 07:00:00 GMT",
-      "summary": "Vietnam inaugurates 1.32 GW Vung Ang II coal-fired power plant Enerdata",
+      "summary": "Vietnam inaugurates 1.32 GW Vung Ang II coal-fired power plant enerdata.net",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [],
@@ -4537,43 +4553,6 @@
       ]
     },
     {
-      "id": "google_news_ff26c5a434",
-      "source": "Báo Tuổi Trẻ",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Mitsubishi Xforce dự kiến nâng cấp ở Việt Nam: Thêm bản hybrid, camera 360 đấu Toyota Yaris Cross?",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSzNNbUlyR2t1YlhLb2pOTE9qVUYtbGthSnZCS3k3WkFPS1JQYm5VZ3ZhUUNNSzdrSktUUnRpQWlWZ0Q2Y0VtbFdXSUppZWwwTXE2ZVdKWkJRd3NVMnF2YmJWZGVkMEdHOUNKVnU3Q3BacDJJemY1WTRSWVpzbzhqNjg0SHpPdDMxV19OOFBxZEU1TXNWZEF6dzlESEU5cENhRmdHRnN3ZWExY0thX1ZkNWR5SmctYUlENDZ6TDc0NmV4RVdJbXZhWTlvWG9WMXJ0SXc?oc=5",
-      "publishedAt": "Sat, 11 Apr 2026 07:00:00 GMT",
-      "summary": "Mitsubishi Xforce dự kiến nâng cấp ở Việt Nam: Thêm bản hybrid, camera 360 đấu Toyota Yaris Cross? Báo Tuổi Trẻ",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi",
-        "Toyota"
-      ],
-      "categories": [
-        "HEV"
-      ]
-    },
-    {
-      "id": "google_news_e449f34ae4",
-      "source": "autopro.com.vn",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Rộ tin Mitsubishi Xforce sắp nâng cấp tại Việt Nam: Ngoại thất có thể tinh chỉnh, nếu thêm hybrid, cần số điện tử, camera 360 sẽ làm khó Yaris Cross",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNenNiZXVVNWJBTnZOdjhmQ01WSlc4SnhuMkx6aXI1NFJxOUxvSDlWLTFPMU1qU2IwTE5PenJpZ29KZFFiLTFER2JZWUNjcjg2bm9vTUhhY3NodWhmLUgtbTBGWjhhWFVjN1Zqdmo2VkUyaHVOZlZJeHpXeXZQaVNxczBFQUo4bEVTdDdFLVBIQ2Y2RE9meEZoYW1DMTJzWW1KSFJZQldzdFB3YW9VTjRlQ0xtQ3BzeWZFcEktaC1McWlqVHpSWGtHUXBhOVg0Uml6ZjFiSjM5SjlLOURaV2hWRTgtTFNzdE1JeDUzdmNBZkZZUy0tQkdaMUxtRFl3V3BXREtJajZGbEZ1LU0tcDd6WkwwaGt2QWtRVFE?oc=5",
-      "publishedAt": "Sat, 11 Apr 2026 07:00:00 GMT",
-      "summary": "Rộ tin Mitsubishi Xforce sắp nâng cấp tại Việt Nam: Ngoại thất có thể tinh chỉnh, nếu thêm hybrid, cần số điện tử, camera 360 sẽ làm khó Yaris Cross autopro.com.vn",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": [
-        "HEV"
-      ]
-    },
-    {
       "id": "autopro_9bddec5226",
       "source": "AutoPro",
       "sourceCategory": "specialty",
@@ -4625,13 +4604,13 @@
     },
     {
       "id": "google_news_08ae4ff334",
-      "source": "Báo Tuổi Trẻ",
+      "source": "Tuổi Trẻ",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Lần đầu Mitsubishi làm dã ngoại quy mô lớn tại Việt Nam: 2 ngày 1 đêm miễn phí có điều kiện",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPXzU2VUI0YTJvXzlyX3dKNVRWMkQ0MjVldnNHckFtaVg0cHVsaERpOGFWc0hJWTBZSFZUQ1h5b1BHRE95OXNjVjRfY3lJOU9iaC1zZXpMeDFlYl8ydk5wYVhDYXVrTTlPQU5oWjIxQnFINFRLZ1RBNEJJWHRKUGZtY0NUdTZzeWVEU0lpN2YwYm9ZNE1ZSjBpX0h1YVZLQVV1UGRlcXZzaHpGY2FxRUNnSHY0UXlvZ0l3S29XRUtaZ0x6NkNrbUxWY0lJUQ?oc=5",
       "publishedAt": "Mon, 09 Mar 2026 07:00:00 GMT",
-      "summary": "Lần đầu Mitsubishi làm dã ngoại quy mô lớn tại Việt Nam: 2 ngày 1 đêm miễn phí có điều kiện Báo Tuổi Trẻ",
+      "summary": "Lần đầu Mitsubishi làm dã ngoại quy mô lớn tại Việt Nam: 2 ngày 1 đêm miễn phí có điều kiện Tuổi Trẻ",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4750,13 +4729,13 @@
     },
     {
       "id": "google_news_afa8e6b372",
-      "source": "vnexpress.net",
+      "source": "VnExpress",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Doanh số Mitsubishi năm 2025 tăng 7%, điểm sáng Xforce và Xpander",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObTdvUlNEam9GN0VmRTZ3SENGakFqdTB1dTNWdUJvcDQ5U3E2Ukhxc0s2UnF6X18yYkZCUXp4dkE2ckF3ekg5Y3hQejhDNFNtb2VGTG41S3IwVlZ6eHlHSFhua2c5Q3pUV1VSM2hCYmU0em5IaGlVMHc0S0xWMXhjVUlPdEdOQko1emZlR0EycS1EeVJycXhCdFJvUVZJMGs?oc=5",
       "publishedAt": "Tue, 20 Jan 2026 08:00:00 GMT",
-      "summary": "Doanh số Mitsubishi năm 2025 tăng 7%, điểm sáng Xforce và Xpander vnexpress.net",
+      "summary": "Doanh số Mitsubishi năm 2025 tăng 7%, điểm sáng Xforce và Xpander VnExpress",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -4837,22 +4816,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMnJ5MnVnYUVzenVmYUR0Qzh3S09lbXoxdVhaVkxNUDc5SkwwNjE3WFkydnZ0bllBZ0pHRWNWZlZ5VEI1NVdXNXFYUFVhaGo2ZHR3MFRReWg1YWJ5ZW1Sa0ZlM0xmRFZFaExHNWl3UkRaVGhCcThLX2diT0I5NGVmSzhnTmo?oc=5",
       "publishedAt": "Wed, 03 Dec 2025 08:00:00 GMT",
       "summary": "Mitsubishi Motors Launches the All-New Destinator in Vietnam mitsubishi-motors.com",
-      "thumbnail": "",
-      "vehicleType": "unknown",
-      "makers": [
-        "Mitsubishi"
-      ],
-      "categories": []
-    },
-    {
-      "id": "google_news_9aa321f559",
-      "source": "Tạp chí điện tử Thương Trường",
-      "sourceCategory": "googlenews",
-      "sourceTag": "RSS",
-      "title": "Xu hướng mới của Mitsubishi Motor Việt Nam: Chuyển hướng nhập khẩu, chấp nhận từ bỏ lợi thế và ưu đãi lắp ráp trong nước",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcHlDT1Jxc3RLdDZtNXB5a0laUnNka0JMMUN6clZmZ2NxSUx6VU1ISVd5eW5IMktTTll5SWpvOFFpS25fNXhJZTZnM0E5OEpGMEYwM01Kd0hMb0pqeWtRb1Y5Qi1fakgwQ0pqNkhmNy1GSWswMUhvNUxHVDRLc2I4QUg5X2l0SUM0ODNKYUZVSUhUeWx0cW0zZzZPMGl1NmE3VWhxUXAwb1h0SUpCd0JqZHM5aW15VG5qdGVlZlFJd2MzU1pEOUhxbVZDa2dLN1ZzY1JvaDFXNWpvejRlOWRXV1drcUI0NjRDa2tmVTRRN0JFRW42TkE?oc=5",
-      "publishedAt": "Sun, 30 Nov 2025 08:00:00 GMT",
-      "summary": "Xu hướng mới của Mitsubishi Motor Việt Nam: Chuyển hướng nhập khẩu, chấp nhận từ bỏ lợi thế và ưu đãi lắp ráp trong nước Tạp chí điện tử Thương Trường",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
@@ -5002,13 +4965,13 @@
     },
     {
       "id": "google_news_4463b0c166",
-      "source": "Enerdata",
+      "source": "enerdata.net",
       "sourceCategory": "googlenews",
       "sourceTag": "RSS",
       "title": "Mitsubishi Power joins development of Vietnam’s 1.2 GW O Mon 4 project",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNXlPZ2dUcVZlVnBwNW5Yb3pSNzJjM2M5V204TmdSZGF6c0VPX3dKVVpOUDRjR2xYV3RMc1dzc1QwTC1hUEFEcENWaFdiUEd6V3BPdXZvc01ZYVZwR3RzMEx3TmhKYUJEUVJKa1FBLXlMLTR6ZlY3SXRUeVZiVm9XYktXU2p1Z2pkSEpyNHYzU1Yxa0t0d0tFc0FSdkd2YWhNWkEwTHdzalNvQUpJNEFoWXlGNllWWjV4eV9fWXp2VGd5WnFW?oc=5",
       "publishedAt": "Wed, 10 Sep 2025 07:00:00 GMT",
-      "summary": "Mitsubishi Power joins development of Vietnam’s 1.2 GW O Mon 4 project Enerdata",
+      "summary": "Mitsubishi Power joins development of Vietnam’s 1.2 GW O Mon 4 project enerdata.net",
       "thumbnail": "",
       "vehicleType": "unknown",
       "makers": [
